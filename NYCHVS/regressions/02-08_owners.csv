@@ -1,0 +1,2635 @@
+value,bdrms,condition,coopcond,elevator,agperswt,subboroughname,race,year,income_tile,non_bdrms
+800000,3,2,3,1,33349349,Upper East Side,White,2002,5,1
+40000,3,2,3,1,47855188,Chelsea/Clinton/Midtown,White,2002,2,1
+500000,3,2,3,1,52243573,Upper East Side,White,2002,1,1
+600000,3,2,3,1,85071912,Upper West Side,White,2002,5,2
+1957402,3,2,1,2,49324439,Greenwich Village/Financial District,White,2002,5,5
+1957402,5,2,3,1,114010868,Upper East Side,White,2002,5,3
+800000,4,1,3,1,74603958,Upper West Side,White,2002,5,3
+300000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,3,1
+650000,3,2,3,1,66982232,Upper West Side,White,2002,5,1
+400000,2,8,3,1,49324439,Greenwich Village/Financial District,White,2002,5,1
+93000,1,2,3,1,18011276,Morningside Heights/Hamilton Heights,White,2002,2,0
+11000,2,2,3,1,16050110,Greenwich Village/Financial District,White,2002,2,0
+400000,3,2,3,1,19299293,Upper East Side,White,2002,1,2
+300000,3,2,3,1,21923910,Upper West Side,White,2002,4,1
+250000,3,2,3,1,21996002,Lower East Side/Chinatown,White,2002,1,1
+100000,3,1,3,1,21996002,Lower East Side/Chinatown,White,2002,1,1
+160000,1,2,3,1,38002220,Upper West Side,White,2002,4,0
+800000,4,2,3,1,76176262,Upper East Side,White,2002,5,1
+1957402,3,2,2,1,94679760,Upper West Side,White,2002,3,1
+1957402,4,2,3,1,86414054,Upper East Side,White,2002,5,2
+1957402,4,2,2,1,29179285,Stuyvesant Town/Turtle Bay,White,2002,5,0
+500000,2,2,2,1,24662220,Greenwich Village/Financial District,White,2002,1,2
+100000,3,2,3,1,71596834,Upper West Side,Others,2002,4,1
+13900,2,3,3,1,37380912,Chelsea/Clinton/Midtown,White,2002,3,1
+375000,2,2,3,1,20916064,Upper East Side,White,2002,3,1
+300000,3,3,3,1,20326285,Lower East Side/Chinatown,Hispanic,2002,1,1
+600000,5,2,3,1,85821019,Upper West Side,White,2002,4,3
+250000,3,2,3,1,59379806,Greenwich Village/Financial District,White,2002,5,2
+375000,6,2,1,2,56303854,Central Harlem,White,2002,5,2
+1957402,4,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,4
+1957402,4,2,3,1,38002220,Upper West Side,White,2002,5,2
+500000,3,2,2,1,55798180,Upper East Side,White,2002,4,1
+540000,4,2,3,1,19299293,Upper East Side,White,2002,1,2
+250000,2,2,3,1,19700469,Lower East Side/Chinatown,White,2002,4,1
+250000,2,2,3,1,34617463,Morningside Heights/Hamilton Heights,White,2002,4,1
+400000,2,2,3,1,33349349,Upper East Side,Others,2002,5,1
+700000,3,2,3,1,49367071,Stuyvesant Town/Turtle Bay,White,2002,5,3
+20000,2,2,3,1,17064138,East Harlem,Black,2002,3,1
+265000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,1
+1957402,4,2,3,2,49324439,Greenwich Village/Financial District,White,2002,5,2
+200000,1,2,3,1,21923910,Upper West Side,White,2002,1,0
+300000,3,2,3,1,44581982,Upper West Side,White,2002,2,2
+300000,3,2,3,1,42499189,Central Harlem,Black,2002,5,0
+325000,2,2,3,1,21331930,Greenwich Village/Financial District,White,2002,5,2
+450000,2,2,2,1,19299293,Upper East Side,White,2002,4,2
+500000,2,2,3,2,21923910,Upper West Side,White,2002,3,1
+350000,4,2,3,1,61164061,Lower East Side/Chinatown,White,2002,4,1
+25000,3,2,3,1,19506173,Central Harlem,Black,2002,1,1
+1957402,2,2,2,1,33517613,Chelsea/Clinton/Midtown,White,2002,5,3
+670000,2,2,3,1,43847820,Upper West Side,Others,2002,4,1
+1957402,2,2,2,1,37380912,Chelsea/Clinton/Midtown,White,2002,5,2
+450000,2,2,3,1,37380912,Chelsea/Clinton/Midtown,White,2002,5,1
+150000,2,2,3,1,67731339,Upper West Side,White,2002,4,1
+1957402,1,2,3,1,41832127,Upper East Side,White,2002,5,0
+200000,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,0
+500000,3,2,3,1,16674675,Upper East Side,White,2002,2,1
+150000,2,2,3,1,19299293,Upper East Side,White,2002,3,2
+500000,3,2,3,1,19299293,Upper East Side,White,2002,2,2
+350000,2,2,3,1,59704364,Upper West Side,White,2002,5,2
+200000,2,2,3,1,19683906,Upper East Side,White,2002,5,0
+600000,5,2,3,1,94679760,Upper West Side,White,2002,4,2
+1957402,4,2,3,1,21923910,Upper West Side,White,2002,3,2
+425000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,2
+180000,1,2,3,1,16674675,Upper East Side,White,2002,3,0
+500000,2,2,3,1,40792341,Upper East Side,White,2002,5,1
+120000,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,2,0
+350000,2,2,2,1,18690456,Chelsea/Clinton/Midtown,White,2002,2,1
+300000,2,2,3,1,21923910,Upper West Side,White,2002,2,1
+350000,1,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,0
+1957402,4,2,3,1,79268984,Upper East Side,White,2002,5,4
+150000,2,2,3,1,21056935,Washington Heights/Inwood,White,2002,1,1
+400000,2,2,3,1,48037524,Chelsea/Clinton/Midtown,White,2002,4,1
+500000,3,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,1
+375000,2,2,3,1,36240009,Stuyvesant Town/Turtle Bay,White,2002,4,1
+600,4,2,3,1,43878318,Central Harlem,Hispanic,2002,2,1
+200000,2,2,3,1,20144178,Upper West Side,White,2002,1,1
+350000,3,2,3,1,111403942,Greenwich Village/Financial District,White,2002,4,1
+500000,2,2,3,1,33349349,Upper East Side,White,2002,1,1
+935000,3,2,2,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,2
+350000,2,2,3,1,23552681,Greenwich Village/Financial District,White,2002,4,1
+800000,2,2,2,1,21923910,Upper West Side,White,2002,4,1
+275000,1,2,3,1,33349349,Upper East Side,White,2002,5,1
+500000,2,2,3,1,21923910,Upper West Side,White,2002,4,2
+800000,3,2,2,1,33349349,Upper East Side,Others,2002,5,0
+10000,3,2,3,1,50822808,Morningside Heights/Hamilton Heights,Black,2002,4,1
+1957402,4,2,3,1,38002220,Upper West Side,White,2002,5,1
+275000,5,2,3,1,19299293,Upper East Side,Others,2002,2,3
+300000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,4,0
+375000,2,2,2,1,24662220,Greenwich Village/Financial District,Others,2002,2,1
+500000,3,2,3,1,19299293,Upper East Side,White,2002,5,1
+1957402,5,2,3,1,44945177,Upper East Side,White,2002,5,3
+250000,2,2,3,2,71059718,Lower East Side/Chinatown,White,2002,3,1
+1957402,4,2,3,1,38002220,Upper West Side,White,2002,5,4
+275000,2,2,3,1,19299293,Upper East Side,White,2002,5,2
+800000,4,2,3,1,19299293,Upper East Side,White,2002,4,3
+350000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,3,1
+40000,2,2,3,1,42470836,Lower East Side/Chinatown,Hispanic,2002,3,1
+1957402,4,2,3,1,19299293,Upper East Side,White,2002,2,4
+20000,2,2,3,1,14870327,East Harlem,Black,2002,2,1
+350000,3,2,3,1,37013443,Upper West Side,White,2002,5,2
+300000,4,2,3,1,106295113,Upper West Side,White,2002,5,2
+700000,3,2,3,1,38002220,Upper West Side,White,2002,5,1
+180000,2,2,3,1,65346308,Upper East Side,Others,2002,5,0
+670000,3,2,2,1,89163964,Upper West Side,White,2002,5,0
+150000,1,2,3,1,19299293,Upper East Side,White,2002,3,1
+250000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,1
+200000,4,2,3,1,45370133,Central Harlem,Black,2002,3,2
+400000,2,2,3,1,21923910,Upper West Side,White,2002,3,2
+500000,3,2,3,1,61818277,Upper East Side,White,2002,5,1
+6000,3,2,3,1,57147449,Central Harlem,Black,2002,1,2
+100000,3,2,3,1,18011276,Morningside Heights/Hamilton Heights,White,2002,2,1
+400000,2,2,3,1,19683906,Upper East Side,White,2002,4,1
+300000,3,2,3,1,47655060,Upper West Side,Black,2002,3,1
+650000,3,2,2,1,55505937,Greenwich Village/Financial District,White,2002,2,2
+1957402,3,2,2,1,42663860,Upper West Side,White,2002,5,3
+1957402,3,2,3,1,17793823,Stuyvesant Town/Turtle Bay,White,2002,5,5
+1957402,2,2,3,1,19299293,Upper East Side,White,2002,2,1
+700000,2,2,3,1,38002220,Upper West Side,White,2002,4,1
+750000,3,2,3,1,33349349,Upper East Side,White,2002,5,2
+450000,2,2,2,1,38002220,Upper West Side,White,2002,5,1
+200000,1,2,3,2,40304894,Chelsea/Clinton/Midtown,Hispanic,2002,2,0
+200000,3,2,3,1,66758680,Upper East Side,White,2002,4,2
+500000,4,2,3,1,19299293,Upper East Side,White,2002,2,3
+200000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,Hispanic,2002,2,1
+220000,1,2,2,1,18506721,Upper West Side,Others,2002,3,0
+600000,3,2,3,1,38002220,Upper West Side,White,2002,5,1
+400000,2,2,3,1,19299293,Upper East Side,White,2002,3,2
+140000,3,2,3,1,34617463,Morningside Heights/Hamilton Heights,Black,2002,5,1
+13500,3,2,3,1,99417335,Morningside Heights/Hamilton Heights,Hispanic,2002,2,1
+100000,3,2,3,2,16690563,Central Harlem,Black,2002,3,1
+670000,4,2,3,1,21923910,Upper West Side,White,2002,4,1
+300000,2,2,3,1,68462861,Stuyvesant Town/Turtle Bay,White,2002,4,0
+450000,3,2,3,1,49324439,Greenwich Village/Financial District,White,2002,4,2
+500000,4,2,3,2,127990822,Lower East Side/Chinatown,White,2002,5,2
+250000,2,2,2,1,100106074,Greenwich Village/Financial District,Others,2002,5,1
+220000,1,2,3,1,19299293,Upper East Side,White,2002,3,0
+300000,2,2,3,1,19700469,Lower East Side/Chinatown,White,2002,2,1
+100000,2,2,3,1,43847820,Upper West Side,White,2002,5,1
+1957402,5,2,2,1,22672790,Greenwich Village/Financial District,White,2002,3,3
+200000,3,2,3,1,42128070,Lower East Side/Chinatown,White,2002,2,1
+10000,3,2,3,1,34617463,Morningside Heights/Hamilton Heights,Black,2002,4,2
+200000,3,2,3,1,40374357,Lower East Side/Chinatown,White,2002,5,1
+200000,3,2,3,1,14870327,Central Harlem,Black,2002,2,2
+800000,4,2,3,1,38002220,Upper West Side,White,2002,5,2
+1957402,3,2,3,1,38002220,Upper West Side,White,2002,5,1
+200000,2,2,3,1,20152447,Chelsea/Clinton/Midtown,White,2002,3,1
+527000,2,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,1
+200000,3,2,3,1,23552681,Greenwich Village/Financial District,White,2002,3,1
+650000,2,2,3,1,21923910,Upper West Side,White,2002,5,1
+1957402,4,2,3,1,107136120,Upper East Side,Hispanic,2002,5,4
+500000,2,2,3,1,33349349,Upper East Side,White,2002,5,0
+600,4,2,3,1,19506173,Central Harlem,Black,2002,1,1
+252000,2,2,3,1,16050110,Greenwich Village/Financial District,White,2002,3,1
+1957402,4,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,1
+450000,2,2,2,1,20396170,Chelsea/Clinton/Midtown,White,2002,5,1
+300000,2,2,3,1,36240009,Stuyvesant Town/Turtle Bay,White,2002,5,1
+750000,2,2,3,1,23552681,Greenwich Village/Financial District,White,2002,2,2
+260000,2,2,2,1,21923910,Upper West Side,White,2002,4,1
+125000,1,2,3,1,19299293,Upper East Side,Others,2002,3,1
+350000,2,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,2,0
+500000,2,2,2,1,17911474,Chelsea/Clinton/Midtown,White,2002,2,1
+180000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+400000,3,2,3,1,33349349,Upper East Side,White,2002,4,1
+275000,2,2,3,1,16674675,Upper East Side,White,2002,3,1
+425000,2,2,2,1,61134569,Upper East Side,White,2002,5,1
+200000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+90000,2,2,3,1,21923910,Upper West Side,White,2002,1,0
+300000,2,2,3,1,19299293,Upper East Side,White,2002,3,1
+935000,3,2,2,1,27752968,Chelsea/Clinton/Midtown,White,2002,5,1
+450000,2,2,3,1,79969347,Chelsea/Clinton/Midtown,White,2002,4,1
+350000,2,2,3,1,21923910,Upper West Side,White,2002,3,1
+125000,1,2,3,2,18120005,Stuyvesant Town/Turtle Bay,White,2002,2,0
+100000,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,2
+160000,3,2,3,1,21923910,Upper West Side,White,2002,2,1
+150000,2,2,3,1,18011276,Washington Heights/Inwood,White,2002,2,1
+675000,3,2,3,2,33349349,Upper East Side,White,2002,3,1
+200000,3,2,2,1,14870327,Central Harlem,Black,2002,3,1
+550000,3,2,3,1,70213228,Upper West Side,Others,2002,4,2
+325000,3,2,3,1,48110895,Lower East Side/Chinatown,Black,2002,4,1
+500000,2,2,3,1,38691316,Upper West Side,White,2002,5,1
+1957402,3,2,2,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,1
+8000,3,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,4,2,3,1,49367071,Stuyvesant Town/Turtle Bay,White,2002,5,4
+160000,1,2,3,1,21923910,Upper West Side,White,2002,3,0
+1957402,3,2,3,1,16758807,Upper East Side,White,2002,5,2
+200000,2,2,1,2,38002220,Upper West Side,Hispanic,2002,3,0
+500000,2,2,3,1,19299293,Upper East Side,White,2002,1,1
+280000,2,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,2
+85000,2,2,3,1,45548749,Central Harlem,Black,2002,2,1
+33900,1,2,3,1,23552681,Greenwich Village/Financial District,White,2002,5,0
+325000,2,2,3,1,36240009,Stuyvesant Town/Turtle Bay,White,2002,4,1
+1957402,3,2,3,1,42128070,Lower East Side/Chinatown,White,2002,5,1
+900000,3,2,3,1,33349349,Upper East Side,White,2002,3,4
+500000,3,2,2,1,30403390,Upper East Side,White,2002,3,1
+10000,1,8,3,1,42259552,Morningside Heights/Hamilton Heights,White,2002,1,0
+30000,3,2,3,1,33381125,East Harlem,Hispanic,2002,1,1
+329000,2,2,3,1,19671842,Stuyvesant Town/Turtle Bay,White,2002,5,1
+300000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+10000,4,2,3,1,45842865,Stuyvesant Town/Turtle Bay,White,2002,4,1
+500000,2,2,2,1,24662220,Greenwich Village/Financial District,White,2002,5,1
+250000,2,2,3,1,33349349,Upper East Side,White,2002,4,1
+300000,2,2,2,1,21923910,Upper West Side,Others,2002,2,1
+600000,3,2,3,1,69991069,Upper West Side,White,2002,2,1
+610000,2,2,2,1,113474835,Upper East Side,Others,2002,5,2
+375000,2,2,3,1,33349349,Upper East Side,White,2002,4,1
+350000,2,2,2,1,133310121,Chelsea/Clinton/Midtown,Others,2002,5,0
+10000,4,2,3,1,114768039,Central Harlem,Black,2002,3,1
+550000,3,2,3,1,66982232,Upper West Side,White,2002,5,1
+350000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,0
+13900,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,1,0
+200000,1,2,3,1,43095920,Upper East Side,White,2002,3,0
+300000,2,2,3,1,19683906,Upper East Side,Others,2002,2,1
+350000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+225000,2,2,3,1,47105363,Greenwich Village/Financial District,White,2002,4,0
+10000,2,2,3,1,40646272,Morningside Heights/Hamilton Heights,Black,2002,3,1
+1957402,4,2,3,1,97207929,Greenwich Village/Financial District,White,2002,5,2
+200000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,0
+325000,2,2,2,1,18805791,Upper East Side,Others,2002,5,1
+300000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,5,2,3,1,33517613,Greenwich Village/Financial District,White,2002,5,1
+350000,1,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,0
+1957402,3,2,3,1,33349349,Upper East Side,White,2002,5,4
+17500,2,2,3,1,18011276,Washington Heights/Inwood,White,2002,1,2
+350000,3,2,3,1,33349349,Upper East Side,White,2002,5,1
+1957402,5,2,2,1,69008860,Stuyvesant Town/Turtle Bay,White,2002,5,2
+250000,2,2,2,1,18690456,Chelsea/Clinton/Midtown,Others,2002,3,1
+400000,2,2,3,1,21923910,Upper West Side,White,2002,4,1
+1957402,3,2,3,1,107795603,Upper West Side,White,2002,4,3
+1957402,3,2,3,1,38002220,Upper West Side,White,2002,2,3
+1957402,3,2,2,1,88036004,Greenwich Village/Financial District,White,2002,5,1
+1957402,2,2,3,1,16674675,Upper East Side,White,2002,5,3
+1957402,3,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,3
+300000,3,2,3,1,38598587,Upper East Side,White,2002,5,1
+600000,4,2,3,1,21923910,Upper West Side,White,2002,5,2
+200000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,3,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,1
+150000,2,2,3,1,22672790,Chelsea/Clinton/Midtown,White,2002,1,1
+500000,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,2,1
+1957402,2,2,3,1,19671842,Stuyvesant Town/Turtle Bay,White,2002,3,0
+250000,2,2,3,1,19299293,Upper East Side,White,2002,3,1
+1957402,4,8,2,1,95385201,Chelsea/Clinton/Midtown,White,2002,3,1
+1957402,3,2,3,1,33349349,Upper East Side,White,2002,5,3
+600,4,2,3,1,140721044,Central Harlem,Black,2002,2,1
+700000,2,2,3,1,38598587,Upper East Side,White,2002,3,0
+670000,2,2,2,1,18506721,Upper West Side,White,2002,3,0
+300000,3,2,3,1,72446899,Upper East Side,White,2002,4,1
+20000,3,2,3,1,40311293,East Harlem,Black,2002,4,1
+600000,4,2,3,1,68888244,Upper West Side,White,2002,3,2
+100000,2,2,1,2,20396170,Central Harlem,Black,2002,2,2
+1957402,3,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,0
+350000,2,2,3,1,17911474,Chelsea/Clinton/Midtown,White,2002,4,1
+1957402,4,2,3,1,76859970,Upper East Side,White,2002,5,1
+200000,3,2,3,1,63645271,Stuyvesant Town/Turtle Bay,White,2002,5,1
+300000,2,2,3,1,18506721,Upper West Side,White,2002,2,1
+150000,2,2,3,1,20396170,Washington Heights/Inwood,White,2002,2,1
+450000,2,2,3,2,21923910,Upper West Side,White,2002,5,1
+875000,3,2,1,2,16690563,Central Harlem,Black,2002,1,2
+750000,3,2,3,1,19001110,Upper West Side,White,2002,3,2
+450000,2,2,3,1,38002220,Upper West Side,White,2002,4,1
+160000,1,2,2,1,23552681,Greenwich Village/Financial District,White,2002,3,0
+1957402,2,2,2,1,20152447,Chelsea/Clinton/Midtown,White,2002,1,1
+500000,3,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,3,1
+250000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,0
+1957402,3,2,3,1,40304894,Chelsea/Clinton/Midtown,Others,2002,3,3
+350000,3,2,3,1,49324439,Greenwich Village/Financial District,White,2002,4,1
+200000,4,2,2,1,115280134,Chelsea/Clinton/Midtown,White,2002,5,1
+135000,3,2,3,2,106969331,Central Harlem,Black,2002,2,1
+260000,1,2,3,1,38002220,Upper West Side,White,2002,4,0
+6650,4,2,3,1,77320914,East Harlem,Black,2002,2,1
+1957402,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,2,1
+20000,3,2,3,2,61164061,Lower East Side/Chinatown,Hispanic,2002,4,1
+370000,3,2,3,1,87097762,Upper East Side,White,2002,5,1
+1957402,3,2,3,1,19299293,Upper East Side,White,2002,5,4
+1957402,2,2,1,2,19299293,Upper East Side,White,2002,2,1
+350000,2,2,3,1,49324439,Greenwich Village/Financial District,White,2002,5,1
+200000,2,2,3,1,21923910,Upper West Side,White,2002,5,0
+320000,2,2,3,1,55605426,Greenwich Village/Financial District,Others,2002,3,1
+30000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,2,1
+1957402,3,2,2,1,18612303,Greenwich Village/Financial District,White,2002,3,1
+250000,1,2,3,1,24662220,Greenwich Village/Financial District,White,2002,4,0
+500000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,5,1
+250000,2,2,3,2,18690456,Chelsea/Clinton/Midtown,Others,2002,5,0
+210000,2,2,3,1,33517613,Chelsea/Clinton/Midtown,Others,2002,1,0
+650000,4,2,3,1,118547081,Upper East Side,White,2002,4,2
+325000,2,2,3,1,16250069,Greenwich Village/Financial District,White,2002,4,1
+500000,2,2,2,1,43847820,Upper West Side,White,2002,2,1
+350000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,4,1
+1957402,2,2,2,1,52394351,Upper East Side,White,2002,1,2
+11000,3,2,3,1,51150480,Greenwich Village/Financial District,White,2002,4,1
+160000,2,2,2,1,23552681,Greenwich Village/Financial District,White,2002,3,1
+250000,2,2,3,1,20916064,Greenwich Village/Financial District,White,2002,2,1
+375000,4,2,3,1,118517418,Upper East Side,White,2002,5,2
+400000,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+350000,2,2,2,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,0
+500000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,4,3
+250000,2,2,3,1,14870327,East Harlem,White,2002,4,1
+6650,5,2,3,1,65545497,East Harlem,Black,2002,2,1
+1957402,3,2,3,1,33349349,Upper East Side,White,2002,5,1
+200000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,1
+500000,2,2,3,1,19299293,Upper East Side,White,2002,5,1
+33900,1,2,3,1,16050110,Greenwich Village/Financial District,White,2002,3,0
+650000,3,2,3,1,52394351,Upper East Side,White,2002,5,3
+850000,3,2,3,1,32500138,Greenwich Village/Financial District,White,2002,5,3
+1957402,4,2,3,1,47105363,Greenwich Village/Financial District,White,2002,5,2
+375000,3,2,3,1,19299293,Upper East Side,White,2002,3,1
+1957402,3,2,3,1,93930653,Upper West Side,White,2002,5,3
+500000,2,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,3,1
+6650,3,2,3,1,69853038,East Harlem,Black,2002,2,2
+85000,2,2,3,1,56594156,Washington Heights/Inwood,Others,2002,4,0
+3500,3,2,3,1,19700469,Lower East Side/Chinatown,White,2002,1,1
+935000,3,2,2,1,16758807,Chelsea/Clinton/Midtown,White,2002,5,1
+1957402,4,2,3,1,33349349,Upper East Side,White,2002,3,4
+1957402,5,2,3,1,87097762,Upper East Side,White,2002,5,2
+220000,1,2,2,1,19700469,Lower East Side/Chinatown,White,2002,3,0
+4000,3,2,3,1,18014184,East Harlem,Black,2002,1,2
+500000,2,2,3,1,19299293,Upper East Side,White,2002,1,1
+1957402,4,2,3,1,67731339,Upper West Side,White,2002,5,3
+1957402,3,2,2,1,33349349,Upper East Side,White,2002,4,1
+190000,1,2,3,1,23552681,Greenwich Village/Financial District,White,2002,2,0
+425000,2,2,3,1,21923910,Upper West Side,White,2002,4,1
+700000,3,2,3,1,21923910,Upper West Side,White,2002,4,2
+375000,2,2,2,1,49324439,Greenwich Village/Financial District,White,2002,5,1
+500000,2,2,3,1,19299293,Upper East Side,White,2002,3,1
+100000,2,2,3,1,21923910,Upper West Side,White,2002,4,1
+200000,2,2,3,2,42470836,Lower East Side/Chinatown,White,2002,4,1
+300000,3,2,3,1,18011276,Morningside Heights/Hamilton Heights,White,2002,3,1
+400000,2,8,2,1,33349349,Upper East Side,Others,2002,4,1
+300000,4,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,4
+800000,3,2,3,1,71596834,Upper West Side,Others,2002,3,3
+750,3,2,2,1,18120005,Stuyvesant Town/Turtle Bay,Others,2002,5,2
+275000,2,2,2,1,19683906,Upper East Side,White,2002,3,0
+500000,3,2,2,1,17793823,Stuyvesant Town/Turtle Bay,White,2002,5,1
+275000,2,2,3,1,22931269,Stuyvesant Town/Turtle Bay,White,2002,3,1
+900000,3,2,3,1,16674675,Upper East Side,White,2002,1,2
+4000,3,2,3,1,17064138,East Harlem,Hispanic,2002,2,1
+6650,2,2,3,1,14870327,East Harlem,Black,2002,2,1
+100000,2,2,3,1,36022552,Washington Heights/Inwood,White,2002,1,0
+540000,2,2,3,1,16674675,Upper East Side,White,2002,3,1
+1957402,3,2,2,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,2
+1957402,2,2,2,1,47105363,Greenwich Village/Financial District,White,2002,4,1
+1957402,2,2,3,1,21923910,Upper West Side,White,2002,3,3
+120000,4,2,3,1,98293641,Morningside Heights/Hamilton Heights,Others,2002,5,1
+85000,3,2,3,1,14870327,Central Harlem,Black,2002,1,2
+1957402,5,2,3,1,33349349,Upper East Side,White,2002,5,3
+30000,3,2,3,1,53579323,Lower East Side/Chinatown,White,2002,3,1
+750000,2,2,3,1,19299293,Upper East Side,White,2002,3,1
+300000,3,2,3,1,99632669,Lower East Side/Chinatown,White,2002,2,1
+500000,3,2,3,1,49367071,Stuyvesant Town/Turtle Bay,White,2002,5,1
+150000,4,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,3,2
+1957402,3,2,1,2,38002220,Upper West Side,White,2002,5,3
+450000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,1
+2000,2,2,3,1,21939159,East Harlem,Hispanic,2002,1,1
+140000,3,8,3,2,22472588,Washington Heights/Inwood,Hispanic,2002,1,0
+350000,2,2,3,1,36538791,Upper East Side,White,2002,5,1
+100000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,0
+1957402,4,2,2,1,22472588,Upper East Side,White,2002,5,4
+500000,2,2,3,1,19299293,Upper East Side,White,2002,3,1
+325000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,1
+115000,1,2,3,1,19683906,Upper East Side,White,2002,3,0
+920000,2,2,3,1,19299293,Upper East Side,Others,2002,1,2
+800000,3,2,3,1,33349349,Upper East Side,White,2002,5,2
+1957402,3,2,3,1,19299293,Upper East Side,White,2002,1,3
+1957402,3,2,2,1,49367071,Stuyvesant Town/Turtle Bay,White,2002,5,0
+200000,2,2,2,1,14870327,Central Harlem,Black,2002,2,0
+165000,1,2,2,1,16758807,Central Harlem,Hispanic,2002,1,0
+150000,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,1,0
+250000,2,2,3,1,17793823,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,5,2,1,2,92693638,Upper West Side,White,2002,5,3
+100000,3,2,3,1,38002220,Upper West Side,White,2002,3,1
+18000,4,2,3,1,18011276,Washington Heights/Inwood,Black,2002,2,1
+20000,2,2,3,2,20187179,Lower East Side/Chinatown,Hispanic,2002,3,1
+85000,1,2,3,1,19299293,Upper East Side,Hispanic,2002,2,0
+250000,2,2,3,1,79529265,Chelsea/Clinton/Midtown,White,2002,4,1
+13900,4,2,3,1,106295113,Morningside Heights/Hamilton Heights,White,2002,2,1
+300000,3,2,3,1,42470836,Lower East Side/Chinatown,White,2002,3,1
+300000,2,2,3,1,19299293,Upper East Side,White,2002,3,2
+800000,2,2,3,1,21923910,Upper West Side,White,2002,5,1
+200000,2,2,3,1,88229905,Stuyvesant Town/Turtle Bay,White,2002,5,1
+8000,1,2,3,1,37028167,Lower East Side/Chinatown,Hispanic,2002,2,1
+425000,2,8,3,1,20396170,Stuyvesant Town/Turtle Bay,White,2002,5,2
+1957402,2,2,3,1,33349349,Upper East Side,White,2002,2,0
+500000,3,2,3,1,58079700,Upper East Side,White,2002,5,2
+50000,3,2,3,2,39400939,Lower East Side/Chinatown,Hispanic,2002,5,1
+85000,3,2,3,1,34617463,Morningside Heights/Hamilton Heights,Black,2002,5,2
+160000,1,2,3,1,21923910,Upper West Side,Others,2002,3,0
+800000,3,2,3,1,40033812,Upper West Side,White,2002,5,1
+1957402,3,2,3,1,33349349,Upper East Side,White,2002,4,2
+275000,2,2,3,2,47105363,Greenwich Village/Financial District,White,2002,5,0
+10000,2,2,3,1,39367812,Upper East Side,White,2002,5,1
+1957402,3,2,2,1,49324439,Greenwich Village/Financial District,White,2002,4,4
+210000,2,2,3,1,20916064,Chelsea/Clinton/Midtown,White,2002,4,1
+1957402,3,2,3,1,98932767,Upper West Side,White,2002,5,3
+320000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,1
+200000,1,2,3,1,19299293,Upper East Side,White,2002,4,0
+135000,4,2,3,2,74291596,Central Harlem,Black,2002,2,2
+500000,3,2,3,1,38002220,Upper West Side,White,2002,5,2
+400000,2,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,0
+700000,3,2,3,1,27752968,Upper West Side,White,2002,5,1
+275000,2,2,3,1,38002220,Upper West Side,White,2002,4,1
+300000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,1
+175000,2,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,5,1
+300000,2,2,3,2,21923910,Upper West Side,White,2002,4,0
+1957402,3,2,3,1,16674675,Upper East Side,White,2002,4,4
+170000,2,2,2,1,23552681,Greenwich Village/Financial District,White,2002,3,1
+300000,1,2,3,1,20396170,Upper West Side,White,2002,5,0
+500000,3,2,3,1,69069026,Upper East Side,White,2002,5,1
+1957402,4,2,3,1,95428866,Upper West Side,White,2002,5,1
+500000,2,2,2,1,21923910,Upper West Side,White,2002,4,1
+1957402,3,2,2,1,35587646,Stuyvesant Town/Turtle Bay,Black,2002,2,3
+243000,2,2,3,1,37611581,Upper East Side,White,2002,4,1
+150000,3,2,3,2,29740653,Central Harlem,Black,2002,4,1
+1957402,2,2,3,1,33349349,Upper East Side,White,2002,5,5
+240000,3,2,2,1,81870123,Morningside Heights/Hamilton Heights,White,2002,4,1
+700000,3,2,3,1,66982232,Upper West Side,White,2002,5,1
+300000,2,2,3,1,20916064,Upper East Side,White,2002,5,1
+350000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,0
+200000,1,2,3,1,23552681,Greenwich Village/Financial District,White,2002,1,0
+215000,2,2,3,1,14870327,East Harlem,White,2002,1,1
+670000,2,2,3,1,38002220,Upper West Side,White,2002,5,1
+750000,3,2,3,1,38002220,Upper West Side,White,2002,5,1
+250000,1,2,3,1,16674675,Upper East Side,White,2002,4,0
+1957402,4,2,3,1,21923910,Upper West Side,White,2002,5,2
+1957402,4,2,3,1,53049211,Upper East Side,White,2002,5,3
+600000,3,2,3,1,19299293,Upper East Side,White,2002,3,0
+700000,3,2,2,1,85730346,Upper East Side,White,2002,5,1
+650000,3,2,2,1,38002220,Upper West Side,White,2002,5,1
+1957402,4,2,3,1,87097762,Upper East Side,White,2002,5,2
+250000,3,2,3,1,42128070,Washington Heights/Inwood,Black,2002,4,1
+94000,3,2,3,1,79524317,Morningside Heights/Hamilton Heights,Others,2002,3,1
+300000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,3,2,2,1,76718073,Greenwich Village/Financial District,White,2002,5,2
+380000,2,2,2,1,19299293,Upper East Side,White,2002,4,1
+35000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,4,1
+600000,2,2,3,1,19299293,Upper East Side,White,2002,4,1
+1957402,4,2,2,1,24662220,Greenwich Village/Financial District,White,2002,5,4
+200000,2,2,3,1,56475969,East Harlem,White,2002,4,1
+200000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,2,0
+15000,3,2,3,1,20256133,Washington Heights/Inwood,White,2002,3,1
+85000,4,2,3,1,86784846,Central Harlem,Hispanic,2002,2,1
+525000,3,2,2,1,38002220,Upper West Side,White,2002,5,1
+200000,2,2,3,2,20144178,Upper West Side,White,2002,4,1
+500000,2,2,2,1,19299293,Upper East Side,White,2002,4,2
+20000,1,2,3,1,19506173,Central Harlem,Hispanic,2002,1,0
+12500,2,2,3,2,3515800,East Harlem,Black,2002,2,1
+1957402,5,2,3,1,137390585,Upper East Side,White,2002,5,3
+100000,2,2,3,1,17062623,Lower East Side/Chinatown,White,2002,1,1
+1957402,4,2,1,2,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,4
+270000,3,2,3,1,70486223,Morningside Heights/Hamilton Heights,White,2002,4,1
+280000,2,2,3,1,16050110,Greenwich Village/Financial District,White,2002,2,0
+375000,2,2,3,1,69008860,Stuyvesant Town/Turtle Bay,Hispanic,2002,2,1
+25000,3,2,3,1,38364619,Chelsea/Clinton/Midtown,Hispanic,2002,3,1
+150000,2,2,3,1,18011276,Washington Heights/Inwood,Hispanic,2002,1,1
+100000,3,2,3,1,16690563,East Harlem,Black,2002,2,1
+780000,3,2,3,1,33349349,Upper East Side,White,2002,4,2
+750000,3,2,3,1,18805791,Upper East Side,White,2002,5,0
+1957402,2,2,2,1,32100220,Greenwich Village/Financial District,White,2002,4,3
+650000,3,2,3,1,43847820,Upper West Side,White,2002,5,2
+225000,2,2,3,1,49324439,Greenwich Village/Financial District,White,2002,5,1
+400000,2,2,2,1,19299293,Upper East Side,White,2002,2,1
+1957402,3,2,3,1,111693540,Upper East Side,White,2002,5,4
+500000,4,2,3,1,115817501,Upper West Side,White,2002,4,2
+50000,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,3,0
+3000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,1,1
+350000,2,2,3,1,37013443,Upper West Side,Hispanic,2002,4,0
+1957402,5,2,3,1,64294184,Upper West Side,White,2002,5,3
+380000,3,2,3,1,17793823,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,3,2,2,1,107242066,Greenwich Village/Financial District,White,2002,5,2
+30000,4,2,3,2,103655374,Washington Heights/Inwood,Hispanic,2002,3,1
+280000,2,2,2,1,18690456,Chelsea/Clinton/Midtown,White,2002,5,1
+190000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,Hispanic,2002,3,1
+150000,1,2,3,1,19299293,Upper East Side,Others,2002,4,0
+750000,3,2,3,1,23552681,Greenwich Village/Financial District,White,2002,4,2
+99000,1,2,3,1,33349349,Upper East Side,White,2002,2,0
+650000,3,2,2,1,38002220,Upper West Side,White,2002,5,1
+1957402,3,2,2,1,33349349,Upper East Side,White,2002,5,2
+500000,3,2,2,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,2
+250000,2,2,3,1,18014184,East Harlem,White,2002,3,1
+1957402,3,2,3,1,33349349,Upper East Side,White,2002,5,2
+200000,2,2,3,1,22931269,Stuyvesant Town/Turtle Bay,White,2002,5,1
+85000,3,2,3,1,40792341,Central Harlem,Black,2002,4,3
+250000,2,2,3,1,40792341,Lower East Side/Chinatown,White,2002,5,1
+300000,2,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,1
+160000,2,2,3,1,20016906,Upper West Side,White,2002,2,1
+500000,3,2,3,1,18506721,Upper West Side,White,2002,3,2
+1957402,3,2,3,1,49324439,Greenwich Village/Financial District,White,2002,5,2
+250000,1,2,3,1,23552681,Greenwich Village/Financial District,White,2002,4,0
+600000,2,2,2,1,66982232,Upper West Side,White,2002,5,1
+500000,2,2,3,1,19683906,Upper East Side,White,2002,4,1
+1957402,6,2,3,2,116261373,Upper East Side,White,2002,5,2
+1957402,4,2,3,1,53049211,Upper East Side,White,2002,5,2
+300000,2,2,2,1,19671842,Stuyvesant Town/Turtle Bay,White,2002,3,1
+400000,2,2,2,1,19299293,Upper East Side,White,2002,3,1
+400000,3,2,2,1,19299293,Upper East Side,White,2002,5,1
+1957402,4,2,3,1,16674675,Upper East Side,White,2002,4,4
+1957402,3,2,3,1,21331930,Upper West Side,White,2002,5,1
+540000,3,2,3,1,38598587,Upper East Side,White,2002,2,1
+500000,3,2,3,1,19299293,Upper East Side,White,2002,4,1
+75000,3,2,3,2,38719118,Lower East Side/Chinatown,Hispanic,2002,3,1
+575000,2,2,2,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,2,1
+13500,3,2,3,1,18927104,Morningside Heights/Hamilton Heights,Hispanic,2002,1,1
+400000,2,2,2,1,20916064,Chelsea/Clinton/Midtown,White,2002,3,1
+50000,3,2,3,1,82730906,Central Harlem,Black,2002,1,2
+200000,1,2,3,1,24662220,Greenwich Village/Financial District,White,2002,4,0
+350000,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,1
+275000,2,2,3,2,21996002,Lower East Side/Chinatown,White,2002,1,1
+1957402,3,2,3,1,33349349,Upper East Side,White,2002,3,2
+400000,3,2,3,1,19671842,Stuyvesant Town/Turtle Bay,White,2002,5,1
+800000,3,2,3,1,61134569,Upper East Side,White,2002,5,3
+350000,2,2,3,1,23552681,Greenwich Village/Financial District,White,2002,3,0
+350000,2,2,3,2,19683906,Upper East Side,White,2002,1,1
+200000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,0
+150000,2,2,3,1,18011276,Washington Heights/Inwood,White,2002,5,1
+200000,1,2,3,1,16050110,Greenwich Village/Financial District,White,2002,3,1
+1957402,3,2,3,1,47227054,Stuyvesant Town/Turtle Bay,White,2002,5,3
+520000,2,2,2,1,33349349,Upper East Side,White,2002,5,0
+350000,3,2,3,1,100319249,Upper East Side,White,2002,5,1
+140000,2,2,3,1,20256133,Washington Heights/Inwood,White,2002,5,0
+100000,1,2,3,2,19700469,Lower East Side/Chinatown,White,2002,1,0
+700000,2,2,1,2,40374357,Lower East Side/Chinatown,White,2002,1,2
+1957402,4,2,3,1,53049211,Upper East Side,White,2002,5,2
+440000,2,2,2,1,37224607,Upper East Side,White,2002,5,0
+500000,1,2,3,1,49324439,Greenwich Village/Financial District,White,2002,4,0
+350000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,0
+150000,1,2,3,1,19299293,Upper East Side,White,2002,2,1
+200000,2,2,3,1,98844375,Lower East Side/Chinatown,White,2002,2,1
+500000,3,2,3,1,33349349,Upper East Side,White,2002,4,3
+1957402,2,2,3,1,99704485,Greenwich Village/Financial District,White,2002,5,1
+5000,3,2,3,1,18014184,East Harlem,Black,2002,1,1
+650000,2,2,3,1,49324439,Greenwich Village/Financial District,White,2002,4,1
+400000,2,2,3,1,16674675,Upper East Side,White,2002,4,2
+30000,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,1
+300000,3,2,2,1,45862537,Stuyvesant Town/Turtle Bay,White,2002,5,1
+300000,1,2,3,1,23552681,Greenwich Village/Financial District,White,2002,3,0
+40000,3,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,1,1
+1957402,4,2,3,1,67731339,Upper West Side,White,2002,5,2
+1957402,4,2,3,1,71750867,Upper West Side,White,2002,5,2
+300000,3,2,3,2,56390457,Central Harlem,Black,2002,4,1
+500000,2,2,2,1,16674675,Upper East Side,Hispanic,2002,2,1
+300000,2,2,2,1,41832127,Upper East Side,White,2002,5,0
+300000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,1,0
+300000,3,2,3,1,96752402,Lower East Side/Chinatown,Hispanic,2002,3,1
+265000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,1
+450000,2,2,3,1,19299293,Upper East Side,White,2002,3,1
+6650,2,2,3,1,16690563,East Harlem,Hispanic,2002,2,1
+500000,3,2,3,1,41832127,Stuyvesant Town/Turtle Bay,White,2002,4,2
+350000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,Others,2002,4,1
+430000,3,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,1
+800000,5,2,3,1,30934621,Stuyvesant Town/Turtle Bay,White,2002,5,2
+800000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,0
+150000,2,2,2,1,18690456,Chelsea/Clinton/Midtown,White,2002,2,0
+170000,2,2,3,1,16758807,Lower East Side/Chinatown,White,2002,1,1
+800000,3,2,3,1,36538791,Upper East Side,White,2002,4,2
+175000,2,2,3,1,38364619,Chelsea/Clinton/Midtown,White,2002,2,1
+450000,2,2,3,1,17793823,Stuyvesant Town/Turtle Bay,White,2002,3,1
+150000,2,2,3,1,21056935,Washington Heights/Inwood,White,2002,3,0
+100000,1,2,3,1,17793823,Stuyvesant Town/Turtle Bay,White,2002,4,0
+280000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,Hispanic,2002,5,1
+1957402,3,2,3,1,59704364,Upper West Side,White,2002,4,2
+700000,2,2,3,1,21923910,Upper West Side,White,2002,5,2
+300000,1,2,3,1,19299293,Upper East Side,White,2002,2,1
+65000,2,2,3,1,71854426,Lower East Side/Chinatown,White,2002,4,1
+60000,3,2,3,1,49324439,Greenwich Village/Financial District,White,2002,4,1
+1957402,3,2,3,1,33517613,Upper East Side,White,2002,5,1
+500000,3,2,3,1,76176262,Upper East Side,White,2002,5,1
+1957402,3,2,3,1,20144178,Upper West Side,White,2002,5,3
+600000,3,2,3,1,32100220,Greenwich Village/Financial District,Others,2002,5,0
+500000,3,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,2
+160000,2,2,2,1,19001110,Upper West Side,White,2002,3,0
+1957402,5,2,3,1,36538791,Upper East Side,White,2002,3,2
+85000,4,2,3,1,71695386,Morningside Heights/Hamilton Heights,White,2002,3,2
+900000,4,2,2,1,55549191,Stuyvesant Town/Turtle Bay,White,2002,5,3
+750000,1,2,3,1,62511792,Greenwich Village/Financial District,White,2002,4,0
+30000,3,2,3,1,65545497,East Harlem,Black,2002,3,1
+1957402,5,2,3,1,21923910,Upper West Side,White,2002,1,2
+150000,2,2,3,1,17578075,Washington Heights/Inwood,White,2002,4,0
+450000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,1
+150000,3,2,3,1,63016902,Washington Heights/Inwood,Hispanic,2002,3,1
+420000,2,2,2,1,42470836,Lower East Side/Chinatown,White,2002,5,0
+1957402,3,2,2,1,40288356,Upper West Side,White,2002,5,1
+300000,3,2,1,2,24791614,Washington Heights/Inwood,Others,2002,3,2
+700000,3,2,3,1,21923910,Upper West Side,White,2002,5,0
+175000,4,2,3,1,94040147,Morningside Heights/Hamilton Heights,Others,2002,3,2
+200000,1,2,3,1,47105363,Greenwich Village/Financial District,White,2002,5,0
+33900,2,2,3,1,32100220,Greenwich Village/Financial District,White,2002,5,1
+500000,1,2,3,1,19011903,Upper East Side,Black,2002,1,1
+150000,2,2,3,1,84856574,Upper West Side,Others,2002,2,1
+400000,2,2,2,1,19299293,Upper East Side,White,2002,5,1
+200000,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,3,1
+700000,3,2,3,1,75869573,Greenwich Village/Financial District,White,2002,5,2
+250000,3,2,3,1,73059933,Lower East Side/Chinatown,White,2002,3,1
+300000,3,2,3,1,114010868,Greenwich Village/Financial District,Hispanic,2002,5,1
+310000,2,2,3,1,40304894,Chelsea/Clinton/Midtown,White,2002,4,1
+25000,2,2,3,1,19506173,Central Harlem,Black,2002,1,2
+17000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,Others,2002,3,0
+12000,2,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,3,1
+1957402,4,2,2,1,33349349,Upper East Side,Others,2002,5,1
+500000,3,2,3,1,51580484,Upper East Side,White,2002,5,1
+125000,2,2,3,2,19671842,Stuyvesant Town/Turtle Bay,White,2002,5,0
+1957402,3,2,1,2,33349349,Upper East Side,White,2002,4,4
+900000,3,2,3,1,21923910,Upper West Side,White,2002,4,3
+85000,4,2,3,1,121324922,Morningside Heights/Hamilton Heights,Black,2002,4,1
+750000,3,2,3,1,39123506,Upper East Side,White,2002,5,4
+500000,2,2,3,1,23552681,Greenwich Village/Financial District,White,2002,3,1
+800000,3,2,3,1,106295113,Upper West Side,White,2002,5,1
+200000,2,2,2,1,17911474,Chelsea/Clinton/Midtown,White,2002,5,0
+125000,3,2,3,1,66724897,Washington Heights/Inwood,Hispanic,2002,2,1
+275000,2,2,3,1,39343684,Stuyvesant Town/Turtle Bay,White,2002,4,1
+350000,2,2,3,1,19700469,Lower East Side/Chinatown,White,2002,1,1
+180000,1,2,3,1,16674675,Upper East Side,White,2002,3,1
+200000,2,2,3,2,18690456,Chelsea/Clinton/Midtown,White,2002,5,0
+900000,3,2,2,1,19299293,Upper East Side,White,2002,3,2
+250000,2,2,3,1,19671842,Stuyvesant Town/Turtle Bay,White,2002,1,0
+800000,4,2,3,1,40033812,Upper West Side,White,2002,4,1
+390000,2,2,3,1,33349349,Upper East Side,White,2002,5,1
+1957402,3,2,2,1,33517613,Chelsea/Clinton/Midtown,White,2002,5,1
+1957402,3,2,2,1,79529265,Chelsea/Clinton/Midtown,Others,2002,4,1
+200000,2,2,3,1,31743913,Upper East Side,White,2002,4,1
+1957402,3,2,1,1,40033812,Upper West Side,White,2002,4,2
+600000,3,2,3,1,19299293,Upper East Side,White,2002,2,2
+1957402,4,2,2,1,19299293,Upper East Side,White,2002,5,2
+380000,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,Others,2002,2,0
+1957402,3,2,3,1,49324439,Greenwich Village/Financial District,White,2002,5,0
+1957402,2,2,3,1,19299293,Upper East Side,White,2002,5,2
+340000,2,2,3,1,16674675,Upper East Side,White,2002,4,1
+100000,3,2,3,1,42470836,Washington Heights/Inwood,White,2002,4,2
+300000,2,2,3,1,41832127,Stuyvesant Town/Turtle Bay,White,2002,5,1
+300000,3,2,3,1,73845182,Lower East Side/Chinatown,Hispanic,2002,2,1
+1957402,4,2,3,1,70213228,Upper West Side,Others,2002,5,2
+400000,3,2,3,1,107242066,Greenwich Village/Financial District,White,2002,3,1
+300000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,1
+425000,2,2,2,1,16674675,Upper East Side,Others,2002,5,1
+300000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,1
+275000,2,2,3,1,23552681,Greenwich Village/Financial District,White,2002,4,1
+550000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,0
+280000,2,8,3,1,18805791,Upper East Side,White,2002,2,0
+950000,3,2,3,1,20916064,Upper East Side,White,2002,4,1
+200000,1,2,3,1,23552681,Greenwich Village/Financial District,White,2002,1,1
+450000,2,2,3,1,21923910,Upper West Side,White,2002,3,1
+390000,3,2,3,1,101776251,Upper West Side,Others,2002,4,3
+100000,3,2,1,2,53163463,East Harlem,Hispanic,2002,4,2
+2500,2,2,3,1,19700469,Lower East Side/Chinatown,White,2002,2,1
+220000,2,2,2,1,37013443,Upper West Side,White,2002,5,0
+300000,1,2,3,1,18506721,Upper West Side,White,2002,2,0
+25000,1,2,3,1,21923910,Upper West Side,White,2002,3,0
+30000,3,2,3,1,66758680,Upper East Side,White,2002,5,1
+1957402,4,2,3,1,43548881,Upper East Side,White,2002,2,4
+540000,2,2,3,1,16674675,Upper East Side,Hispanic,2002,5,1
+85000,2,2,3,1,56960592,Morningside Heights/Hamilton Heights,Black,2002,4,1
+1957402,1,2,3,1,20916064,Upper West Side,White,2002,5,0
+400000,2,2,2,1,49324439,Greenwich Village/Financial District,White,2002,4,1
+10000,2,2,3,1,34125246,Morningside Heights/Hamilton Heights,Black,2002,3,1
+150000,2,2,3,1,18011276,Washington Heights/Inwood,White,2002,3,2
+200000,3,2,3,1,61134569,Upper East Side,Hispanic,2002,2,1
+165000,2,2,3,1,52394351,Upper East Side,White,2002,4,1
+700000,3,2,3,1,21923910,Upper West Side,White,2002,2,1
+368000,2,2,3,1,43847820,Upper West Side,White,2002,4,0
+1957402,3,2,3,1,16674675,Upper East Side,White,2002,5,4
+150000,2,2,3,1,33349349,Upper East Side,White,2002,4,1
+350000,2,2,2,1,41832127,Upper East Side,White,2002,5,1
+3000,3,2,3,1,83690328,Chelsea/Clinton/Midtown,Hispanic,2002,3,1
+2500,2,2,3,1,17638161,Lower East Side/Chinatown,White,2002,1,1
+700000,3,2,3,1,19299293,Upper East Side,White,2002,3,1
+500000,3,2,2,1,62394583,Upper East Side,Others,2002,1,0
+150000,1,2,3,1,19299293,Upper East Side,White,2002,2,1
+750000,4,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,2
+243000,2,2,3,1,33349349,Upper East Side,White,2002,4,1
+1957402,4,2,3,1,51580484,Upper East Side,White,2002,5,3
+700000,3,2,3,1,21923910,Upper West Side,White,2002,2,1
+200000,3,2,3,1,21923910,Upper West Side,Black,2002,4,1
+800000,5,2,3,1,41832127,Upper East Side,White,2002,4,1
+275000,2,2,3,1,49324439,Greenwich Village/Financial District,White,2002,5,0
+230000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,5,0
+5000,4,2,3,2,48796500,Washington Heights/Inwood,Black,2002,1,1
+200000,4,2,3,2,34089751,Lower East Side/Chinatown,Hispanic,2002,3,1
+1957402,4,8,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,4
+1957402,5,2,2,1,18612303,Greenwich Village/Financial District,White,2002,5,1
+1957402,3,2,3,1,43847820,Upper West Side,White,2002,5,2
+1957402,4,2,3,1,61134569,Upper East Side,White,2002,5,4
+250000,5,2,1,2,206694227,Morningside Heights/Hamilton Heights,Black,2002,5,2
+300000,2,2,3,1,14589642,Stuyvesant Town/Turtle Bay,White,2002,4,1
+800000,4,1,3,1,38002220,Upper West Side,White,2002,4,2
+875000,3,2,1,2,126658847,Central Harlem,Black,2002,4,1
+350000,3,2,3,1,34777429,Stuyvesant Town/Turtle Bay,White,2002,3,2
+50000,1,2,3,2,40374357,Lower East Side/Chinatown,White,2002,2,1
+30000,3,2,3,1,22931269,Stuyvesant Town/Turtle Bay,White,2002,4,1
+350000,3,2,3,1,47526621,Washington Heights/Inwood,White,2002,4,1
+1957402,2,2,3,1,18506721,Upper West Side,White,2002,4,1
+350000,2,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,1
+1957402,4,2,2,1,62282035,Greenwich Village/Financial District,White,2002,5,1
+330000,2,2,3,1,38002220,Upper West Side,White,2002,5,1
+1957402,4,2,3,1,20016906,Upper West Side,White,2002,3,1
+600000,4,2,2,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,1
+1957402,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,1,0
+250,3,2,3,2,73777121,Washington Heights/Inwood,Hispanic,2002,4,1
+1957402,4,8,1,1,37224607,Upper East Side,White,2002,5,4
+300000,2,2,3,1,60641300,Upper East Side,White,2002,5,0
+215000,2,2,3,1,37611581,Upper East Side,White,2002,3,0
+1957402,2,2,3,1,19299293,Upper East Side,White,2002,2,2
+239000,2,2,3,1,27752968,Chelsea/Clinton/Midtown,White,2002,3,1
+500000,2,2,3,1,19011903,Stuyvesant Town/Turtle Bay,Black,2002,1,1
+350000,2,2,2,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,1
+248000,2,2,2,1,33381125,Central Harlem,White,2002,3,0
+150000,2,2,2,1,38598587,Upper East Side,White,2002,5,1
+300000,2,2,3,1,21996002,Lower East Side/Chinatown,White,2002,2,1
+350000,2,2,3,1,19299293,Upper East Side,White,2002,4,1
+350000,2,2,2,1,20916064,Chelsea/Clinton/Midtown,White,2002,4,1
+300000,4,2,3,1,91548437,Upper West Side,Black,2002,5,1
+150000,3,2,2,2,33558052,Central Harlem,Black,2002,2,1
+25000,2,2,3,1,18014184,East Harlem,Black,2002,1,1
+450000,2,2,2,1,19299293,Upper East Side,Others,2002,5,1
+450000,3,2,3,1,17911474,Chelsea/Clinton/Midtown,White,2002,2,1
+40000,2,2,3,2,71059718,Lower East Side/Chinatown,White,2002,3,1
+320000,2,2,3,1,35412001,Chelsea/Clinton/Midtown,White,2002,4,1
+200000,3,2,3,1,19096393,Central Harlem,Black,2002,1,1
+140000,3,2,3,1,33517613,Washington Heights/Inwood,White,2002,4,0
+600000,3,2,2,1,18120005,Stuyvesant Town/Turtle Bay,Hispanic,2002,5,0
+35000,2,2,2,1,35587646,Stuyvesant Town/Turtle Bay,Others,2002,4,1
+1957402,7,2,3,2,135708571,Upper East Side,Hispanic,2002,5,1
+200000,2,2,2,1,21923910,Upper West Side,Others,2002,3,1
+325000,2,2,2,1,19299293,Upper East Side,White,2002,3,0
+85000,3,2,3,1,45463371,Morningside Heights/Hamilton Heights,Black,2002,2,1
+1957402,5,2,2,1,43847820,Upper West Side,White,2002,5,2
+1957402,5,2,3,1,33349349,Upper East Side,White,2002,1,3
+350000,2,2,3,1,19299293,Upper East Side,White,2002,5,1
+450000,2,2,3,1,36538791,Upper East Side,White,2002,4,2
+1957402,2,2,2,1,38691316,Upper West Side,White,2002,4,1
+900000,3,2,3,1,54536692,Upper East Side,White,2002,1,0
+500000,3,2,2,1,102924474,Upper East Side,White,2002,5,1
+375000,2,2,2,1,49324439,Greenwich Village/Financial District,White,2002,5,1
+150000,2,2,3,1,19700469,Lower East Side/Chinatown,White,2002,2,1
+475000,3,2,3,1,38598587,Upper East Side,White,2002,5,1
+750000,3,2,3,1,36538791,Upper East Side,White,2002,5,1
+1957402,3,2,3,1,21923910,Upper West Side,White,2002,1,2
+500000,3,2,3,1,61751696,Upper East Side,White,2002,1,0
+214000,3,2,2,2,44481462,Central Harlem,Black,2002,3,1
+150000,5,2,3,2,30228060,Morningside Heights/Hamilton Heights,Hispanic,2002,3,1
+13500,2,2,2,1,14870327,Central Harlem,White,2002,5,1
+1957402,4,2,2,1,39343684,Stuyvesant Town/Turtle Bay,White,2002,5,0
+1957402,4,2,3,1,19299293,Upper East Side,White,2002,4,2
+500000,3,2,2,1,40304894,Chelsea/Clinton/Midtown,White,2002,2,2
+920000,3,2,2,1,56422208,Upper East Side,White,2002,5,1
+750000,3,2,3,1,60209079,Stuyvesant Town/Turtle Bay,White,2002,5,1
+65000,2,2,3,1,18696451,Lower East Side/Chinatown,Others,2002,1,0
+450000,2,2,3,1,42663860,Stuyvesant Town/Turtle Bay,White,2002,3,1
+370000,3,2,3,1,57204649,Lower East Side/Chinatown,White,2002,5,1
+450000,3,2,3,2,39818331,Upper West Side,Hispanic,2002,5,2
+225000,1,2,3,1,36240009,Stuyvesant Town/Turtle Bay,White,2002,2,0
+900000,3,2,3,1,84934622,Upper West Side,White,2002,5,2
+540000,3,2,3,1,41832127,Upper East Side,White,2002,4,1
+285000,2,2,3,2,21996002,Lower East Side/Chinatown,White,2002,4,1
+20000,2,2,3,1,16690563,East Harlem,Black,2002,2,1
+250000,2,2,3,2,21923910,Upper West Side,White,2002,4,1
+13500,3,2,3,1,14530609,Morningside Heights/Hamilton Heights,White,2002,5,1
+1957402,4,2,1,2,52296769,Stuyvesant Town/Turtle Bay,White,2002,4,2
+650000,3,2,3,1,38002220,Upper West Side,White,2002,3,4
+1957402,3,2,2,1,45345580,Greenwich Village/Financial District,White,2002,5,1
+475000,3,2,3,1,61818277,Upper East Side,White,2002,5,1
+1957402,2,2,2,1,20916064,Upper West Side,White,2002,3,0
+800000,3,2,3,1,33349349,Upper East Side,White,2002,5,1
+540000,1,2,2,1,20311021,Upper East Side,White,2002,4,0
+1957402,6,2,1,1,37224607,Upper East Side,White,2002,5,2
+300000,3,2,2,2,19506173,Central Harlem,Black,2002,1,1
+650000,3,2,3,1,61134569,Upper East Side,White,2002,5,2
+540000,2,2,2,1,48396768,Upper East Side,Others,2002,2,1
+170000,2,2,2,1,55505937,Washington Heights/Inwood,White,2002,2,1
+500000,3,2,3,1,19001110,Upper West Side,White,2002,3,2
+275000,3,2,3,1,20916064,Upper East Side,Others,2002,2,1
+50000,3,2,3,1,74926940,East Harlem,Hispanic,2002,3,1
+190000,1,2,3,1,17911474,Chelsea/Clinton/Midtown,White,2002,1,0
+175000,1,2,3,1,20916064,Chelsea/Clinton/Midtown,White,2002,4,0
+600000,3,2,3,2,32100220,Greenwich Village/Financial District,White,2002,5,3
+500000,3,2,3,1,19011903,Upper East Side,Black,2002,3,1
+800000,3,2,3,1,66982232,Upper West Side,White,2002,4,2
+500000,2,2,3,1,33349349,Upper East Side,White,2002,5,2
+800000,2,2,3,1,21923910,Upper West Side,White,2002,5,1
+200000,2,2,3,1,38598587,Upper East Side,White,2002,5,1
+300000,3,2,3,1,64893572,Upper West Side,Others,2002,3,1
+20000,2,2,2,1,14870327,Central Harlem,Black,2002,2,1
+45000,1,2,3,2,19700469,Lower East Side/Chinatown,White,2002,1,1
+200000,1,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,0
+1957402,4,2,3,1,33349349,Upper East Side,White,2002,5,3
+350000,2,2,3,1,19299293,Upper East Side,White,2002,4,1
+250000,2,2,1,2,59682365,Lower East Side/Chinatown,White,2002,4,0
+200000,2,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,3,0
+1957402,4,2,3,1,78328697,Upper East Side,White,2002,5,4
+1957402,3,2,3,1,18120005,Stuyvesant Town/Turtle Bay,White,2002,4,1
+85000,3,2,3,1,19506173,Central Harlem,Black,2002,2,2
+1957402,4,2,3,1,193096961,Upper West Side,White,2002,5,2
+85000,3,2,3,1,17062623,Morningside Heights/Hamilton Heights,Black,2002,2,1
+275000,2,2,3,2,19700469,Lower East Side/Chinatown,White,2002,4,1
+390000,2,2,2,1,21923910,Upper West Side,White,2002,1,0
+250000,2,2,3,2,18690456,Chelsea/Clinton/Midtown,White,2002,3,0
+200000,1,2,3,1,18690456,Chelsea/Clinton/Midtown,White,2002,3,0
+42,2,2,3,2,19700469,Lower East Side/Chinatown,White,2002,3,1
+450000,1,2,2,1,38002220,Upper West Side,White,2002,4,0
+875000,4,2,2,1,66237916,Upper East Side,White,2002,5,2
+1957402,3,2,1,2,81096450,Chelsea/Clinton/Midtown,White,2002,4,2
+225000,2,2,3,1,21923910,Upper West Side,White,2002,3,0
+1957402,4,2,3,1,107242066,Chelsea/Clinton/Midtown,White,2002,5,1
+1957402,4,2,3,1,20916064,Upper East Side,White,2002,5,3
+1957402,3,2,3,1,35587646,Stuyvesant Town/Turtle Bay,White,2002,5,3
+800000,3,3,3,1,18506721,Upper West Side,White,2002,5,1
+350000,2,2,3,1,23552681,Greenwich Village/Financial District,White,2002,4,1
+9880,3,8,3,1,100420963,Morningside Heights/Hamilton Heights,White,2002,2,1
+250000,3,2,2,1,18690456,Chelsea/Clinton/Midtown,White,2002,4,1
+250000,3,2,2,1,49606831,Chelsea/Clinton/Midtown,White,2002,4,1
+200000,1,2,3,1,16050110,Greenwich Village/Financial District,White,2002,3,0
+93000,3,2,3,1,94040147,Morningside Heights/Hamilton Heights,Others,2002,4,1
+450000,2,2,3,1,49324439,Greenwich Village/Financial District,White,2002,5,1
+25000,4,2,3,1,19506173,Central Harlem,Black,2002,1,2
+240000,2,2,3,1,21923910,Upper West Side,White,2002,4,1
+450000,2,2,3,1,19791145,Greenwich Village/Financial District,White,2002,4,0
+150000,2,2,3,1,19299293,Upper East Side,White,2002,4,0
+500000,3,2,2,1,68825678,Chelsea/Clinton/Midtown,Others,2002,4,2
+1000000,3,2,3,1,36290188,Upper East Side,White,2005,5,0
+100000,3,2,3,1,49049267,Chelsea/Clinton/Midtown,White,2005,2,1
+2571545,4,2,3,1,119087702,Upper West Side,White,2005,5,3
+2571545,3,2,3,1,50555149,Greenwich Village/Financial District,White,2005,5,3
+2571545,5,2,3,1,204041927,Upper East Side,White,2005,5,3
+500000,3,2,3,1,36865257,Stuyvesant Town/Turtle Bay,White,2005,5,1
+775000,3,2,3,1,72245114,Upper West Side,White,2005,5,1
+500000,2,2,3,1,71289359,Greenwich Village/Financial District,White,2005,3,1
+200000,2,2,3,1,18168960,Morningside Heights/Hamilton Heights,White,2005,2,0
+500000,3,2,3,1,20161281,Upper East Side,White,2005,5,2
+700000,2,2,3,1,40617363,Upper West Side,White,2005,5,2
+600000,2,2,3,1,21765657,Lower East Side/Chinatown,White,2005,1,1
+750000,2,2,3,1,37043868,Stuyvesant Town/Turtle Bay,White,2005,1,1
+500000,3,2,3,1,23094508,Lower East Side/Chinatown,White,2005,2,1
+250000,1,2,3,1,69964703,Upper West Side,White,2005,4,0
+900000,4,2,3,1,91980105,Upper East Side,White,2005,5,1
+1000000,3,2,2,1,90592096,Upper West Side,White,2005,5,2
+2571545,3,2,3,1,93621875,Upper East Side,White,2005,4,3
+800000,4,2,2,1,29171065,Stuyvesant Town/Turtle Bay,White,2005,5,1
+2571545,5,2,3,1,105326681,Greenwich Village/Financial District,White,2005,4,3
+725000,2,2,2,1,24886370,Greenwich Village/Financial District,White,2005,2,1
+2571545,3,2,3,1,77648919,Upper West Side,White,2005,4,1
+150000,2,2,3,1,18088471,Chelsea/Clinton/Midtown,White,2005,5,1
+900000,3,2,3,1,20794410,Upper East Side,White,2005,4,2
+950000,5,2,3,1,152990072,Upper West Side,White,2005,3,3
+800000,4,2,3,1,20477073,Stuyvesant Town/Turtle Bay,White,2005,4,4
+2571545,4,2,3,1,38268976,Upper West Side,White,2005,2,2
+1295000,3,2,2,1,63284100,Upper East Side,Hispanic,2005,1,1
+2571545,3,2,3,1,19906075,Upper East Side,White,2005,4,3
+400000,2,2,3,1,19786117,Lower East Side/Chinatown,White,2005,4,1
+240000,2,2,3,1,34411149,Morningside Heights/Hamilton Heights,White,2005,4,1
+415000,2,2,3,1,61767985,Chelsea/Clinton/Midtown,White,2005,4,1
+500000,3,2,3,1,49319724,Stuyvesant Town/Turtle Bay,White,2005,4,1
+15000,1,2,3,1,17288041,East Harlem,Black,2005,4,0
+400000,2,2,3,1,18616052,Chelsea/Clinton/Midtown,White,2005,3,1
+2571545,4,2,3,2,48973190,Greenwich Village/Financial District,White,2005,5,2
+300000,2,2,3,1,16634052,Greenwich Village/Financial District,White,2005,5,1
+650,3,2,3,1,49088704,Upper West Side,White,2005,2,2
+400000,3,2,3,1,40730633,Central Harlem,White,2005,4,3
+500000,2,2,3,1,20231067,Upper East Side,White,2005,5,1
+1000000,3,2,3,2,46269457,Upper West Side,White,2005,5,0
+800000,4,2,3,1,87568880,Lower East Side/Chinatown,White,2005,4,1
+400000,3,2,3,1,18776045,Central Harlem,White,2005,1,1
+2571545,3,2,2,1,42861300,Chelsea/Clinton/Midtown,White,2005,5,0
+1000000,2,2,3,1,23134729,Upper West Side,White,2005,4,0
+325000,2,2,2,1,52827663,Chelsea/Clinton/Midtown,White,2005,4,1
+500000,2,2,3,1,36629155,Chelsea/Clinton/Midtown,White,2005,5,1
+400000,2,2,3,1,74525016,Upper West Side,White,2005,4,1
+370000,2,2,3,1,19912000,Upper East Side,Others,2005,1,0
+650000,2,2,3,1,20887747,Greenwich Village/Financial District,White,2005,2,1
+415000,2,2,3,1,61489470,Chelsea/Clinton/Midtown,White,2005,5,1
+350000,1,2,3,1,18112915,Chelsea/Clinton/Midtown,White,2005,2,0
+200000,2,2,3,1,58143323,Washington Heights/Inwood,Hispanic,2005,3,0
+500000,1,2,3,1,16921895,Greenwich Village/Financial District,White,2005,3,0
+600000,3,2,3,1,20231067,Upper East Side,White,2005,5,1
+700000,2,2,3,1,39465608,Upper West Side,White,2005,5,2
+2571545,2,2,3,1,19461216,Upper West Side,White,2005,3,0
+350000,2,2,3,1,40211017,Upper East Side,White,2005,5,1
+2571545,4,2,3,1,100365292,Upper West Side,White,2005,5,3
+250000,3,2,2,1,20774227,Greenwich Village/Financial District,White,2005,3,1
+550000,2,2,3,1,40841711,Greenwich Village/Financial District,White,2005,5,1
+2571545,3,2,3,1,112092065,Upper West Side,White,2005,5,3
+600000,2,2,3,1,18331597,Stuyvesant Town/Turtle Bay,White,2005,5,1
+600000,1,2,3,1,18995761,Upper East Side,White,2005,3,0
+590000,2,2,2,1,18648176,Chelsea/Clinton/Midtown,White,2005,4,1
+250000,1,2,3,2,17123533,Stuyvesant Town/Turtle Bay,White,2005,2,1
+600000,2,2,3,1,23474870,Upper West Side,White,2005,2,1
+275000,1,2,2,1,65099124,Stuyvesant Town/Turtle Bay,White,2005,5,0
+600000,2,2,3,1,38266821,Chelsea/Clinton/Midtown,White,2005,4,2
+519000,2,2,3,1,20696507,Upper West Side,White,2005,2,1
+2571545,3,2,3,1,40726599,Chelsea/Clinton/Midtown,White,2005,5,5
+560000,2,2,3,1,37331011,Stuyvesant Town/Turtle Bay,White,2005,5,1
+40000,4,2,3,1,43485901,Central Harlem,Hispanic,2005,1,1
+600000,2,2,3,1,18662032,Upper West Side,White,2005,3,1
+350000,2,2,3,1,40475222,Upper West Side,White,2005,4,1
+800000,2,2,2,1,51479376,Upper West Side,White,2005,5,1
+300000,3,2,3,1,128366286,Greenwich Village/Financial District,White,2005,5,2
+2571545,2,2,1,2,21537814,Lower East Side/Chinatown,White,2005,2,1
+325000,2,2,2,1,40726599,Chelsea/Clinton/Midtown,White,2005,4,1
+700000,2,2,3,1,26067979,Greenwich Village/Financial District,White,2005,4,1
+1000000,2,2,2,1,23134729,Upper West Side,White,2005,4,0
+500000,3,2,3,1,23134729,Upper West Side,White,2005,4,1
+500000,2,2,3,1,20231067,Upper East Side,White,2005,5,1
+2571545,1,2,3,1,26751602,Greenwich Village/Financial District,White,2005,3,0
+100000,4,2,3,1,50667155,Morningside Heights/Hamilton Heights,Black,2005,3,1
+2571545,4,2,3,1,38893767,Upper West Side,White,2005,5,1
+100000,2,2,3,1,21244947,Lower East Side/Chinatown,White,2005,2,1
+1000000,2,2,2,1,34259389,Chelsea/Clinton/Midtown,White,2005,5,1
+500000,2,2,3,1,36865257,Stuyvesant Town/Turtle Bay,White,2005,5,1
+500000,1,2,2,1,50504531,Greenwich Village/Financial District,Others,2005,4,1
+1000000,1,2,2,1,54169512,Upper East Side,White,2005,5,1
+300000,3,2,3,2,101455254,Lower East Side/Chinatown,White,2005,3,0
+2571545,2,2,3,1,43295913,Upper West Side,White,2005,4,1
+450000,2,2,3,1,20493154,Upper East Side,White,2005,4,1
+500000,4,2,3,1,69425819,Upper East Side,White,2005,3,3
+750000,2,2,3,1,18642763,Morningside Heights/Hamilton Heights,White,2005,3,1
+500000,2,2,3,1,18648176,Chelsea/Clinton/Midtown,White,2005,5,0
+180000,2,2,3,2,39037304,Lower East Side/Chinatown,Hispanic,2005,4,1
+100000,5,2,3,2,14634343,Morningside Heights/Hamilton Heights,Black,2005,4,1
+100000,3,2,3,1,35690957,Morningside Heights/Hamilton Heights,Black,2005,4,1
+1100000,4,2,3,1,22520897,Upper East Side,White,2005,1,4
+250000,2,2,3,1,26967315,East Harlem,Black,2005,2,1
+2571545,4,2,3,1,114976891,Upper West Side,White,2005,5,3
+290000,3,2,3,1,38893767,Upper West Side,White,2005,5,1
+2571545,1,2,2,1,19584712,Stuyvesant Town/Turtle Bay,White,2005,3,1
+550000,1,2,3,1,61885348,Upper East Side,White,2005,3,0
+700000,2,2,2,1,38035237,Stuyvesant Town/Turtle Bay,Others,2005,3,1
+190000,2,2,3,1,20414758,Upper East Side,White,2005,4,1
+2571545,2,2,1,2,85306075,Lower East Side/Chinatown,White,2005,5,1
+600000,1,2,3,1,36316934,Upper East Side,White,2005,5,0
+125000,1,2,3,1,21179527,Upper East Side,White,2005,3,0
+650000,2,2,3,1,36801751,Stuyvesant Town/Turtle Bay,White,2005,5,1
+550000,2,2,3,1,23054926,Upper West Side,White,2005,4,1
+650000,3,2,3,1,94163952,Upper East Side,White,2005,5,2
+2571545,3,2,3,1,38216753,Chelsea/Clinton/Midtown,White,2005,5,3
+6000,3,2,3,1,44850640,Central Harlem,Black,2005,2,0
+100000,3,2,3,1,19331774,Morningside Heights/Hamilton Heights,White,2005,1,1
+500000,2,2,3,1,20329355,Upper East Side,White,2005,2,0
+200000,3,2,3,1,48053886,Upper West Side,Black,2005,1,1
+650000,3,2,3,1,76460124,Stuyvesant Town/Turtle Bay,Others,2005,5,1
+1000000,3,2,2,1,83033267,Greenwich Village/Financial District,White,2005,5,1
+2571545,3,2,2,1,48132831,Upper West Side,White,2005,5,2
+800000,4,2,3,1,20221594,Stuyvesant Town/Turtle Bay,White,2005,2,4
+385000,2,2,2,1,17863258,Chelsea/Clinton/Midtown,White,2005,2,0
+800000,3,2,3,1,38893767,Upper West Side,White,2005,4,1
+600000,2,2,3,1,36290188,Upper East Side,White,2005,5,2
+600000,2,2,2,1,38759604,Upper West Side,White,2005,4,0
+550000,2,2,3,2,40139220,Chelsea/Clinton/Midtown,Hispanic,2005,2,0
+200000,3,2,3,1,38087955,Upper East Side,White,2005,4,2
+2571545,3,2,3,1,19906075,Upper East Side,White,2005,4,4
+550000,3,2,3,2,57709890,Upper East Side,White,2005,5,1
+300000,2,2,3,1,18112915,Chelsea/Clinton/Midtown,Hispanic,2005,3,1
+1000000,3,2,3,1,65337909,Upper East Side,White,2005,4,3
+600000,2,2,3,1,21936785,Stuyvesant Town/Turtle Bay,White,2005,5,1
+950000,3,2,3,1,38893767,Upper West Side,White,2005,5,0
+600000,3,2,3,1,20161281,Upper East Side,White,2005,4,1
+750000,3,2,3,1,63670973,Morningside Heights/Hamilton Heights,White,2005,4,1
+2571545,3,2,3,1,49601051,Greenwich Village/Financial District,White,2005,4,2
+1000000,6,2,3,2,139405629,Lower East Side/Chinatown,White,2005,5,2
+500000,2,2,2,1,45761715,Greenwich Village/Financial District,Others,2005,4,1
+2571545,2,2,3,1,49730330,Upper West Side,White,2005,5,1
+800000,3,2,3,1,20917113,Lower East Side/Chinatown,White,2005,4,1
+250000,3,2,3,1,43905103,Lower East Side/Chinatown,White,2005,2,1
+100000,3,2,3,1,32600036,Morningside Heights/Hamilton Heights,Black,2005,2,1
+600000,3,2,3,1,58236166,Lower East Side/Chinatown,White,2005,5,2
+1000000,4,2,3,2,73075263,Lower East Side/Chinatown,Hispanic,2005,2,0
+2500,3,2,3,1,13895897,Central Harlem,Black,2005,1,1
+600000,2,2,3,1,38893767,Upper West Side,White,2005,4,1
+450000,2,2,2,1,40139220,Chelsea/Clinton/Midtown,White,2005,4,2
+650000,2,2,2,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,2,1
+1100000,2,2,3,1,20011938,Upper East Side,White,2005,2,1
+390000,1,2,3,1,25319746,Greenwich Village/Financial District,White,2005,1,0
+550000,2,2,3,1,23134729,Upper West Side,White,2005,4,1
+400000,3,2,2,1,43702189,Lower East Side/Chinatown,White,2005,5,1
+1000000,3,8,3,1,93080015,Upper East Side,White,2005,5,1
+2571545,2,8,3,1,52158254,Upper East Side,White,2005,5,1
+375000,2,2,3,2,39015576,Upper East Side,White,2005,5,1
+500000,4,2,3,1,40726599,Chelsea/Clinton/Midtown,White,2005,3,2
+800000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,4,1
+1200000,2,2,3,1,25690264,Greenwich Village/Financial District,White,2005,2,1
+500000,1,2,3,1,21744315,Upper East Side,White,2005,3,0
+1000000,1,2,3,1,23681109,Upper West Side,White,2005,5,0
+500000,1,2,2,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,2,0
+750000,1,2,2,1,19245031,Chelsea/Clinton/Midtown,White,2005,4,0
+500000,3,2,3,1,62142692,Upper East Side,White,2005,5,1
+330000,2,2,3,1,36760315,Upper East Side,White,2005,5,1
+200000,2,2,2,1,67158593,Upper East Side,White,2005,5,1
+2571545,3,2,1,2,44289731,Chelsea/Clinton/Midtown,Hispanic,2005,4,1
+2571545,3,2,3,1,44547590,Lower East Side/Chinatown,Others,2005,1,1
+250000,1,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,3,1
+1000000,3,2,2,1,20629406,Upper East Side,White,2005,5,1
+300000,2,2,2,1,63724627,Upper East Side,Hispanic,2005,5,1
+250000,2,2,3,1,23369516,Upper West Side,White,2005,2,0
+325000,2,2,3,1,41277150,Washington Heights/Inwood,White,2005,4,1
+380000,2,2,3,1,19358317,Stuyvesant Town/Turtle Bay,Black,2005,3,1
+400000,2,2,3,1,20528517,Upper East Side,White,2005,4,1
+500000,2,2,3,1,23474870,Upper West Side,White,2005,5,1
+160000,1,2,3,2,19770967,Stuyvesant Town/Turtle Bay,White,2005,3,0
+210000,2,2,3,2,21503133,Lower East Side/Chinatown,White,2005,2,0
+900000,3,2,3,1,17652649,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,6,2,1,2,241876772,Upper East Side,White,2005,3,2
+100000,4,2,3,2,69893814,Morningside Heights/Hamilton Heights,Others,2005,4,1
+800000,3,2,2,1,65668228,Upper West Side,White,2005,5,1
+775000,3,2,3,2,36290188,Upper East Side,White,2005,4,1
+1300000,3,2,3,1,85176929,Upper West Side,Others,2005,5,2
+600000,3,2,3,1,38189413,Lower East Side/Chinatown,Black,2005,5,1
+700000,2,2,3,1,19256963,Upper West Side,White,2005,4,2
+2571545,3,2,2,1,40726599,Chelsea/Clinton/Midtown,White,2005,5,3
+2571545,1,2,2,1,19172516,Upper West Side,White,2005,1,0
+60000,3,2,3,1,35758786,Stuyvesant Town/Turtle Bay,Hispanic,2005,3,1
+800000,4,2,3,1,32472759,Stuyvesant Town/Turtle Bay,White,2005,5,4
+380000,4,2,2,1,63000620,Central Harlem,White,2005,4,1
+250000,1,2,3,1,24219316,Upper West Side,White,2005,2,1
+600000,3,2,3,1,42861300,Upper East Side,White,2005,5,2
+700000,4,2,3,1,101408714,Upper West Side,White,2005,5,4
+200000,1,2,1,2,38332822,Upper West Side,Hispanic,2005,3,0
+275000,1,2,3,1,19108376,Chelsea/Clinton/Midtown,White,2005,2,0
+2571545,2,2,3,1,59292803,Chelsea/Clinton/Midtown,White,2005,5,1
+2500,2,2,3,1,38826310,Central Harlem,Black,2005,2,1
+650000,2,2,3,1,85983053,Greenwich Village/Financial District,White,2005,5,2
+450000,2,2,3,1,65099124,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,4,2,3,1,35707221,Upper East Side,White,2005,2,3
+500000,3,2,3,1,18385188,Upper West Side,White,2005,3,1
+400000,3,2,2,1,34216385,Upper East Side,White,2005,4,1
+54000,1,2,3,1,44039444,Morningside Heights/Hamilton Heights,White,2005,3,1
+189000,3,2,3,1,16300018,East Harlem,Hispanic,2005,1,1
+500000,2,2,3,1,19858024,Stuyvesant Town/Turtle Bay,White,2005,5,1
+300000,3,2,3,2,40491955,Upper East Side,White,2005,5,1
+2571545,2,2,2,1,20185653,Upper West Side,White,2005,5,1
+2571545,3,2,2,1,62082618,Upper East Side,White,2005,5,1
+450000,3,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,2,1
+800000,4,3,3,1,13996879,Stuyvesant Town/Turtle Bay,White,2005,2,1
+500000,1,2,2,1,47688524,Greenwich Village/Financial District,White,2005,5,1
+725000,2,2,2,1,24886370,Greenwich Village/Financial District,White,2005,4,1
+225000,2,2,3,1,36760315,Upper East Side,White,2005,5,1
+475000,2,2,2,1,23474870,Upper West Side,Others,2005,4,1
+1000000,3,2,3,1,99068968,Upper West Side,White,2005,4,1
+1200000,2,2,2,1,20231067,Upper East Side,Others,2005,5,1
+500000,2,2,3,1,36823749,Upper East Side,White,2005,4,1
+590000,2,2,2,1,45840683,Chelsea/Clinton/Midtown,Others,2005,3,1
+6500,3,2,3,1,19933633,Central Harlem,Black,2005,4,2
+950000,3,2,3,1,72245114,Upper West Side,White,2005,4,1
+1000000,2,2,3,1,40764536,Upper East Side,White,2005,5,1
+415000,2,2,2,1,65300114,Stuyvesant Town/Turtle Bay,Others,2005,5,1
+500000,2,2,2,1,37296352,Chelsea/Clinton/Midtown,White,2005,5,1
+390000,3,2,3,1,86702760,Washington Heights/Inwood,White,2005,5,2
+500000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,5,1
+250000,2,2,3,1,47979671,Chelsea/Clinton/Midtown,Hispanic,2005,2,0
+350000,3,2,3,1,19461216,Upper West Side,White,2005,2,1
+1000000,2,2,3,2,20699653,Upper East Side,White,2005,5,1
+225000,2,2,2,1,38184578,Upper East Side,White,2005,2,1
+475000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,3,1
+125000,3,2,3,1,20768024,Upper East Side,White,2005,4,1
+2571545,3,2,3,1,105797683,Greenwich Village/Financial District,White,2005,5,2
+300000,1,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,4,0
+2571545,2,2,2,1,22555968,Chelsea/Clinton/Midtown,White,2005,5,1
+450000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,Others,2005,3,1
+2571545,3,2,3,1,35707221,Upper East Side,White,2005,5,5
+500000,2,2,3,1,35406179,Washington Heights/Inwood,Others,2005,5,1
+316000,3,2,3,2,54298057,Lower East Side/Chinatown,Hispanic,2005,4,1
+1000000,5,2,3,1,94095187,Upper East Side,White,2005,4,3
+2571545,2,3,1,2,28571813,Lower East Side/Chinatown,Black,2005,1,1
+600000,3,2,3,1,52925118,Upper East Side,White,2005,5,1
+1000000,4,2,2,1,70669619,Stuyvesant Town/Turtle Bay,White,2005,5,2
+500000,2,2,2,1,18616052,Chelsea/Clinton/Midtown,Others,2005,4,1
+400000,2,2,3,1,23054926,Upper West Side,White,2005,4,1
+1000000,5,2,3,1,75909914,Upper West Side,White,2005,1,3
+1000000,3,2,3,1,55002277,Upper West Side,White,2005,4,3
+2571545,3,2,2,1,101585178,Greenwich Village/Financial District,White,2005,5,2
+2571545,2,2,3,1,18145094,Upper East Side,White,2005,2,3
+2571545,3,2,2,1,35747470,Stuyvesant Town/Turtle Bay,White,2005,2,1
+2571545,2,8,3,1,39152833,Upper East Side,White,2005,3,1
+1000000,3,2,3,1,41057034,Upper East Side,White,2005,4,1
+200000,1,2,3,1,20378793,Stuyvesant Town/Turtle Bay,Others,2005,1,0
+2571545,4,2,3,1,22763092,Upper West Side,White,2005,4,2
+250000,2,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,6,2,3,1,47294404,Chelsea/Clinton/Midtown,White,2005,4,2
+1000000,2,2,1,2,48918662,Lower East Side/Chinatown,White,2005,5,1
+2571545,4,8,3,1,71402249,Stuyvesant Town/Turtle Bay,White,2005,5,3
+350000,2,2,3,1,20493154,Upper East Side,White,2005,2,1
+500000,1,2,3,1,18377972,Chelsea/Clinton/Midtown,White,2005,3,0
+100000,4,2,3,1,32372012,Central Harlem,Black,2005,3,1
+600000,3,2,3,1,40462134,Upper East Side,Hispanic,2005,4,1
+1000000,2,2,2,1,19158397,Upper West Side,White,2005,5,1
+20000,3,2,3,1,30934759,East Harlem,Black,2005,2,1
+400000,2,2,3,1,61131746,Washington Heights/Inwood,White,2005,2,1
+2571545,3,2,3,1,45526183,Upper West Side,White,2005,4,4
+2571545,6,2,3,1,40726599,Chelsea/Clinton/Midtown,White,2005,5,2
+1400000,3,2,2,1,39209264,Upper West Side,White,2005,5,0
+200000,4,2,3,1,94163952,Upper East Side,White,2005,5,1
+10000,1,2,3,1,38818812,East Harlem,Hispanic,2005,3,0
+450000,3,2,3,1,73618700,Stuyvesant Town/Turtle Bay,Others,2005,5,3
+120000,2,2,3,1,18468326,Chelsea/Clinton/Midtown,White,2005,2,1
+200000,2,2,3,1,19440076,Upper West Side,White,2005,2,1
+700000,2,2,2,1,18178935,Stuyvesant Town/Turtle Bay,Hispanic,2005,2,1
+300000,2,2,3,1,21509401,Washington Heights/Inwood,White,2005,3,1
+2571545,2,2,3,1,75347144,Upper West Side,White,2005,5,2
+250000,2,2,1,2,16985533,Central Harlem,Black,2005,4,2
+400000,3,2,3,2,48501981,Central Harlem,Black,2005,1,1
+800000,3,2,3,1,19379802,Upper West Side,White,2005,4,1
+500000,2,2,3,1,40491955,Upper East Side,White,2005,5,1
+325000,2,2,2,1,40726599,Chelsea/Clinton/Midtown,Others,2005,4,1
+1000000,2,2,3,1,40726599,Chelsea/Clinton/Midtown,White,2005,5,1
+350000,4,2,3,1,40072366,Chelsea/Clinton/Midtown,White,2005,5,1
+300000,3,2,3,1,50504531,Greenwich Village/Financial District,White,2005,4,1
+550000,4,2,2,1,22262456,Chelsea/Clinton/Midtown,White,2005,4,4
+400000,3,2,3,2,91161683,Central Harlem,Black,2005,2,1
+400000,2,2,3,1,19698811,Upper West Side,White,2005,1,0
+150000,4,2,3,1,62379755,East Harlem,Black,2005,2,2
+1000000,2,2,3,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,1,1
+285000,3,2,3,2,43845852,Lower East Side/Chinatown,Hispanic,2005,4,1
+900000,3,2,2,1,68381883,Upper East Side,White,2005,5,1
+1100000,3,2,3,1,39756853,Upper West Side,White,2005,5,2
+125000,2,2,3,2,20231067,Upper East Side,White,2005,2,1
+600000,3,2,3,1,88071569,Greenwich Village/Financial District,White,2005,5,1
+400000,2,2,3,1,22801068,Upper West Side,White,2005,3,0
+500000,2,2,3,1,23589243,Greenwich Village/Financial District,Others,2005,5,1
+400000,3,2,3,1,46582061,Morningside Heights/Hamilton Heights,Black,2005,3,2
+500000,2,2,3,1,17652649,Stuyvesant Town/Turtle Bay,White,2005,2,1
+2571545,2,2,2,1,20629406,Greenwich Village/Financial District,White,2005,5,1
+500000,1,2,3,1,25208765,Greenwich Village/Financial District,White,2005,2,0
+350000,2,2,3,1,53066944,Chelsea/Clinton/Midtown,White,2005,3,0
+325000,1,2,2,1,20382268,Chelsea/Clinton/Midtown,White,2005,3,0
+450000,2,2,3,1,20957574,Upper East Side,White,2005,3,1
+650000,2,2,2,1,19259214,Chelsea/Clinton/Midtown,White,2005,5,1
+550000,2,2,3,1,18616052,Chelsea/Clinton/Midtown,White,2005,2,0
+1000000,4,2,3,1,49519745,Upper East Side,White,2005,3,2
+380000,2,2,3,1,33007834,Greenwich Village/Financial District,White,2005,4,0
+600000,2,2,3,1,53224768,Stuyvesant Town/Turtle Bay,White,2005,3,1
+190000,3,2,3,1,52158254,Upper East Side,White,2005,2,2
+300000,3,2,3,2,70182075,Lower East Side/Chinatown,Hispanic,2005,5,1
+40000,2,8,3,1,20084372,Greenwich Village/Financial District,White,2005,3,1
+500000,2,2,2,1,26894659,Greenwich Village/Financial District,White,2005,5,2
+500000,2,2,3,1,20169953,Greenwich Village/Financial District,White,2005,2,0
+40000,3,2,3,1,44687149,Greenwich Village/Financial District,White,2005,3,2
+400000,3,2,3,1,34825561,Upper East Side,White,2005,4,1
+1000000,4,2,3,1,109872209,Upper East Side,White,2005,5,4
+415000,3,2,2,1,21391288,Morningside Heights/Hamilton Heights,White,2005,1,1
+1000000,3,2,3,1,18331597,Stuyvesant Town/Turtle Bay,White,2005,2,1
+500000,2,2,2,1,18648176,Chelsea/Clinton/Midtown,White,2005,3,1
+850000,2,2,3,1,36331094,Stuyvesant Town/Turtle Bay,White,2005,4,2
+300000,3,2,3,1,14281894,East Harlem,White,2005,4,1
+250000,2,2,3,1,41097785,Upper West Side,Others,2005,5,1
+10000,5,2,3,1,62912390,East Harlem,Black,2005,5,2
+2571545,2,2,3,1,36290188,Upper East Side,White,2005,2,1
+400000,1,2,3,1,19584712,Stuyvesant Town/Turtle Bay,White,2005,2,0
+700000,3,2,3,1,20399724,Upper East Side,White,2005,1,1
+375000,1,2,3,1,36225831,Chelsea/Clinton/Midtown,White,2005,5,0
+650000,2,2,3,1,20231067,Upper East Side,White,2005,4,1
+320000,3,2,3,2,6857290,Lower East Side/Chinatown,Hispanic,2005,2,1
+200000,2,2,2,1,40764536,Upper East Side,White,2005,5,1
+900000,3,2,3,1,17853611,Upper East Side,White,2005,1,2
+500000,2,2,3,1,32007008,Greenwich Village/Financial District,White,2005,5,1
+500000,2,2,3,1,50555149,Greenwich Village/Financial District,White,2005,3,2
+1000000,3,2,3,1,129532069,Upper East Side,White,2005,5,1
+450000,2,2,3,1,20363300,Chelsea/Clinton/Midtown,Others,2005,2,0
+10000,3,2,3,1,76406453,East Harlem,Black,2005,3,1
+160000,3,2,3,1,19225377,Lower East Side/Chinatown,White,2005,2,2
+325000,3,2,2,1,21430650,Chelsea/Clinton/Midtown,White,2005,5,1
+2571545,4,2,3,1,120935267,Upper East Side,White,2005,3,3
+1000000,7,2,3,1,91897255,Upper West Side,White,2005,5,1
+400000,3,2,2,1,39080182,Upper West Side,Others,2005,5,1
+650000,2,2,3,1,19251357,Lower East Side/Chinatown,White,2005,4,0
+600000,2,2,3,1,20231067,Upper East Side,White,2005,2,1
+2571545,4,2,3,1,58587337,Upper West Side,White,2005,5,1
+500000,1,2,2,1,19912000,Chelsea/Clinton/Midtown,White,2005,4,0
+1000000,4,2,2,1,36290188,Upper East Side,White,2005,4,0
+500000,2,2,3,1,23054926,Upper West Side,White,2005,5,1
+250000,3,2,3,1,56370543,Upper West Side,White,2005,3,1
+2571545,3,2,2,1,86782441,Greenwich Village/Financial District,White,2005,4,2
+2571545,2,2,3,1,76505769,Upper East Side,White,2005,4,1
+500000,3,2,3,1,20231067,Upper East Side,White,2005,5,1
+1100000,2,8,2,1,40956746,Lower East Side/Chinatown,Others,2005,5,2
+280000,2,2,3,2,40092367,Lower East Side/Chinatown,White,2005,5,0
+300000,3,2,3,1,18250869,Morningside Heights/Hamilton Heights,White,2005,3,1
+2571545,4,2,3,1,34864817,Stuyvesant Town/Turtle Bay,White,2005,5,4
+1000000,5,2,3,1,62353871,Upper West Side,Others,2005,1,1
+1000000,3,2,2,1,35305298,Stuyvesant Town/Turtle Bay,Others,2005,5,0
+500000,3,2,2,1,18165547,Stuyvesant Town/Turtle Bay,White,2005,5,1
+380000,2,2,3,1,23999748,Stuyvesant Town/Turtle Bay,White,2005,4,1
+600000,3,2,3,1,36290188,Upper East Side,White,2005,5,2
+189000,3,2,3,1,17288041,East Harlem,Hispanic,2005,3,1
+180000,2,2,3,1,38663547,Washington Heights/Inwood,White,2005,5,1
+160000,3,2,2,1,36331094,Stuyvesant Town/Turtle Bay,White,2005,5,2
+2571545,5,2,2,1,76983692,Upper East Side,White,2005,4,2
+2571545,3,2,2,1,51380528,Greenwich Village/Financial District,White,2005,5,2
+2571545,2,2,3,1,23134729,Upper West Side,White,2005,5,3
+200000,4,2,3,1,76065386,Morningside Heights/Hamilton Heights,Others,2005,4,2
+650000,2,2,3,1,19547469,Lower East Side/Chinatown,White,2005,2,1
+2500,3,2,3,1,28484664,Central Harlem,Black,2005,2,1
+200000,2,2,3,1,17713661,Chelsea/Clinton/Midtown,White,2005,3,1
+650000,2,2,3,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,5,1
+600000,2,2,3,1,20231067,Upper East Side,White,2005,2,1
+600000,2,2,3,1,64967602,Lower East Side/Chinatown,White,2005,3,1
+800,3,2,3,1,50124933,Stuyvesant Town/Turtle Bay,White,2005,5,1
+150000,4,2,3,1,17636260,Chelsea/Clinton/Midtown,White,2005,1,2
+1200000,3,2,3,1,88219706,Stuyvesant Town/Turtle Bay,White,2005,5,1
+435000,1,2,3,1,16634052,Greenwich Village/Financial District,White,2005,2,0
+2571545,5,2,3,1,56968651,Upper West Side,White,2005,5,3
+2571545,2,2,3,1,67380958,Upper East Side,White,2005,4,1
+300000,1,2,3,1,19770967,Stuyvesant Town/Turtle Bay,White,2005,2,1
+2571545,5,2,2,1,173666373,Upper East Side,White,2005,5,1
+500000,2,2,3,1,20231067,Upper East Side,White,2005,2,1
+400000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,2,2,3,1,33268105,Greenwich Village/Financial District,Others,2005,5,1
+415000,2,2,3,1,21391288,Chelsea/Clinton/Midtown,White,2005,1,1
+29000,2,2,3,1,40462134,Upper East Side,White,2005,4,1
+2571545,3,2,3,1,36290188,Upper East Side,White,2005,5,2
+1000000,3,2,3,1,19906075,Upper East Side,White,2005,1,3
+200000,3,2,2,1,14585532,Stuyvesant Town/Turtle Bay,White,2005,5,1
+354000,2,2,2,1,27791794,Central Harlem,Black,2005,5,1
+2571545,8,2,2,1,143735811,Stuyvesant Town/Turtle Bay,Others,2005,5,0
+380000,3,2,2,1,22435348,Central Harlem,Hispanic,2005,4,1
+500000,1,2,3,1,18812010,Chelsea/Clinton/Midtown,White,2005,2,1
+1295000,2,2,2,1,21242494,Upper East Side,White,2005,2,1
+250000,1,2,3,1,19239556,Chelsea/Clinton/Midtown,White,2005,2,0
+350000,2,2,3,1,18400875,Stuyvesant Town/Turtle Bay,White,2005,4,0
+2571545,7,2,1,2,176091014,Upper West Side,White,2005,5,1
+200000,2,2,3,1,18780457,Stuyvesant Town/Turtle Bay,White,2005,5,1
+2571545,3,2,3,1,41802951,Upper West Side,White,2005,3,1
+300000,1,2,3,1,26297000,Greenwich Village/Financial District,White,2005,4,0
+5000,4,2,3,1,17260512,Washington Heights/Inwood,Others,2005,2,1
+300000,1,2,3,2,19858024,Stuyvesant Town/Turtle Bay,White,2005,4,0
+200000,1,2,3,1,20436386,Upper East Side,Hispanic,2005,3,0
+150000,4,2,3,1,111146033,Morningside Heights/Hamilton Heights,White,2005,2,1
+400000,3,2,3,1,59594504,Lower East Side/Chinatown,White,2005,4,1
+900000,2,2,3,1,20528517,Upper East Side,White,2005,1,1
+750000,2,2,3,1,18145094,Upper East Side,White,2005,5,1
+300000,2,2,3,2,18744743,Lower East Side/Chinatown,Hispanic,2005,3,1
+500000,3,2,3,1,34315827,Morningside Heights/Hamilton Heights,Black,2005,4,2
+450000,3,2,3,1,101198614,Lower East Side/Chinatown,White,2005,4,1
+600000,2,2,3,2,19479520,Lower East Side/Chinatown,Hispanic,2005,4,1
+250000,1,2,3,1,24219316,Upper West Side,Others,2005,3,0
+1005000,3,2,3,1,36290188,Upper East Side,White,2005,4,2
+200000,2,2,3,1,20078376,Upper East Side,White,2005,1,1
+2571545,7,2,3,1,48973190,Greenwich Village/Financial District,White,2005,4,1
+675000,2,2,2,1,33268105,Greenwich Village/Financial District,White,2005,5,1
+425000,2,2,2,1,26751602,Greenwich Village/Financial District,White,2005,5,1
+175000,2,2,3,1,19137218,Chelsea/Clinton/Midtown,White,2005,5,1
+200000,4,2,3,1,96477343,Upper West Side,White,2005,5,2
+435000,1,2,3,1,20907379,Greenwich Village/Financial District,White,2005,4,0
+350000,2,2,3,1,19939285,Upper East Side,White,2005,3,1
+400000,4,2,3,2,59714498,Central Harlem,Black,2005,2,1
+420000,2,2,2,1,20901136,Upper East Side,White,2005,3,1
+700000,3,2,3,1,59364528,Upper West Side,White,2005,5,1
+700000,2,2,2,1,18331597,Stuyvesant Town/Turtle Bay,White,2005,3,1
+2571545,3,2,3,1,21430650,Upper West Side,White,2005,3,2
+1000000,2,2,3,1,39397622,Upper West Side,White,2005,5,0
+350000,2,2,3,1,42635918,Chelsea/Clinton/Midtown,White,2005,5,1
+300000,3,2,3,1,20528517,Upper East Side,Hispanic,2005,2,1
+400000,2,2,1,2,23474870,Upper West Side,White,2005,4,1
+1100000,4,2,3,1,17853611,Upper East Side,White,2005,4,2
+400000,2,2,3,1,20848251,Upper West Side,Others,2005,4,2
+750000,3,2,3,1,18145094,Upper East Side,White,2005,1,1
+1000000,5,2,3,1,100946414,Upper West Side,White,2005,5,3
+2571545,3,2,3,1,35747470,Stuyvesant Town/Turtle Bay,White,2005,5,3
+300000,2,2,3,1,18961720,Upper East Side,White,2005,4,1
+2571545,4,2,3,1,35707221,Upper East Side,White,2005,5,4
+800000,3,2,3,1,72245114,Upper West Side,White,2005,5,1
+500000,2,2,3,1,36865257,Stuyvesant Town/Turtle Bay,White,2005,5,0
+400000,1,2,3,1,25319746,Greenwich Village/Financial District,White,2005,2,0
+25000,2,2,3,1,13895897,East Harlem,White,2005,2,1
+950000,3,2,3,1,56118066,Upper West Side,White,2005,5,1
+225000,3,2,3,1,18380157,Upper East Side,White,2005,1,2
+275000,4,2,3,2,156408753,Lower East Side/Chinatown,Hispanic,2005,2,1
+2571545,4,2,3,1,22763092,Upper West Side,White,2005,4,2
+2571545,4,2,3,1,38024517,Upper East Side,White,2005,5,3
+350000,3,2,3,1,20231067,Upper East Side,White,2005,1,1
+1055000,3,2,3,1,38645317,Upper East Side,White,2005,5,2
+850000,3,2,2,1,38893767,Upper West Side,White,2005,5,2
+600000,3,2,3,1,92651300,Upper East Side,White,2005,5,3
+460000,3,2,3,1,45124689,Washington Heights/Inwood,Black,2005,5,2
+111000,3,2,3,1,54992900,Morningside Heights/Hamilton Heights,Others,2005,3,1
+500000,2,8,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,2,2,2,1,77627179,Greenwich Village/Financial District,White,2005,5,1
+650000,2,2,2,1,20528517,Upper East Side,White,2005,4,1
+300000,3,2,3,1,36629155,Chelsea/Clinton/Midtown,White,2005,4,1
+600000,2,2,3,1,20231067,Upper East Side,White,2005,4,1
+580000,2,3,3,2,20881511,Upper East Side,White,2005,3,1
+2571545,4,2,3,1,55406211,Greenwich Village/Financial District,White,2005,2,2
+700000,3,2,3,1,16740559,East Harlem,White,2005,2,1
+250000,1,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,4,0
+200000,3,2,3,1,21563773,Washington Heights/Inwood,White,2005,4,1
+1000000,3,2,2,1,38893767,Upper West Side,White,2005,5,2
+290000,1,2,3,1,16603448,Washington Heights/Inwood,Hispanic,2005,1,0
+300000,2,2,3,2,40475222,Upper West Side,White,2005,5,0
+612000,2,2,3,1,17903555,Stuyvesant Town/Turtle Bay,White,2005,5,1
+1100000,5,2,3,1,157362433,Upper East Side,White,2005,4,3
+90000,2,2,3,1,17640958,Lower East Side/Chinatown,White,2005,1,1
+2571545,4,2,1,2,96296038,Stuyvesant Town/Turtle Bay,White,2005,3,2
+535000,3,2,3,1,112255335,Morningside Heights/Hamilton Heights,White,2005,4,1
+300000,1,2,3,1,16837132,Greenwich Village/Financial District,White,2005,2,0
+650000,2,2,3,1,14799978,Stuyvesant Town/Turtle Bay,White,2005,5,1
+1000000,1,8,3,1,111044694,Upper East Side,Others,2005,4,0
+400000,3,2,3,1,56172129,Chelsea/Clinton/Midtown,Hispanic,2005,5,1
+875000,4,2,1,2,114023783,Greenwich Village/Financial District,White,2005,5,4
+250000,2,2,3,1,18829650,Washington Heights/Inwood,Black,2005,2,1
+1000000,3,2,3,1,63284100,Upper East Side,White,2005,4,2
+200000,3,2,3,1,66117811,Upper East Side,White,2005,4,1
+950000,1,2,3,1,40764536,Upper West Side,White,2005,5,1
+290000,1,2,3,1,23134729,Upper West Side,White,2005,4,0
+900000,2,2,3,1,24527447,Greenwich Village/Financial District,White,2005,5,2
+700000,2,2,2,1,20161281,Upper East Side,White,2005,3,1
+2571545,3,2,3,1,120935267,Upper East Side,White,2005,5,2
+1000000,4,2,3,1,158835700,Upper West Side,White,2005,5,1
+800000,2,2,2,1,19584712,Stuyvesant Town/Turtle Bay,Others,2005,3,1
+325000,1,2,3,1,38518429,Chelsea/Clinton/Midtown,White,2005,4,0
+175000,1,2,3,1,17636260,Chelsea/Clinton/Midtown,White,2005,3,0
+500000,2,2,3,1,38880151,Upper West Side,Black,2005,4,1
+2571545,5,2,3,1,105495688,Upper West Side,White,2005,5,3
+415000,2,2,3,1,21391288,Chelsea/Clinton/Midtown,White,2005,4,1
+2571545,3,2,2,1,135158962,Greenwich Village/Financial District,White,2005,5,1
+300000,4,2,3,2,31459165,Washington Heights/Inwood,Hispanic,2005,2,1
+2571545,2,2,2,1,18616052,Chelsea/Clinton/Midtown,White,2005,5,1
+280000,1,2,3,1,21179527,Upper East Side,Others,2005,3,0
+500000,1,2,2,1,19912000,Chelsea/Clinton/Midtown,White,2005,4,0
+1200000,3,2,3,1,25690264,Greenwich Village/Financial District,White,2005,4,2
+99000,1,2,3,1,36658486,Upper East Side,White,2005,3,1
+800000,3,2,2,1,38893767,Upper West Side,White,2005,5,1
+700000,3,2,3,1,23134729,Upper West Side,White,2005,3,2
+1300000,3,2,3,1,36290188,Upper East Side,White,2005,4,2
+50000,3,2,1,2,114385581,Central Harlem,White,2005,5,0
+270000,1,2,2,1,23434431,Upper West Side,White,2005,1,0
+2571545,2,2,3,1,36290188,Upper East Side,White,2005,5,3
+450000,2,2,3,1,80248880,Stuyvesant Town/Turtle Bay,White,2005,1,1
+300000,3,2,3,1,20754685,Central Harlem,Black,2005,2,3
+450000,2,2,3,1,36865257,Stuyvesant Town/Turtle Bay,White,2005,5,1
+200000,2,2,3,1,19718804,Washington Heights/Inwood,White,2005,3,1
+2571545,2,2,3,1,21685556,Upper West Side,White,2005,4,2
+600000,3,2,3,1,42255233,Upper East Side,White,2005,5,1
+1000000,5,2,1,2,89901330,Central Harlem,White,2005,5,3
+2571545,4,2,3,1,37324063,Upper West Side,White,2005,5,4
+275000,1,2,3,1,26023072,Greenwich Village/Financial District,White,2005,3,0
+175000,2,2,3,1,21496410,Upper West Side,White,2005,3,1
+800000,2,2,2,1,20714435,Upper West Side,White,2005,4,1
+1000000,2,2,3,1,20399724,Upper East Side,White,2005,3,1
+125000,3,2,1,2,165582272,East Harlem,Hispanic,2005,4,1
+5000,2,2,3,1,17260512,Washington Heights/Inwood,White,2005,5,1
+450000,2,2,3,1,41477136,Lower East Side/Chinatown,White,2005,5,1
+2571545,6,2,3,2,95579227,Upper East Side,White,2005,5,2
+800000,2,2,2,1,19858024,Stuyvesant Town/Turtle Bay,White,2005,2,1
+500000,2,2,2,1,20161281,Upper East Side,White,2005,3,1
+600000,3,2,2,1,20161281,Upper East Side,White,2005,5,1
+600000,3,2,2,1,43635126,Upper East Side,White,2005,5,1
+500000,2,2,2,1,16634052,Greenwich Village/Financial District,White,2005,4,1
+400000,1,2,3,1,19629298,Upper West Side,White,2005,1,0
+2571545,4,2,3,1,20198826,Upper East Side,White,2005,1,3
+1000000,3,2,3,1,70705322,Upper West Side,White,2005,1,1
+200000,3,2,2,1,35807109,Stuyvesant Town/Turtle Bay,White,2005,5,1
+600000,3,2,3,1,20231067,Upper East Side,White,2005,4,1
+450000,2,2,3,1,21356023,Upper East Side,White,2005,4,2
+600000,2,2,2,1,42782575,Upper East Side,White,2005,5,1
+400000,2,2,3,1,20231067,Upper East Side,White,2005,4,1
+300000,2,2,3,1,18314577,Chelsea/Clinton/Midtown,White,2005,1,1
+400000,3,2,3,1,38357906,Morningside Heights/Hamilton Heights,Black,2005,4,2
+2571545,2,2,2,1,19843314,Chelsea/Clinton/Midtown,White,2005,5,0
+2571545,3,2,2,1,87904998,Stuyvesant Town/Turtle Bay,White,2005,5,1
+500000,4,2,3,1,95640323,Central Harlem,Black,2005,4,1
+800000,4,2,3,1,39037304,Lower East Side/Chinatown,White,2005,4,2
+390000,1,2,3,1,24527447,Greenwich Village/Financial District,White,2005,3,0
+350000,3,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,4,1
+400000,2,2,3,2,21765657,Lower East Side/Chinatown,White,2005,3,1
+1000000,3,2,3,1,36290188,Upper East Side,White,2005,2,2
+950000,3,2,3,1,66308484,Upper East Side,White,2005,5,3
+300000,2,2,3,1,26067979,Greenwich Village/Financial District,White,2005,3,1
+350000,2,2,3,1,20699653,Upper East Side,White,2005,2,1
+500000,2,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,5,1
+300000,2,2,3,1,18829650,Washington Heights/Inwood,White,2005,3,2
+300000,4,2,3,1,19518652,Lower East Side/Chinatown,Others,2005,2,1
+390000,2,2,3,1,16382074,Greenwich Village/Financial District,Black,2005,2,0
+2571545,3,2,3,1,51610946,Stuyvesant Town/Turtle Bay,Hispanic,2005,5,3
+10000,2,2,3,1,50925229,Chelsea/Clinton/Midtown,White,2005,2,1
+500000,3,2,3,1,40409517,Upper East Side,White,2005,5,1
+130000,2,2,3,1,47095280,Washington Heights/Inwood,White,2005,4,1
+300000,2,2,2,2,20994112,Lower East Side/Chinatown,White,2005,2,1
+1200000,3,2,3,1,38024517,Upper East Side,White,2005,5,3
+650000,2,2,3,1,49772741,Greenwich Village/Financial District,White,2005,3,2
+250000,1,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,5,0
+200000,2,2,3,1,19770967,Stuyvesant Town/Turtle Bay,White,2005,1,0
+325000,2,2,3,1,109221407,Lower East Side/Chinatown,White,2005,3,1
+189000,3,2,3,1,19256755,East Harlem,Black,2005,1,1
+2571545,3,2,3,1,85524998,Greenwich Village/Financial District,White,2005,5,1
+500000,2,2,3,1,36165006,Upper East Side,White,2005,5,2
+350000,3,2,3,1,17652649,Stuyvesant Town/Turtle Bay,White,2005,5,1
+579000,2,2,3,1,26067979,Greenwich Village/Financial District,White,2005,5,1
+17000,2,2,3,1,35272519,Chelsea/Clinton/Midtown,White,2005,3,2
+2571545,4,2,3,1,79234384,Upper West Side,White,2005,5,1
+500000,5,2,3,2,156366172,Morningside Heights/Hamilton Heights,Hispanic,2005,5,1
+300000,3,2,3,1,18493947,Washington Heights/Inwood,White,2005,2,1
+200000,3,2,3,1,43559196,Upper West Side,White,2005,2,2
+200000,2,2,2,1,40409517,Upper East Side,White,2005,3,1
+500000,2,2,2,1,42065602,Greenwich Village/Financial District,Hispanic,2005,3,1
+350000,2,2,2,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,3,1
+415000,1,2,2,1,21391288,Stuyvesant Town/Turtle Bay,Others,2005,4,0
+400000,2,2,2,1,18616052,Chelsea/Clinton/Midtown,White,2005,3,1
+300000,3,2,3,1,115821645,Lower East Side/Chinatown,Others,2005,3,1
+10000,2,2,3,1,16717967,East Harlem,Hispanic,2005,2,1
+1200000,3,2,3,2,39823999,Stuyvesant Town/Turtle Bay,White,2005,3,1
+550000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,Others,2005,4,1
+2571545,3,2,2,1,18331597,Stuyvesant Town/Turtle Bay,White,2005,5,1
+850000,4,2,3,1,82905604,Stuyvesant Town/Turtle Bay,White,2005,5,3
+850000,1,2,3,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,5,0
+2571545,2,2,2,1,19239556,Chelsea/Clinton/Midtown,White,2005,2,2
+400000,2,2,2,1,19172516,Upper West Side,White,2005,2,1
+2571545,2,2,2,1,19584712,Stuyvesant Town/Turtle Bay,White,2005,2,1
+750000,4,2,3,1,55759589,Upper East Side,Hispanic,2005,4,4
+450000,2,2,3,1,61278686,Chelsea/Clinton/Midtown,White,2005,2,1
+1000000,3,2,3,1,36205771,Stuyvesant Town/Turtle Bay,White,2005,5,1
+275000,1,8,3,1,19524297,Stuyvesant Town/Turtle Bay,White,2005,4,0
+450000,2,2,3,1,37266703,Stuyvesant Town/Turtle Bay,Hispanic,2005,4,2
+600000,3,2,2,1,32553538,Greenwich Village/Financial District,White,2005,4,0
+2571545,3,2,3,1,38893767,Upper West Side,White,2005,5,2
+2571545,3,2,3,1,46269457,Upper West Side,White,2005,5,2
+450000,1,2,3,1,20528517,Upper East Side,White,2005,2,0
+400000,3,2,3,2,67078191,Lower East Side/Chinatown,White,2005,4,3
+200000,2,2,3,2,20545950,Washington Heights/Inwood,Hispanic,2005,5,1
+1300000,3,2,3,1,47763975,Greenwich Village/Financial District,White,2005,5,1
+1200000,5,2,1,2,155753214,Upper West Side,White,2005,5,3
+1100000,5,2,3,1,166012101,Upper East Side,Hispanic,2005,5,2
+100000,4,2,3,2,27041649,Morningside Heights/Hamilton Heights,Black,2005,2,2
+600000,3,2,3,1,128452203,Upper East Side,White,2005,5,2
+800000,3,2,3,1,33243604,Greenwich Village/Financial District,Others,2005,4,0
+1100000,5,2,3,1,38024517,Upper East Side,White,2005,2,3
+2571545,4,2,3,1,103459258,Upper West Side,White,2005,5,1
+185000,4,2,3,1,49320594,Morningside Heights/Hamilton Heights,White,2005,3,2
+2571545,4,2,2,1,55603984,Stuyvesant Town/Turtle Bay,White,2005,5,3
+189000,3,2,3,1,61103864,East Harlem,Black,2005,2,1
+2571545,4,2,3,1,22763092,Upper West Side,White,2005,1,3
+300000,3,2,3,1,37409291,Washington Heights/Inwood,White,2005,4,1
+600000,2,2,3,1,18331597,Stuyvesant Town/Turtle Bay,White,2005,5,2
+650000,2,2,2,1,40538739,Lower East Side/Chinatown,White,2005,4,0
+2571545,3,2,2,1,41067518,Upper West Side,White,2005,4,2
+125000,4,2,1,2,102492507,Washington Heights/Inwood,White,2005,1,2
+1000000,3,2,3,1,23134729,Upper West Side,White,2005,4,2
+300000,4,2,3,1,78071649,Morningside Heights/Hamilton Heights,Others,2005,3,2
+550000,3,2,3,1,18411875,Upper East Side,White,2005,4,1
+200000,1,2,3,1,18215282,Upper East Side,Black,2005,1,0
+200000,2,2,3,1,15132076,Upper West Side,Others,2005,2,0
+600000,2,2,3,1,18112915,Chelsea/Clinton/Midtown,White,2005,2,2
+1000000,3,2,3,1,78780309,Greenwich Village/Financial District,White,2005,5,2
+450000,3,2,3,1,74081079,Lower East Side/Chinatown,White,2005,3,1
+600000,3,2,3,1,83418669,Upper East Side,White,2005,4,2
+200000,2,2,3,1,20662694,Chelsea/Clinton/Midtown,White,2005,2,1
+6500,2,2,3,1,47908956,Central Harlem,Black,2005,3,2
+150000,2,2,3,1,18088471,Chelsea/Clinton/Midtown,Others,2005,3,1
+150000,2,2,3,1,36176943,Chelsea/Clinton/Midtown,Hispanic,2005,5,1
+550000,2,2,2,1,20378307,Chelsea/Clinton/Midtown,White,2005,5,2
+500000,4,2,2,1,36290188,Upper East Side,Others,2005,5,1
+1200000,4,2,3,1,94095187,Stuyvesant Town/Turtle Bay,White,2005,5,1
+750000,3,2,3,1,38645317,Upper East Side,White,2005,4,1
+300000,1,2,3,2,21034111,Stuyvesant Town/Turtle Bay,White,2005,4,0
+2571545,3,2,1,2,35707221,Upper East Side,White,2005,4,3
+1000000,3,2,3,1,22763092,Upper West Side,White,2005,4,3
+15000,4,2,3,1,84223220,Morningside Heights/Hamilton Heights,Black,2005,4,1
+500000,2,2,3,1,25690264,Greenwich Village/Financial District,White,2005,3,1
+6500,3,2,3,1,60563057,Central Harlem,Black,2005,4,0
+1200000,3,2,3,1,48661784,Upper West Side,White,2005,5,1
+500000,4,3,3,2,45747887,Morningside Heights/Hamilton Heights,Hispanic,2005,2,1
+800000,3,2,2,1,40726532,Upper West Side,White,2005,5,1
+10000,3,2,3,1,43721781,Washington Heights/Inwood,Hispanic,2005,2,1
+500000,2,2,3,1,39647631,Stuyvesant Town/Turtle Bay,White,2005,5,1
+250000,2,2,3,1,19820261,Lower East Side/Chinatown,White,2005,1,1
+600000,1,2,3,1,18995761,Upper East Side,White,2005,4,0
+550000,2,2,3,2,18112915,Chelsea/Clinton/Midtown,White,2005,5,1
+400000,3,2,2,1,20231067,Upper East Side,White,2005,4,2
+900000,4,2,3,1,142081235,Greenwich Village/Financial District,White,2005,5,1
+350000,2,2,3,1,19823815,Stuyvesant Town/Turtle Bay,White,2005,4,1
+580000,2,2,3,1,36823749,Upper East Side,White,2005,3,1
+1000000,3,2,3,1,20794410,Greenwich Village/Financial District,White,2005,3,2
+325000,2,2,2,1,68368940,Chelsea/Clinton/Midtown,Others,2005,2,1
+22000,2,2,3,1,17883396,Upper East Side,White,2005,4,1
+400000,3,2,3,2,20231067,Upper East Side,White,2005,4,2
+1000000,3,2,3,1,100946414,Upper West Side,White,2005,5,4
+550000,2,2,3,1,21293396,Upper East Side,White,2005,5,1
+500000,3,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,3,2,3,1,49772741,Greenwich Village/Financial District,White,2005,5,0
+600000,2,8,3,1,20231067,Upper East Side,White,2005,5,2
+500000,2,2,3,1,18411875,Upper East Side,White,2005,4,1
+300000,3,2,3,1,68074618,Washington Heights/Inwood,White,2005,3,3
+1000000,3,2,3,1,18916018,Stuyvesant Town/Turtle Bay,White,2005,5,1
+1000000,3,2,3,1,40763356,Upper West Side,White,2005,4,3
+450000,2,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,4,1
+450000,1,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,2,0
+500000,2,2,3,1,26023072,Greenwich Village/Financial District,White,2005,4,1
+160000,2,2,2,1,18395050,Stuyvesant Town/Turtle Bay,Others,2005,4,1
+2571545,2,2,2,1,39169425,Stuyvesant Town/Turtle Bay,White,2005,4,1
+275000,1,2,3,1,25319746,Greenwich Village/Financial District,White,2005,1,0
+1000000,2,2,3,1,23054926,Upper West Side,White,2005,3,1
+390000,2,2,3,1,15106429,Greenwich Village/Financial District,Black,2005,2,0
+1000000,1,2,1,2,16578833,East Harlem,Hispanic,2005,1,1
+4100,2,2,3,1,19225377,Lower East Side/Chinatown,White,2005,2,1
+289000,2,2,3,1,40578251,Washington Heights/Inwood,White,2005,4,2
+400000,3,2,3,1,38880151,Upper West Side,White,2005,5,2
+350000,1,2,3,1,22201040,Upper West Side,White,2005,2,0
+23000,3,2,3,1,37085640,Upper East Side,White,2005,3,1
+2571545,4,2,3,1,84410189,Upper East Side,White,2005,4,4
+580000,2,2,3,1,37951547,Upper East Side,White,2005,5,1
+2571545,1,2,3,1,18145094,Upper East Side,White,2005,1,0
+250000,2,2,3,1,19912000,Upper West Side,White,2005,3,0
+180000,2,2,3,1,35883696,Washington Heights/Inwood,White,2005,4,1
+425000,2,2,2,1,24800526,Greenwich Village/Financial District,White,2005,4,1
+100000,2,2,3,1,16154723,Morningside Heights/Hamilton Heights,Black,2005,3,1
+600000,3,2,3,1,41122622,Lower East Side/Chinatown,White,2005,5,1
+600000,1,2,3,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,1,2
+350000,2,2,3,1,18829650,Washington Heights/Inwood,White,2005,3,2
+300000,1,2,3,1,40064974,Stuyvesant Town/Turtle Bay,White,2005,4,0
+200000,2,2,3,1,14995428,Chelsea/Clinton/Midtown,Hispanic,2005,1,0
+1000000,3,2,3,1,66419109,Upper East Side,White,2005,4,2
+500000,5,2,3,2,18882654,Morningside Heights/Hamilton Heights,Hispanic,2005,1,1
+200000,1,2,3,1,39249638,Chelsea/Clinton/Midtown,White,2005,5,0
+350000,2,2,3,1,37991522,Upper East Side,White,2005,5,1
+1000000,3,2,3,1,23134729,Upper West Side,White,2005,2,1
+600000,2,2,3,1,46949740,Upper West Side,White,2005,5,1
+2571545,3,2,3,1,17853611,Upper East Side,White,2005,5,4
+1100000,2,2,3,1,37991522,Upper East Side,White,2005,5,1
+150000,3,2,3,1,50730776,Chelsea/Clinton/Midtown,Hispanic,2005,1,1
+8000,2,2,3,1,37156500,Lower East Side/Chinatown,White,2005,3,1
+75000,3,2,3,1,20231067,Upper East Side,White,2005,3,1
+500000,3,2,2,1,38645317,Upper East Side,Others,2005,3,1
+225000,1,2,3,1,21179527,Upper East Side,White,2005,1,0
+500000,3,2,3,1,17883396,Upper East Side,White,2005,3,2
+2571545,3,2,3,1,54863865,Upper East Side,White,2005,5,4
+1000000,4,2,1,2,69268818,Central Harlem,Black,2005,5,4
+2571545,4,2,3,1,39823999,Upper East Side,White,2005,4,4
+250000,3,2,3,1,22801068,Upper West Side,Black,2005,4,1
+2571545,4,2,3,1,39184265,Upper East Side,White,2005,5,3
+400000,1,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,5,1
+1000000,4,2,3,2,74251777,Lower East Side/Chinatown,Hispanic,2005,4,1
+800000,4,2,3,1,58127173,Stuyvesant Town/Turtle Bay,White,2005,5,4
+1200000,2,2,3,2,19108376,Stuyvesant Town/Turtle Bay,White,2005,5,1
+2571545,5,2,2,1,20629406,Greenwich Village/Financial District,White,2005,5,1
+2571545,4,2,3,1,115103141,Upper West Side,White,2005,5,3
+2571545,4,8,3,1,61829766,Upper East Side,White,2005,5,4
+800000,4,2,1,2,72540591,Morningside Heights/Hamilton Heights,Hispanic,2005,4,4
+600000,1,2,3,1,21391288,Greenwich Village/Financial District,White,2005,4,1
+500000,2,2,3,1,14799978,Stuyvesant Town/Turtle Bay,White,2005,1,1
+50000,3,2,1,2,119196190,Central Harlem,White,2005,3,1
+600000,2,2,3,1,14799978,Stuyvesant Town/Turtle Bay,White,2005,4,1
+1000000,2,2,3,1,20468035,Upper West Side,White,2005,3,0
+15000,3,2,3,1,22736604,Stuyvesant Town/Turtle Bay,White,2005,4,2
+500000,3,2,3,1,63903268,Washington Heights/Inwood,White,2005,3,2
+400000,1,2,3,2,17652649,Stuyvesant Town/Turtle Bay,Black,2005,3,0
+2571545,1,2,2,1,18665506,Stuyvesant Town/Turtle Bay,White,2005,3,1
+2571545,2,2,2,1,132274927,Greenwich Village/Financial District,White,2005,5,1
+380000,3,2,2,2,76412497,Greenwich Village/Financial District,White,2005,5,2
+500000,2,2,3,1,39465608,Upper West Side,White,2005,5,1
+800000,3,2,3,1,20714435,Upper West Side,White,2005,3,2
+900000,4,2,3,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,1,1
+200000,2,2,3,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,5,1
+385000,3,2,3,1,15631275,Washington Heights/Inwood,Black,2005,3,1
+2571545,3,2,2,1,102638310,Upper East Side,White,2005,5,3
+300000,2,2,3,1,37923441,Upper East Side,White,2005,5,0
+600000,2,2,3,1,20768024,Upper East Side,White,2005,5,1
+2571545,2,2,3,1,20231067,Upper East Side,White,2005,5,1
+250000,3,2,3,1,40339906,Washington Heights/Inwood,White,2005,3,2
+480000,2,2,3,1,21121567,Chelsea/Clinton/Midtown,White,2005,4,1
+850000,2,2,3,1,18215282,Stuyvesant Town/Turtle Bay,White,2005,2,1
+400000,2,2,2,1,18648176,Chelsea/Clinton/Midtown,White,2005,3,0
+400000,2,2,2,1,57530940,Central Harlem,White,2005,3,1
+1000000,2,2,3,1,20528517,Upper East Side,White,2005,4,1
+600000,2,2,3,2,48699056,Upper West Side,White,2005,5,1
+700000,4,2,3,1,85884862,Upper West Side,Others,2005,5,1
+250000,3,2,2,2,14760235,Central Harlem,Black,2005,2,1
+10000,2,2,3,1,18775336,East Harlem,Black,2005,2,1
+600000,1,2,3,1,21391288,Greenwich Village/Financial District,Hispanic,2005,2,1
+750000,2,2,2,1,20161281,Upper East Side,White,2005,5,1
+300000,2,2,3,1,19178646,Chelsea/Clinton/Midtown,White,2005,1,0
+180000,2,2,3,2,40194956,Lower East Side/Chinatown,Others,2005,3,1
+395000,2,2,3,1,18112546,Chelsea/Clinton/Midtown,White,2005,5,1
+200000,3,2,3,1,19685633,Washington Heights/Inwood,White,2005,2,2
+250000,3,2,3,1,23033624,Washington Heights/Inwood,White,2005,3,1
+800000,3,2,2,1,18395050,Stuyvesant Town/Turtle Bay,Hispanic,2005,5,1
+2571545,2,2,2,1,17432408,Stuyvesant Town/Turtle Bay,White,2005,5,1
+1000000,5,2,3,1,93080015,Upper East Side,White,2005,2,3
+400000,2,2,3,1,22801068,Upper West Side,Others,2005,3,1
+600000,2,2,3,1,21177396,Lower East Side/Chinatown,White,2005,4,1
+300000,3,2,3,1,37359169,Lower East Side/Chinatown,Hispanic,2005,2,2
+450000,2,2,2,1,20528517,Upper East Side,White,2005,3,1
+400000,2,2,3,1,19732804,Upper West Side,White,2005,4,2
+1000000,5,2,2,1,78228096,Upper West Side,White,2005,5,2
+650000,2,2,3,1,20528517,Upper East Side,White,2005,3,1
+2571545,2,2,3,1,18395050,Stuyvesant Town/Turtle Bay,White,2005,2,1
+200000,3,2,3,1,53578729,Upper East Side,White,2005,2,1
+700000,4,2,3,1,39823999,Lower East Side/Chinatown,White,2005,2,1
+600000,3,2,2,1,95150374,Upper East Side,White,2005,5,1
+500000,1,2,2,1,88071569,Greenwich Village/Financial District,White,2005,5,0
+400000,2,2,3,1,20448810,Lower East Side/Chinatown,White,2005,4,1
+650000,3,2,3,1,20161281,Upper East Side,White,2005,3,1
+1300000,3,2,3,1,111086350,Upper East Side,White,2005,5,3
+350000,1,2,3,1,19584712,Stuyvesant Town/Turtle Bay,White,2005,2,0
+1000000,3,2,3,1,23134729,Upper West Side,White,2005,1,0
+200000,2,2,3,1,88760885,Upper East Side,White,2005,2,0
+300000,3,2,2,2,56014130,Central Harlem,Black,2005,4,1
+500000,5,2,3,2,29998632,Morningside Heights/Hamilton Heights,Hispanic,2005,4,1
+300000,2,2,2,1,13877144,Central Harlem,Hispanic,2005,3,1
+200000,4,2,2,1,39140578,Stuyvesant Town/Turtle Bay,White,2005,5,1
+2571545,2,2,3,1,39812149,Upper East Side,White,2005,5,1
+700000,3,2,2,1,40726599,Chelsea/Clinton/Midtown,White,2005,2,4
+1250000,3,2,2,1,62357793,Upper East Side,White,2005,3,1
+900000,3,2,3,1,89452421,Stuyvesant Town/Turtle Bay,White,2005,4,1
+600000,2,2,3,1,19820261,Lower East Side/Chinatown,White,2005,3,0
+200000,2,2,3,1,18129747,Stuyvesant Town/Turtle Bay,Others,2005,4,1
+2571545,3,2,3,1,19446883,Upper West Side,White,2005,5,2
+2571545,2,2,3,1,39823999,Upper East Side,White,2005,5,1
+350000,2,2,3,2,21765657,Lower East Side/Chinatown,White,2005,2,1
+2571545,5,2,1,2,102640765,Upper East Side,White,2005,3,2
+15000,2,2,3,1,16717967,East Harlem,Black,2005,1,2
+1000000,3,2,2,1,29430791,Chelsea/Clinton/Midtown,White,2005,5,1
+1000000,3,2,3,1,62357793,Upper East Side,White,2005,5,1
+500000,2,2,2,1,49570991,Chelsea/Clinton/Midtown,White,2005,2,0
+2571545,5,2,1,2,141424604,Stuyvesant Town/Turtle Bay,White,2005,4,3
+275000,2,2,3,2,23434431,Upper West Side,White,2005,4,1
+2571545,4,2,1,2,28702460,Stuyvesant Town/Turtle Bay,White,2005,4,2
+1000000,3,2,3,1,58538331,Upper West Side,Others,2005,5,2
+2571545,7,2,3,2,45176470,Greenwich Village/Financial District,White,2005,4,1
+415000,2,2,2,1,42782575,Stuyvesant Town/Turtle Bay,Others,2005,4,1
+650000,3,2,3,1,19256006,Upper East Side,White,2005,3,1
+380000,2,2,2,1,56115582,Stuyvesant Town/Turtle Bay,White,2005,4,1
+2571545,3,2,1,2,45875662,Chelsea/Clinton/Midtown,White,2005,3,2
+2571545,3,2,2,1,38216753,Upper East Side,White,2005,5,1
+250000,1,2,3,2,15950967,Greenwich Village/Financial District,White,2005,3,1
+400000,3,2,3,1,74383069,Central Harlem,Black,2005,4,1
+2571545,7,2,2,1,41258812,Upper East Side,White,2005,5,1
+380000,3,2,2,2,19853359,Central Harlem,Black,2005,4,1
+2571545,3,2,3,1,67391056,Upper East Side,White,2005,5,2
+700000,3,2,3,1,14099243,East Harlem,Others,2005,4,1
+520000,2,2,3,1,18331597,Stuyvesant Town/Turtle Bay,White,2005,5,1
+290000,2,2,3,1,44870696,Washington Heights/Inwood,White,2005,4,2
+800000,3,2,3,1,19446883,Upper West Side,White,2005,4,2
+600000,2,2,3,1,40339906,Upper East Side,White,2005,5,1
+189000,3,2,3,1,62743850,East Harlem,Hispanic,2005,3,1
+950000,3,2,3,1,79297771,Stuyvesant Town/Turtle Bay,White,2005,5,0
+579000,2,2,3,1,16354789,Greenwich Village/Financial District,White,2005,3,2
+200000,3,2,3,1,18215282,Upper East Side,Black,2005,3,0
+1200000,3,2,3,1,72245114,Upper West Side,White,2005,5,1
+15000,2,2,3,1,24918824,Morningside Heights/Hamilton Heights,White,2005,3,2
+2571545,2,2,3,1,23134729,Upper West Side,White,2005,5,1
+200000,3,2,3,1,36676968,Upper West Side,Black,2005,3,1
+300000,2,2,2,1,13877144,Central Harlem,Black,2005,2,1
+2571545,4,2,3,1,35707221,Upper East Side,White,2005,5,3
+1000000,2,2,3,1,20528517,Upper East Side,White,2005,5,1
+600000,3,2,3,1,39823999,Upper East Side,White,2005,5,1
+400000,2,2,3,1,18129747,Stuyvesant Town/Turtle Bay,White,2005,3,1
+290000,1,2,3,1,21038466,Upper West Side,White,2005,3,0
+2571545,3,2,3,1,71271805,Stuyvesant Town/Turtle Bay,White,2005,5,2
+2500,3,2,3,1,19764258,Central Harlem,Black,2005,1,1
+600000,2,2,3,1,21391288,Greenwich Village/Financial District,Black,2005,2,1
+2571545,4,2,3,1,47880080,Upper West Side,White,2005,3,2
+160000,2,2,3,1,76504630,Lower East Side/Chinatown,Others,2005,2,0
+400000,2,2,3,2,19786117,Lower East Side/Chinatown,White,2005,4,1
+800000,1,2,2,1,23474870,Upper West Side,White,2005,5,0
+550000,2,2,3,2,18616052,Chelsea/Clinton/Midtown,White,2005,4,0
+400000,2,2,3,1,58817315,Upper East Side,White,2005,5,0
+450000,1,2,3,1,18112915,Chelsea/Clinton/Midtown,White,2005,2,0
+400000,2,2,3,2,19225377,Lower East Side/Chinatown,White,2005,4,1
+270000,1,2,2,1,19379802,Upper West Side,White,2005,2,0
+1300000,3,2,2,1,60060453,Upper East Side,White,2005,4,2
+1200000,2,2,1,2,69104412,Chelsea/Clinton/Midtown,Others,2005,5,1
+300000,1,2,2,1,22801068,Upper West Side,Others,2005,4,2
+2571545,4,2,3,1,92881918,Chelsea/Clinton/Midtown,Others,2005,5,1
+200000,4,2,3,1,22038504,Washington Heights/Inwood,White,2005,5,2
+45000,1,2,3,2,19172516,Upper West Side,White,2005,4,0
+2571545,4,2,3,1,39184265,Upper East Side,White,2005,3,2
+1000000,3,8,1,2,111072129,Central Harlem,White,2005,4,1
+1000000,3,2,3,1,19158397,Upper West Side,White,2005,2,1
+400000,2,2,3,1,26067979,Greenwich Village/Financial District,White,2005,3,1
+280000,2,2,3,2,39274837,Lower East Side/Chinatown,White,2005,4,0
+1000000,2,2,3,1,57460257,Upper East Side,White,2005,3,1
+500000,2,2,2,1,16634052,Greenwich Village/Financial District,White,2005,3,1
+1000000,3,2,2,1,37232104,Chelsea/Clinton/Midtown,White,2005,4,2
+750000,3,2,3,1,17652649,Stuyvesant Town/Turtle Bay,White,2005,5,1
+2571545,3,2,2,1,18616052,Chelsea/Clinton/Midtown,White,2005,4,1
+390000,1,2,3,1,16382074,Greenwich Village/Financial District,White,2005,5,0
+200000,3,2,3,1,82180684,Morningside Heights/Hamilton Heights,Others,2005,5,1
+650000,2,2,3,1,24800526,Greenwich Village/Financial District,White,2005,4,0
+375000,2,2,3,1,45602136,Upper West Side,White,2005,2,1
+300000,2,2,3,1,20335427,Greenwich Village/Financial District,White,2005,5,1
+1100000,1,2,3,1,21179527,Upper East Side,White,2005,3,0
+1000000,3,2,2,1,20363300,Chelsea/Clinton/Midtown,Others,2005,2,1
+1500000,3,2,3,1,27614388,Greenwich Village/Financial District,White,2008,4,2
+1300000,3,2,3,1,50144220,Greenwich Village/Financial District,White,2008,5,2
+550000,1,2,3,1,16519050,Greenwich Village/Financial District,White,2008,4,1
+800000,2,2,3,1,20455038,Greenwich Village/Financial District,White,2008,4,1
+1500000,2,2,3,1,55228777,Greenwich Village/Financial District,White,2008,5,2
+1500000,5,2,2,1,50786110,Greenwich Village/Financial District,White,2008,4,2
+1500000,2,2,2,1,52684750,Greenwich Village/Financial District,White,2008,3,1
+1500000,2,2,3,1,25919845,Greenwich Village/Financial District,White,2008,4,1
+1500000,3,2,2,1,28548082,Greenwich Village/Financial District,White,2008,4,0
+1500000,2,2,2,1,27724422,Greenwich Village/Financial District,White,2008,5,1
+1500000,3,2,2,1,28548082,Greenwich Village/Financial District,White,2008,4,0
+850000,3,2,3,1,127965429,Greenwich Village/Financial District,White,2008,5,1
+800000,2,2,3,1,55228777,Greenwich Village/Financial District,White,2008,5,1
+800000,3,2,3,1,97949761,Greenwich Village/Financial District,White,2008,4,1
+1250000,2,2,2,1,25072110,Greenwich Village/Financial District,White,2008,3,1
+450000,2,2,3,1,41547429,Greenwich Village/Financial District,White,2008,4,0
+450000,3,2,3,1,28131899,Greenwich Village/Financial District,White,2008,3,1
+650000,2,2,3,1,50144220,Greenwich Village/Financial District,White,2008,5,1
+350000,1,2,3,1,27710867,Greenwich Village/Financial District,White,2008,2,1
+500000,1,2,3,1,20849618,Greenwich Village/Financial District,White,2008,4,0
+500000,4,2,2,1,20221179,Greenwich Village/Financial District,White,2008,5,3
+500000,3,2,3,1,33175035,Greenwich Village/Financial District,White,2008,5,1
+1000000,3,2,3,1,80350399,Greenwich Village/Financial District,White,2008,4,1
+1000000,2,2,3,1,50144220,Greenwich Village/Financial District,White,2008,5,0
+1000000,1,2,2,1,29207526,Greenwich Village/Financial District,White,2008,4,0
+500000,2,2,2,1,27614388,Greenwich Village/Financial District,White,2008,5,1
+1000000,3,2,2,1,40241124,Greenwich Village/Financial District,White,2008,5,2
+550000,2,2,2,1,25263989,Greenwich Village/Financial District,White,2008,5,1
+750000,2,2,2,1,27825723,Greenwich Village/Financial District,Others,2008,5,0
+400000,1,2,3,1,25919845,Greenwich Village/Financial District,White,2008,5,0
+400000,3,2,3,1,89734549,Greenwich Village/Financial District,White,2008,5,0
+400000,3,2,3,1,95751676,Greenwich Village/Financial District,White,2008,5,1
+25000,3,2,3,1,38809101,Greenwich Village/Financial District,White,2008,2,1
+25000,2,2,3,1,46778740,Greenwich Village/Financial District,White,2008,4,2
+400000,4,2,3,1,55421734,Greenwich Village/Financial District,White,2008,5,2
+400000,4,2,3,1,37272752,Greenwich Village/Financial District,White,2008,5,2
+950000,2,2,3,1,27614388,Greenwich Village/Financial District,White,2008,3,1
+1750000,3,2,3,1,50220577,Greenwich Village/Financial District,White,2008,5,2
+650000,1,2,3,1,25072110,Greenwich Village/Financial District,White,2008,5,0
+650000,2,2,2,1,16394505,Greenwich Village/Financial District,White,2008,5,0
+650000,3,2,2,1,81236234,Greenwich Village/Financial District,White,2008,5,1
+650000,2,2,3,1,27825723,Greenwich Village/Financial District,White,2008,2,1
+600000,2,8,3,1,25072110,Greenwich Village/Financial District,White,2008,5,1
+465000,2,2,3,1,37152289,Greenwich Village/Financial District,White,2008,5,3
+465000,2,2,2,1,41177673,Greenwich Village/Financial District,White,2008,5,1
+890000,3,2,2,1,74804525,Greenwich Village/Financial District,Others,2008,2,1
+3998500,3,2,2,1,91173211,Greenwich Village/Financial District,White,2008,5,2
+3998500,3,2,2,1,59907944,Greenwich Village/Financial District,White,2008,5,1
+550000,2,2,2,1,82017177,Greenwich Village/Financial District,Others,2008,4,1
+800000,2,2,3,2,27825723,Greenwich Village/Financial District,White,2008,2,1
+376000,2,2,3,1,16461537,Greenwich Village/Financial District,White,2008,4,1
+376000,1,2,3,1,17018132,Greenwich Village/Financial District,White,2008,5,1
+376000,3,2,3,1,114594578,Greenwich Village/Financial District,White,2008,5,1
+376000,3,2,3,1,33054261,Greenwich Village/Financial District,White,2008,5,1
+376000,3,2,3,1,57096165,Greenwich Village/Financial District,White,2008,5,1
+1000000,2,2,1,2,16486603,Greenwich Village/Financial District,White,2008,4,0
+1700000,2,2,3,2,50144220,Greenwich Village/Financial District,White,2008,5,0
+660000,2,2,3,1,27724422,Greenwich Village/Financial District,White,2008,5,1
+660000,1,2,3,1,27614388,Greenwich Village/Financial District,White,2008,4,0
+660000,3,2,3,1,86936439,Greenwich Village/Financial District,White,2008,5,2
+660000,3,2,3,1,55228777,Greenwich Village/Financial District,White,2008,5,1
+1100000,3,2,3,2,32923073,Greenwich Village/Financial District,White,2008,5,0
+1100000,2,2,2,1,20763557,Greenwich Village/Financial District,White,2008,3,1
+1100000,2,2,3,1,21079033,Greenwich Village/Financial District,White,2008,3,1
+1100000,2,2,3,1,20773714,Greenwich Village/Financial District,White,2008,4,2
+1100000,3,2,2,1,28131899,Greenwich Village/Financial District,White,2008,3,1
+1250000,3,2,3,1,32923073,Greenwich Village/Financial District,White,2008,5,1
+1250000,2,2,3,1,41382533,Greenwich Village/Financial District,White,2008,3,0
+1000000,4,2,1,2,51058340,Greenwich Village/Financial District,White,2008,5,4
+1000000,4,2,1,2,94697177,Greenwich Village/Financial District,White,2008,5,1
+3998500,4,2,3,2,50786110,Greenwich Village/Financial District,White,2008,5,2
+900000,2,2,3,1,25072110,Greenwich Village/Financial District,White,2008,5,1
+1000000,3,2,3,1,50144220,Greenwich Village/Financial District,White,2008,5,2
+2000000,3,2,3,1,71390884,Greenwich Village/Financial District,White,2008,5,1
+2000000,4,2,3,1,41177673,Greenwich Village/Financial District,White,2008,5,1
+2000000,2,2,3,1,16461537,Greenwich Village/Financial District,White,2008,5,0
+2000000,3,2,3,1,76337252,Lower East Side/Chinatown,White,2008,2,3
+650000,3,2,3,1,46266939,Lower East Side/Chinatown,Others,2008,2,1
+500000,2,2,3,1,100336782,Lower East Side/Chinatown,Others,2008,4,1
+500000,3,2,3,1,49861607,Lower East Side/Chinatown,Black,2008,2,1
+500000,2,2,3,1,45670476,Lower East Side/Chinatown,White,2008,5,0
+500000,3,2,3,1,152018159,Lower East Side/Chinatown,White,2008,5,1
+425000,2,2,3,1,105320447,Lower East Side/Chinatown,Others,2008,5,1
+425000,1,2,3,1,21517136,Lower East Side/Chinatown,Black,2008,4,1
+950000,4,2,3,1,63828205,Lower East Side/Chinatown,White,2008,5,1
+700000,3,2,3,1,18119993,Lower East Side/Chinatown,White,2008,4,1
+600000,3,2,3,1,57649998,Lower East Side/Chinatown,White,2008,2,1
+600000,3,2,3,1,46428586,Lower East Side/Chinatown,White,2008,4,1
+600000,2,2,3,1,40910076,Lower East Side/Chinatown,White,2008,2,1
+450000,3,2,3,1,37104892,Lower East Side/Chinatown,White,2008,5,1
+450000,2,2,3,1,17823254,Lower East Side/Chinatown,White,2008,1,1
+450000,2,2,3,1,73727160,Lower East Side/Chinatown,White,2008,5,0
+450000,2,2,2,1,23054074,Lower East Side/Chinatown,White,2008,1,1
+850000,4,2,2,1,39057313,Lower East Side/Chinatown,White,2008,4,2
+850000,4,2,3,1,88077979,Lower East Side/Chinatown,White,2008,3,1
+450000,2,2,3,1,22209197,Lower East Side/Chinatown,White,2008,3,1
+450000,2,2,3,1,55472686,Lower East Side/Chinatown,White,2008,4,1
+450000,2,2,3,1,41390801,Lower East Side/Chinatown,White,2008,4,1
+500000,2,2,3,1,18119993,Lower East Side/Chinatown,White,2008,4,1
+500000,2,2,3,1,18119993,Lower East Side/Chinatown,White,2008,4,1
+350000,3,2,3,1,60145463,Lower East Side/Chinatown,White,2008,3,2
+350000,3,2,3,1,19019818,Lower East Side/Chinatown,White,2008,2,2
+350000,2,2,3,1,17661259,Lower East Side/Chinatown,White,2008,1,2
+350000,1,2,3,1,35385774,Lower East Side/Chinatown,White,2008,1,0
+350000,3,2,3,1,37675902,Lower East Side/Chinatown,White,2008,5,1
+500000,3,2,3,2,46428586,Lower East Side/Chinatown,Hispanic,2008,5,1
+400000,3,2,3,2,101739965,Lower East Side/Chinatown,White,2008,4,0
+1000000,4,2,1,2,69767164,Lower East Side/Chinatown,White,2008,5,1
+400000,3,2,3,2,68865122,Lower East Side/Chinatown,White,2008,5,3
+1000000,3,2,1,2,18054027,Lower East Side/Chinatown,Hispanic,2008,1,1
+400000,2,2,3,2,42719774,Lower East Side/Chinatown,White,2008,3,1
+400000,2,2,3,2,67837665,Lower East Side/Chinatown,Black,2008,4,1
+400000,3,2,3,2,40788491,Lower East Side/Chinatown,Hispanic,2008,5,1
+400000,2,2,2,1,38563664,Lower East Side/Chinatown,White,2008,3,1
+400000,3,2,2,1,19742106,Lower East Side/Chinatown,Others,2008,5,1
+400000,2,2,3,2,18623682,Lower East Side/Chinatown,Hispanic,2008,1,1
+400000,4,2,3,2,39865929,Lower East Side/Chinatown,Hispanic,2008,2,0
+7000,1,2,3,2,17969886,Lower East Side/Chinatown,White,2008,1,1
+600000,3,2,3,1,118021655,Lower East Side/Chinatown,White,2008,4,0
+200000,2,2,3,2,51526662,Lower East Side/Chinatown,White,2008,4,2
+200000,2,2,3,2,18077515,Lower East Side/Chinatown,White,2008,3,1
+200000,2,2,3,2,21132901,Lower East Side/Chinatown,White,2008,4,1
+650000,2,2,3,2,19346802,Lower East Side/Chinatown,Hispanic,2008,3,1
+650000,2,2,3,2,61739390,Lower East Side/Chinatown,Hispanic,2008,1,1
+550000,2,2,3,2,38698398,Lower East Side/Chinatown,White,2008,4,0
+1500000,6,2,3,2,159720076,Lower East Side/Chinatown,White,2008,5,2
+1500000,2,2,3,2,36239987,Lower East Side/Chinatown,White,2008,5,0
+1500000,2,2,3,2,18119993,Lower East Side/Chinatown,White,2008,5,0
+600000,2,2,3,2,43363615,Lower East Side/Chinatown,White,2008,5,1
+800000,2,2,3,2,22244670,Lower East Side/Chinatown,White,2008,5,1
+800000,3,1,3,2,70752671,Lower East Side/Chinatown,White,2008,5,1
+800000,3,1,3,2,39133068,Lower East Side/Chinatown,Hispanic,2008,1,2
+2000000,2,2,3,1,18675062,Chelsea/Clinton/Midtown,White,2008,4,1
+3998500,4,2,3,1,40518071,Chelsea/Clinton/Midtown,White,2008,5,4
+3998500,3,2,3,1,42570897,Chelsea/Clinton/Midtown,White,2008,3,3
+400000,1,2,3,1,18127388,Chelsea/Clinton/Midtown,White,2008,2,0
+400000,2,2,3,1,41888063,Chelsea/Clinton/Midtown,White,2008,5,2
+550000,2,2,3,1,18202522,Chelsea/Clinton/Midtown,White,2008,3,1
+550000,2,2,3,1,18202522,Chelsea/Clinton/Midtown,White,2008,2,1
+800000,2,2,3,1,36128550,Chelsea/Clinton/Midtown,White,2008,5,1
+21000,2,2,3,1,35483398,Chelsea/Clinton/Midtown,White,2008,4,2
+21000,3,2,3,1,40032982,Chelsea/Clinton/Midtown,White,2008,3,2
+21000,2,2,3,1,33881845,Chelsea/Clinton/Midtown,White,2008,2,1
+1000000,2,2,3,1,20414079,Chelsea/Clinton/Midtown,Others,2008,2,1
+800000,2,2,3,1,18064275,Chelsea/Clinton/Midtown,White,2008,3,1
+800000,1,2,3,1,18064275,Chelsea/Clinton/Midtown,White,2008,3,0
+600000,2,2,3,1,58948313,Chelsea/Clinton/Midtown,White,2008,5,1
+1250000,3,2,3,1,70921944,Chelsea/Clinton/Midtown,Others,2008,5,0
+24000,3,8,3,1,43311759,Chelsea/Clinton/Midtown,Hispanic,2008,3,1
+150000,2,2,3,1,19106445,Chelsea/Clinton/Midtown,White,2008,1,1
+250000,2,2,3,1,48567983,Chelsea/Clinton/Midtown,Hispanic,2008,2,0
+250000,4,2,3,1,41036738,Chelsea/Clinton/Midtown,White,2008,1,1
+500000,2,2,3,1,19106445,Chelsea/Clinton/Midtown,Others,2008,4,1
+3998500,5,2,3,1,42570897,Chelsea/Clinton/Midtown,White,2008,5,3
+500000,4,2,3,1,17741699,Chelsea/Clinton/Midtown,White,2008,3,2
+350000,2,2,3,1,19106445,Chelsea/Clinton/Midtown,Hispanic,2008,3,1
+250000,2,2,3,1,19406708,Chelsea/Clinton/Midtown,White,2008,3,1
+3998500,4,2,2,1,94408285,Chelsea/Clinton/Midtown,White,2008,4,3
+3998500,2,2,2,1,43202025,Chelsea/Clinton/Midtown,White,2008,5,2
+3998500,3,2,3,1,42569967,Chelsea/Clinton/Midtown,Others,2008,5,1
+3998500,4,2,2,1,48450954,Chelsea/Clinton/Midtown,White,2008,5,2
+1700000,3,2,2,1,41888063,Chelsea/Clinton/Midtown,Hispanic,2008,5,1
+2000000,2,2,2,1,20800876,Chelsea/Clinton/Midtown,White,2008,5,2
+3998500,2,2,2,1,20120562,Chelsea/Clinton/Midtown,White,2008,5,1
+2000000,2,2,2,1,20120562,Chelsea/Clinton/Midtown,White,2008,5,0
+500000,1,2,3,1,18202522,Chelsea/Clinton/Midtown,White,2008,2,1
+500000,2,2,3,1,20414079,Chelsea/Clinton/Midtown,White,2008,5,1
+500000,2,2,3,1,18675062,Chelsea/Clinton/Midtown,White,2008,5,1
+3998500,4,2,3,1,41888063,Chelsea/Clinton/Midtown,Others,2008,5,1
+3998500,4,2,3,1,122856682,Chelsea/Clinton/Midtown,Others,2008,5,1
+3998500,2,2,3,1,40518071,Chelsea/Clinton/Midtown,White,2008,5,1
+3998500,2,2,2,1,18064275,Chelsea/Clinton/Midtown,White,2008,5,1
+500000,3,2,2,1,39184534,Chelsea/Clinton/Midtown,White,2008,5,2
+1600000,2,2,2,1,20455038,Chelsea/Clinton/Midtown,White,2008,5,1
+1600000,3,2,3,1,90753415,Chelsea/Clinton/Midtown,White,2008,5,1
+1600000,2,2,3,1,18675062,Chelsea/Clinton/Midtown,Hispanic,2008,1,1
+1600000,2,2,2,1,18749447,Chelsea/Clinton/Midtown,White,2008,5,1
+1600000,2,2,2,1,18202522,Chelsea/Clinton/Midtown,White,2008,5,1
+1600000,3,2,2,1,62637079,Chelsea/Clinton/Midtown,White,2008,5,1
+850000,2,2,2,1,20089770,Chelsea/Clinton/Midtown,White,2008,5,0
+850000,3,2,2,1,57184439,Chelsea/Clinton/Midtown,Others,2008,3,0
+695000,2,2,3,1,18299783,Chelsea/Clinton/Midtown,White,2008,4,1
+3998500,4,2,1,2,71390884,Chelsea/Clinton/Midtown,White,2008,5,1
+1500000,3,2,2,1,41036738,Chelsea/Clinton/Midtown,White,2008,2,2
+1500000,2,2,2,1,20455038,Chelsea/Clinton/Midtown,White,2008,5,1
+1500000,1,2,2,1,19417416,Chelsea/Clinton/Midtown,Others,2008,4,1
+1500000,3,2,2,1,36128550,Chelsea/Clinton/Midtown,White,2008,5,1
+1500000,2,2,2,1,41263212,Chelsea/Clinton/Midtown,White,2008,4,1
+1500000,3,2,2,1,32253938,Chelsea/Clinton/Midtown,White,2008,5,2
+450000,3,2,2,1,20259036,Chelsea/Clinton/Midtown,Others,2008,3,1
+670000,2,2,2,1,20259036,Chelsea/Clinton/Midtown,White,2008,4,1
+670000,2,2,3,2,18064275,Chelsea/Clinton/Midtown,White,2008,5,0
+450000,2,2,3,2,40518071,Chelsea/Clinton/Midtown,Hispanic,2008,1,1
+545000,2,2,3,2,18064275,Chelsea/Clinton/Midtown,Hispanic,2008,4,0
+545000,2,2,3,2,18064275,Chelsea/Clinton/Midtown,White,2008,5,1
+3998500,3,2,1,2,20638702,Chelsea/Clinton/Midtown,White,2008,5,2
+545000,3,2,2,1,106751812,Chelsea/Clinton/Midtown,White,2008,5,1
+545000,3,2,2,1,19897267,Chelsea/Clinton/Midtown,White,2008,4,1
+545000,3,2,3,1,35483398,Chelsea/Clinton/Midtown,White,2008,5,1
+545000,1,2,2,1,20536545,Chelsea/Clinton/Midtown,White,2008,2,0
+545000,2,2,2,1,20791197,Chelsea/Clinton/Midtown,White,2008,5,1
+545000,2,2,2,1,19074295,Chelsea/Clinton/Midtown,White,2008,4,1
+580000,2,3,2,1,18723407,Chelsea/Clinton/Midtown,White,2008,5,1
+200000,1,2,3,1,19106445,Chelsea/Clinton/Midtown,White,2008,3,0
+600000,2,2,3,1,19106445,Chelsea/Clinton/Midtown,Others,2008,2,0
+600000,3,2,3,1,18033002,Chelsea/Clinton/Midtown,White,2008,5,1
+400000,2,2,3,1,37390187,Chelsea/Clinton/Midtown,White,2008,2,1
+400000,2,2,3,1,39522533,Chelsea/Clinton/Midtown,Others,2008,2,1
+400000,2,2,3,1,37003071,Chelsea/Clinton/Midtown,White,2008,5,1
+400000,1,2,3,1,20536545,Chelsea/Clinton/Midtown,White,2008,1,0
+550000,2,2,3,1,41053008,Chelsea/Clinton/Midtown,White,2008,3,0
+3998500,3,3,1,2,52245460,Chelsea/Clinton/Midtown,Hispanic,2008,1,2
+500000,2,2,3,1,18675062,Chelsea/Clinton/Midtown,White,2008,3,3
+500000,3,2,3,1,17771803,Chelsea/Clinton/Midtown,White,2008,4,2
+500000,2,2,3,1,18798014,Chelsea/Clinton/Midtown,Others,2008,2,2
+1000000,3,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,2,1
+3998500,4,2,3,1,127607332,Stuyvesant Town/Turtle Bay,White,2008,5,3
+990000,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,5,2
+600000,2,2,3,1,52384531,Stuyvesant Town/Turtle Bay,White,2008,4,1
+700000,1,2,3,1,41263212,Stuyvesant Town/Turtle Bay,White,2008,5,0
+700000,3,2,3,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,5,1
+700000,2,2,3,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1000000,3,2,3,1,35554391,Stuyvesant Town/Turtle Bay,White,2008,3,0
+1000000,3,2,3,1,71909119,Stuyvesant Town/Turtle Bay,White,2008,3,1
+1000000,2,2,3,1,41268624,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1000000,2,2,3,1,35678610,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1000000,2,2,3,1,35024419,Stuyvesant Town/Turtle Bay,Hispanic,2008,2,1
+1000000,2,2,2,1,18674685,Stuyvesant Town/Turtle Bay,White,2008,1,0
+1000000,4,2,3,1,104400377,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1000000,4,2,3,1,90732947,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1000000,3,2,3,1,40910076,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1000000,2,2,3,1,20455038,Stuyvesant Town/Turtle Bay,White,2008,3,1
+790000,3,2,3,1,22778270,Stuyvesant Town/Turtle Bay,White,2008,4,2
+875000,3,2,3,1,18378276,Stuyvesant Town/Turtle Bay,White,2008,5,1
+600000,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,2,1
+600000,2,2,3,1,17913245,Stuyvesant Town/Turtle Bay,Black,2008,4,0
+1000000,4,2,3,1,88035401,Stuyvesant Town/Turtle Bay,White,2008,5,2
+1500000,3,2,2,1,62728075,Stuyvesant Town/Turtle Bay,White,2008,4,2
+850000,2,2,3,1,40247927,Stuyvesant Town/Turtle Bay,White,2008,5,1
+600000,2,2,2,1,17913245,Stuyvesant Town/Turtle Bay,White,2008,4,1
+300000,1,2,3,2,20804392,Stuyvesant Town/Turtle Bay,White,2008,5,0
+3998500,1,2,3,2,15720318,Stuyvesant Town/Turtle Bay,White,2008,4,0
+250000,1,2,3,2,18802803,Stuyvesant Town/Turtle Bay,White,2008,4,0
+1300000,3,2,2,1,37045059,Stuyvesant Town/Turtle Bay,White,2008,4,3
+1000000,2,2,2,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,5,2
+710000,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,2,0
+700000,2,2,3,1,18692616,Stuyvesant Town/Turtle Bay,White,2008,4,0
+700000,2,8,3,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,5,1
+625000,2,2,3,1,92339761,Stuyvesant Town/Turtle Bay,Others,2008,5,0
+625000,3,2,3,1,71872797,Stuyvesant Town/Turtle Bay,White,2008,5,1
+725000,3,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,4,1
+650000,3,2,3,1,62775968,Stuyvesant Town/Turtle Bay,White,2008,4,1
+750000,4,2,3,1,69448947,Stuyvesant Town/Turtle Bay,White,2008,5,2
+651500,3,2,3,1,21653933,Stuyvesant Town/Turtle Bay,White,2008,5,1
+651500,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,4,1
+651500,2,2,3,1,77814081,Stuyvesant Town/Turtle Bay,White,2008,3,1
+651500,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,4,1
+900000,2,2,2,1,17512210,Stuyvesant Town/Turtle Bay,White,2008,3,1
+750000,2,2,2,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,5,1
+775000,2,2,2,1,35024419,Stuyvesant Town/Turtle Bay,Others,2008,5,1
+755000,2,2,2,1,16532954,Stuyvesant Town/Turtle Bay,White,2008,4,1
+600000,2,2,3,1,67974566,Stuyvesant Town/Turtle Bay,White,2008,5,1
+620000,3,2,3,1,73471172,Stuyvesant Town/Turtle Bay,White,2008,5,1
+620000,3,2,3,1,73179575,Stuyvesant Town/Turtle Bay,White,2008,5,1
+620000,1,2,3,1,19764607,Stuyvesant Town/Turtle Bay,White,2008,5,0
+700000,3,2,3,1,20123964,Stuyvesant Town/Turtle Bay,White,2008,5,1
+700000,2,2,3,1,35554391,Stuyvesant Town/Turtle Bay,White,2008,5,2
+600000,3,2,3,1,37526163,Stuyvesant Town/Turtle Bay,White,2008,1,0
+600000,2,2,3,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,4,0
+600000,4,2,3,1,43242633,Stuyvesant Town/Turtle Bay,White,2008,4,2
+600000,2,2,3,1,47953200,Stuyvesant Town/Turtle Bay,White,2008,3,2
+725000,3,2,3,1,20804392,Stuyvesant Town/Turtle Bay,White,2008,5,1
+425000,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,4,1
+425000,3,2,2,1,35554391,Stuyvesant Town/Turtle Bay,White,2008,2,1
+900000,2,2,2,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,3,1
+900000,1,2,2,1,20123964,Stuyvesant Town/Turtle Bay,White,2008,5,1
+900000,1,2,3,1,17913245,Stuyvesant Town/Turtle Bay,White,2008,3,0
+900000,2,2,3,1,20804392,Stuyvesant Town/Turtle Bay,White,2008,3,1
+600000,2,2,3,1,42293322,Stuyvesant Town/Turtle Bay,White,2008,5,1
+600000,2,2,2,1,47601596,Stuyvesant Town/Turtle Bay,Others,2008,5,2
+600000,2,2,2,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,5,2
+600000,3,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,5,0
+600000,2,2,3,1,17512210,Stuyvesant Town/Turtle Bay,White,2008,5,1
+700000,3,2,3,1,17459746,Stuyvesant Town/Turtle Bay,White,2008,5,1
+200000,2,2,3,1,17839305,Stuyvesant Town/Turtle Bay,White,2008,4,1
+200000,2,2,3,1,18378276,Stuyvesant Town/Turtle Bay,White,2008,5,1
+990000,3,2,3,1,18396321,Stuyvesant Town/Turtle Bay,White,2008,3,1
+1007000,2,2,3,1,36792643,Stuyvesant Town/Turtle Bay,Others,2008,5,1
+1000000,3,2,2,1,47179542,Stuyvesant Town/Turtle Bay,White,2008,4,1
+1000000,1,2,2,1,40595347,Stuyvesant Town/Turtle Bay,White,2008,3,0
+600000,2,2,2,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,2,1
+800000,3,2,2,1,17512210,Stuyvesant Town/Turtle Bay,White,2008,4,2
+425000,1,2,3,1,17839305,Stuyvesant Town/Turtle Bay,White,2008,4,0
+600000,1,2,3,1,19489948,Stuyvesant Town/Turtle Bay,White,2008,3,0
+600000,2,3,3,1,35163980,Stuyvesant Town/Turtle Bay,White,2008,5,1
+3998500,3,2,3,1,36798912,Stuyvesant Town/Turtle Bay,White,2008,5,5
+2000000,3,2,3,1,35472762,Stuyvesant Town/Turtle Bay,White,2008,4,3
+2000000,2,2,2,1,20204151,Stuyvesant Town/Turtle Bay,Others,2008,4,1
+2000000,2,2,2,1,20123964,Stuyvesant Town/Turtle Bay,White,2008,2,1
+2000000,3,2,2,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,4,2
+2000000,1,2,3,1,17663375,Stuyvesant Town/Turtle Bay,White,2008,3,1
+2000000,2,2,3,1,17913245,Stuyvesant Town/Turtle Bay,Black,2008,4,1
+450000,1,2,2,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,5,0
+1700000,3,2,3,1,67974566,Stuyvesant Town/Turtle Bay,White,2008,5,0
+1700000,1,2,2,1,20297673,Stuyvesant Town/Turtle Bay,White,2008,4,0
+1700000,2,2,3,1,19153553,Stuyvesant Town/Turtle Bay,White,2008,4,1
+1700000,2,2,3,1,17913245,Stuyvesant Town/Turtle Bay,White,2008,5,1
+800000,2,2,3,1,36756551,Stuyvesant Town/Turtle Bay,Others,2008,4,1
+350000,1,2,3,1,19489948,Stuyvesant Town/Turtle Bay,Others,2008,4,0
+500000,2,2,3,1,35826491,Stuyvesant Town/Turtle Bay,White,2008,4,1
+500000,2,2,3,1,17913245,Stuyvesant Town/Turtle Bay,White,2008,4,1
+500000,3,2,3,1,65140432,Stuyvesant Town/Turtle Bay,White,2008,5,2
+500000,3,2,3,1,35826491,Stuyvesant Town/Turtle Bay,White,2008,1,2
+500000,3,2,3,1,66760735,Stuyvesant Town/Turtle Bay,White,2008,5,1
+350000,1,2,3,1,17573394,Stuyvesant Town/Turtle Bay,Black,2008,3,0
+700000,2,2,3,1,35554391,Stuyvesant Town/Turtle Bay,Others,2008,5,1
+3998500,5,2,2,1,84229234,Stuyvesant Town/Turtle Bay,White,2008,4,1
+2000000,3,2,3,1,36798912,Stuyvesant Town/Turtle Bay,White,2008,4,2
+3998500,4,2,3,1,71418460,Stuyvesant Town/Turtle Bay,White,2008,5,4
+3998500,3,2,3,1,18399456,Stuyvesant Town/Turtle Bay,White,2008,4,5
+3998500,2,2,2,1,20123964,Stuyvesant Town/Turtle Bay,White,2008,1,1
+3998500,2,2,2,1,35697839,Stuyvesant Town/Turtle Bay,Black,2008,5,1
+3998500,3,2,2,1,64645695,Stuyvesant Town/Turtle Bay,White,2008,3,1
+3998500,2,2,2,1,33443582,Stuyvesant Town/Turtle Bay,White,2008,4,1
+3998500,1,2,3,1,22062817,Stuyvesant Town/Turtle Bay,Others,2008,3,0
+249000,1,2,3,1,19489948,Stuyvesant Town/Turtle Bay,Black,2008,4,1
+249000,1,2,3,1,20277973,Stuyvesant Town/Turtle Bay,White,2008,4,1
+249000,2,2,3,1,17913245,Stuyvesant Town/Turtle Bay,White,2008,3,1
+249000,1,2,3,1,20804392,Stuyvesant Town/Turtle Bay,White,2008,1,0
+1200000,3,2,3,1,86421213,Stuyvesant Town/Turtle Bay,White,2008,4,1
+1200000,3,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,3,1
+900000,2,2,3,1,35554391,Stuyvesant Town/Turtle Bay,White,2008,4,1
+1350000,4,2,3,1,88589591,Stuyvesant Town/Turtle Bay,White,2008,5,2
+2000000,4,2,2,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,1,1
+350000,2,2,3,1,33949634,Stuyvesant Town/Turtle Bay,White,2008,3,0
+350000,2,2,3,1,35024419,Stuyvesant Town/Turtle Bay,White,2008,5,1
+350000,2,2,3,1,56072279,Stuyvesant Town/Turtle Bay,Black,2008,5,1
+350000,3,2,3,1,50803136,Stuyvesant Town/Turtle Bay,White,2008,4,1
+350000,2,2,3,1,46812286,Stuyvesant Town/Turtle Bay,White,2008,5,1
+350000,2,2,3,1,55740374,Stuyvesant Town/Turtle Bay,Hispanic,2008,2,1
+725000,2,2,3,1,81034148,Stuyvesant Town/Turtle Bay,White,2008,5,1
+500000,1,2,3,1,20204151,Stuyvesant Town/Turtle Bay,White,2008,3,1
+500000,2,2,3,1,49632232,Stuyvesant Town/Turtle Bay,White,2008,5,1
+375000,1,2,3,1,18378276,Stuyvesant Town/Turtle Bay,White,2008,2,0
+550000,2,2,3,1,17777195,Stuyvesant Town/Turtle Bay,White,2008,4,1
+3998500,4,2,1,2,51608071,Stuyvesant Town/Turtle Bay,White,2008,5,4
+3998500,4,2,1,2,37863796,Stuyvesant Town/Turtle Bay,White,2008,3,2
+550000,2,2,2,1,20109021,Stuyvesant Town/Turtle Bay,White,2008,1,1
+905000,3,2,2,1,80484753,Stuyvesant Town/Turtle Bay,Others,2008,5,0
+905000,2,2,2,1,20271695,Stuyvesant Town/Turtle Bay,Others,2008,5,1
+905000,1,2,3,1,20297673,Stuyvesant Town/Turtle Bay,White,2008,4,0
+905000,2,2,3,1,54132171,Stuyvesant Town/Turtle Bay,White,2008,5,1
+905000,2,2,3,1,40408302,Stuyvesant Town/Turtle Bay,White,2008,5,1
+905000,2,2,3,1,19145909,Stuyvesant Town/Turtle Bay,White,2008,3,1
+905000,3,2,3,1,101879541,Stuyvesant Town/Turtle Bay,White,2008,5,1
+1500000,4,2,3,1,22614701,Upper West Side,White,2008,4,1
+1300000,3,2,3,1,21875065,Upper West Side,White,2008,5,1
+1300000,1,2,2,1,43750129,Upper West Side,White,2008,4,1
+1300000,3,2,3,1,39790196,Upper West Side,White,2008,4,1
+1300000,3,2,3,1,39790196,Upper West Side,White,2008,5,1
+1300000,3,2,3,1,18692616,Upper West Side,White,2008,5,1
+1300000,1,2,3,1,21484438,Upper West Side,Others,2008,5,1
+1170000,3,2,3,1,72347319,Upper West Side,White,2008,5,0
+1170000,1,2,3,1,40910076,Upper West Side,White,2008,5,1
+1170000,4,2,3,1,39279334,Upper West Side,White,2008,5,1
+1170000,3,2,3,1,40910076,Upper West Side,White,2008,5,1
+1170000,3,2,3,1,36352524,Upper West Side,White,2008,5,1
+1500000,5,2,3,1,53248329,Upper West Side,White,2008,5,2
+500000,1,2,3,1,20047356,Upper West Side,White,2008,1,1
+350000,2,2,3,1,20771018,Upper West Side,White,2008,2,1
+400000,2,2,3,1,20047356,Upper West Side,White,2008,3,2
+400000,1,2,3,1,19208395,Upper West Side,White,2008,3,1
+400000,3,2,2,1,82200377,Upper West Side,Others,2008,4,1
+1700000,2,2,2,1,38416791,Upper West Side,White,2008,4,1
+1285000,2,2,2,1,19062509,Upper West Side,White,2008,5,1
+1900000,3,2,2,1,101542500,Upper West Side,White,2008,5,1
+1900000,2,2,3,1,21875065,Upper West Side,White,2008,3,1
+1900000,4,2,3,1,18722107,Upper West Side,White,2008,5,2
+1900000,3,2,3,1,43750129,Upper West Side,White,2008,5,1
+1900000,3,2,2,1,67974566,Upper West Side,White,2008,5,0
+650000,2,2,3,1,21875065,Upper West Side,White,2008,5,1
+650000,2,2,3,1,22042476,Upper West Side,White,2008,4,1
+650000,1,2,3,1,19208395,Upper West Side,White,2008,4,1
+37500,1,2,3,1,41329567,Upper West Side,White,2008,4,1
+400000,1,2,3,1,21951491,Upper West Side,White,2008,4,0
+400000,1,2,3,1,20058758,Upper West Side,White,2008,5,0
+400000,2,2,3,1,21951491,Upper West Side,Black,2008,4,0
+1000000,3,2,3,1,39929215,Upper West Side,White,2008,5,2
+449000,2,2,3,2,21951491,Upper West Side,White,2008,4,1
+1200000,3,2,3,2,43750129,Upper West Side,White,2008,5,2
+1200000,2,8,2,1,37442160,Upper West Side,White,2008,5,1
+2000000,3,2,2,1,21484438,Upper West Side,White,2008,5,1
+575000,2,2,3,1,38655732,Upper West Side,White,2008,5,1
+900000,2,2,3,1,20478105,Upper West Side,White,2008,5,1
+1500000,3,2,3,1,21875065,Upper West Side,White,2008,3,2
+1500000,2,2,3,1,19138467,Upper West Side,White,2008,3,1
+1500000,2,2,3,1,18961793,Upper West Side,White,2008,5,1
+1500000,4,2,3,1,106058076,Upper West Side,White,2008,5,3
+1000000,3,2,3,1,89451600,Upper West Side,White,2008,2,1
+1000000,3,2,3,1,39790196,Upper West Side,White,2008,2,1
+3998500,5,2,3,1,110219369,Upper West Side,White,2008,5,3
+3998500,5,2,3,1,115118704,Upper West Side,White,2008,5,2
+1700000,3,2,3,1,21875065,Upper West Side,White,2008,5,2
+1300000,2,2,3,1,38125018,Upper West Side,White,2008,3,2
+1300000,4,2,3,1,37385232,Upper West Side,White,2008,5,3
+1300000,4,2,3,1,22155085,Upper West Side,White,2008,1,3
+1300000,4,2,3,1,40299545,Upper West Side,White,2008,5,2
+1300000,3,2,3,1,41806144,Upper West Side,White,2008,1,5
+3998500,5,2,3,1,42982763,Upper West Side,White,2008,4,3
+3998500,3,2,3,1,103557587,Upper West Side,White,2008,5,2
+3998500,3,2,3,1,37863796,Upper West Side,White,2008,4,3
+1500000,4,2,3,1,20149773,Upper West Side,White,2008,5,1
+1500000,3,2,3,1,99825605,Upper West Side,White,2008,5,3
+3998500,3,2,3,1,109333393,Upper West Side,White,2008,5,3
+3998500,2,2,3,1,21951491,Upper West Side,White,2008,2,0
+3998500,3,2,3,1,57873778,Upper West Side,White,2008,3,0
+1300000,3,2,2,1,39790196,Upper West Side,White,2008,5,1
+1000000,1,2,2,1,19964607,Upper West Side,White,2008,2,1
+1000000,1,2,2,1,21951491,Upper West Side,White,2008,3,1
+800000,2,2,2,1,39790196,Upper West Side,White,2008,4,1
+800000,2,2,3,1,21875065,Upper West Side,White,2008,5,1
+700000,2,2,3,1,39790196,Upper West Side,White,2008,5,1
+700000,2,2,3,1,21875065,Upper West Side,White,2008,4,1
+700000,2,2,3,1,19895098,Upper West Side,White,2008,4,1
+700000,3,2,3,1,37385232,Upper West Side,White,2008,5,2
+1000000,3,2,3,1,51986674,Upper West Side,White,2008,5,1
+900000,2,2,3,1,18961793,Upper West Side,White,2008,5,1
+1100000,3,2,3,1,72347319,Upper West Side,White,2008,5,1
+450000,1,2,3,1,19964607,Upper West Side,White,2008,5,0
+3998500,3,2,3,1,100943813,Upper West Side,White,2008,5,2
+3998500,5,2,3,1,110219369,Upper West Side,White,2008,5,3
+450000,1,2,3,1,22614701,Upper West Side,White,2008,5,1
+1200000,3,2,3,1,41135577,Upper West Side,White,2008,5,1
+1000000,3,2,3,1,22979437,Upper West Side,Others,2008,5,1
+350000,1,2,3,1,40133665,Upper West Side,White,2008,3,1
+535000,2,2,3,1,19895098,Upper West Side,White,2008,3,1
+535000,2,2,3,1,37385232,Upper West Side,White,2008,5,1
+535000,2,2,3,1,21875065,Upper West Side,White,2008,5,1
+535000,2,2,3,1,21875065,Upper West Side,White,2008,5,0
+535000,2,2,2,1,69435419,Upper West Side,White,2008,5,1
+535000,3,2,3,1,67974566,Upper West Side,White,2008,4,2
+1000000,3,2,3,1,39790196,Upper West Side,White,2008,4,2
+1000000,2,2,3,1,23437569,Upper West Side,White,2008,1,1
+895000,3,2,3,1,38125018,Upper West Side,White,2008,5,1
+895000,2,2,3,1,19707048,Upper West Side,White,2008,5,1
+1400000,3,2,2,1,39977842,Upper West Side,White,2008,5,2
+1400000,4,2,2,1,39977842,Upper West Side,White,2008,3,1
+350000,2,2,2,1,20066832,Upper West Side,White,2008,3,1
+350000,4,2,3,1,23137087,Upper West Side,White,2008,3,2
+1000000,3,2,3,1,19895098,Upper West Side,White,2008,3,2
+1000000,3,2,2,1,18692616,Upper West Side,White,2008,5,1
+1000000,2,2,2,1,67974566,Upper West Side,White,2008,4,1
+850000,2,2,2,1,21962229,Upper West Side,White,2008,5,1
+750000,2,2,2,1,37498894,Upper West Side,Others,2008,3,1
+750000,4,2,3,1,97039712,Upper West Side,White,2008,4,3
+1800000,4,2,3,1,41799022,Upper West Side,White,2008,5,2
+1800000,3,2,3,1,22979437,Upper West Side,White,2008,3,1
+1300000,3,2,2,1,69580542,Upper West Side,White,2008,5,1
+1100000,2,2,2,1,39790196,Upper West Side,White,2008,5,2
+1400000,4,2,3,1,20899511,Upper West Side,White,2008,2,2
+1800000,4,2,3,1,68964849,Upper West Side,White,2008,5,3
+1800000,4,2,3,1,96903516,Upper West Side,White,2008,5,2
+1850000,3,2,3,1,71406293,Upper West Side,White,2008,5,3
+1300000,4,2,3,1,22155085,Upper West Side,White,2008,3,2
+3998500,4,2,2,1,82868428,Upper West Side,White,2008,5,3
+3998500,4,2,3,1,44310169,Upper West Side,Others,2008,5,2
+2000000,4,2,3,1,22155085,Upper West Side,White,2008,5,2
+2000000,2,2,3,1,49701106,Upper West Side,White,2008,3,1
+1800000,4,2,3,1,87363258,Upper West Side,White,2008,5,1
+1800000,5,2,3,1,75416638,Upper West Side,Others,2008,4,3
+2000000,4,2,3,1,92246415,Upper West Side,White,2008,3,2
+1600000,3,2,3,1,22155085,Upper West Side,White,2008,2,3
+1500000,3,2,3,1,64815823,Upper West Side,White,2008,5,2
+3998500,2,2,1,2,19539828,Upper West Side,White,2008,3,0
+1800000,3,2,2,1,20430864,Upper West Side,Black,2008,3,3
+480000,2,2,3,1,22249845,Upper West Side,Black,2008,5,1
+500000,2,2,3,1,54806709,Upper West Side,White,2008,4,1
+600000,2,2,3,1,22042476,Upper West Side,White,2008,4,2
+1300000,3,2,3,1,39912411,Upper West Side,White,2008,5,2
+800000,2,2,3,1,21875065,Upper West Side,White,2008,2,1
+800000,2,2,3,1,21875065,Upper West Side,White,2008,4,1
+3998500,3,2,3,1,39790196,Upper West Side,White,2008,5,1
+1750000,2,2,3,1,19895098,Upper West Side,White,2008,5,3
+1500000,3,2,3,1,19062509,Upper West Side,White,2008,3,2
+3998500,5,2,1,2,99036627,Upper West Side,White,2008,5,1
+3998500,6,2,1,2,81032849,Upper West Side,White,2008,5,2
+1040000,3,2,2,1,81576070,Upper West Side,Others,2008,5,1
+695000,2,2,2,1,20068570,Upper West Side,White,2008,4,1
+675000,2,2,2,1,44084951,Upper West Side,Others,2008,4,1
+466000,2,2,3,1,22464177,Upper West Side,White,2008,5,1
+2000000,4,2,3,1,93957274,Upper West Side,White,2008,5,3
+2000000,3,2,3,1,76821781,Upper West Side,White,2008,5,3
+1500000,4,2,3,1,51123008,Upper West Side,White,2008,5,2
+1000000,2,2,1,2,21759488,Upper West Side,White,2008,3,1
+1500000,4,2,2,1,40972372,Upper West Side,White,2008,5,3
+3998500,4,2,2,1,51986674,Upper West Side,White,2008,3,2
+3998500,3,2,2,1,22063575,Upper West Side,White,2008,2,1
+300000,2,2,3,1,20526504,Upper West Side,White,2008,1,0
+475000,2,2,3,1,22614701,Upper West Side,White,2008,3,1
+1500000,4,2,3,1,114458885,Upper West Side,White,2008,4,2
+1500000,3,2,3,1,24213653,Upper West Side,White,2008,4,1
+900000,4,2,3,1,87655490,Upper West Side,Black,2008,4,2
+100000,3,2,3,1,57505758,Upper West Side,Others,2008,3,1
+100000,2,2,3,1,20899096,Upper West Side,White,2008,3,1
+100000,3,2,3,1,63214250,Upper West Side,Black,2008,1,2
+650000,2,2,3,2,22285016,Upper West Side,White,2008,3,1
+600000,2,2,3,2,22042476,Upper West Side,White,2008,5,1
+422500,3,2,3,2,21875065,Upper West Side,White,2008,4,1
+1500000,4,2,3,1,79253618,Upper West Side,Others,2008,5,1
+1000000,3,2,3,1,64815823,Upper West Side,White,2008,5,1
+3998500,4,2,3,1,39790196,Upper West Side,White,2008,5,2
+665000,2,2,3,1,21875065,Upper West Side,White,2008,4,1
+1000000,1,2,1,2,43623803,Upper West Side,Hispanic,2008,1,0
+665000,4,2,2,2,20068570,Upper West Side,White,2008,4,1
+3998500,5,2,3,1,64815823,Upper West Side,White,2008,5,3
+850000,2,2,3,1,39790196,Upper West Side,White,2008,5,1
+950000,3,2,3,1,39790196,Upper West Side,White,2008,4,1
+1300000,3,2,3,1,18692616,Upper West Side,White,2008,5,1
+1300000,2,2,3,1,38276933,Upper West Side,White,2008,4,1
+1300000,2,2,3,1,41119407,Upper West Side,Hispanic,2008,3,1
+1300000,4,2,3,1,17242562,Upper East Side,White,2008,1,3
+1300000,3,2,3,1,78690422,Upper East Side,White,2008,5,5
+1300000,4,2,3,1,42982763,Upper East Side,White,2008,5,4
+3998500,3,2,3,1,17024632,Upper East Side,White,2008,2,1
+2000000,2,2,3,1,19340755,Upper East Side,White,2008,2,1
+3998500,4,2,3,1,88775296,Upper East Side,White,2008,4,4
+3998500,3,2,3,1,34485124,Upper East Side,White,2008,5,4
+1600000,3,2,3,1,41704783,Upper East Side,White,2008,4,2
+3998500,4,2,3,1,34485124,Upper East Side,White,2008,5,3
+3998500,4,2,3,1,41704783,Upper East Side,White,2008,5,0
+3998500,3,2,3,1,34184939,Upper East Side,White,2008,5,0
+800000,3,2,3,1,17024632,Upper East Side,White,2008,4,1
+800000,3,2,3,1,34687367,Upper East Side,White,2008,5,0
+800000,2,2,3,1,20092580,Upper East Side,White,2008,3,0
+760000,3,2,3,1,61909043,Upper East Side,White,2008,5,1
+1000500,3,2,3,1,19340755,Upper East Side,White,2008,2,1
+1000500,3,2,3,1,33441241,Upper East Side,White,2008,3,1
+1000500,4,2,3,1,96666701,Upper East Side,White,2008,5,3
+3998500,3,2,3,1,39383996,Upper East Side,White,2008,1,2
+3998500,3,2,3,1,69256709,Upper East Side,White,2008,5,1
+3998500,4,2,3,1,41704783,Upper East Side,White,2008,5,3
+3998500,2,2,3,1,19588333,Upper East Side,White,2008,3,3
+3998500,5,2,3,1,36352524,Upper East Side,White,2008,5,1
+3998500,4,2,3,1,83240550,Upper East Side,White,2008,1,1
+3998500,4,2,3,1,40641287,Upper East Side,White,2008,5,3
+3998500,4,2,3,1,43263917,Upper East Side,White,2008,5,1
+3998500,1,2,3,1,20611582,Upper East Side,White,2008,3,0
+750000,2,2,3,1,38681509,Upper East Side,White,2008,5,1
+1500000,3,2,3,1,34049264,Upper East Side,White,2008,5,2
+900000,2,2,3,1,19340755,Upper East Side,White,2008,5,2
+2000000,3,2,3,1,34632622,Upper East Side,White,2008,5,3
+3998500,4,2,3,1,35774351,Upper East Side,White,2008,5,3
+3998500,3,2,3,1,40442357,Upper East Side,Hispanic,2008,5,3
+3998500,3,2,3,1,106428427,Upper East Side,White,2008,5,1
+3998500,2,2,3,1,17024632,Upper East Side,White,2008,4,1
+3998500,2,2,3,1,36685449,Upper East Side,White,2008,5,1
+3998500,3,2,3,1,19588333,Upper East Side,White,2008,1,1
+1600000,3,2,3,1,19340755,Upper East Side,White,2008,3,1
+3998500,3,2,3,1,20455038,Upper East Side,White,2008,2,2
+3998500,4,2,3,1,40442357,Upper East Side,White,2008,3,2
+2000000,4,2,3,1,109952136,Upper East Side,White,2008,3,2
+3998500,3,2,3,1,20120562,Upper East Side,White,2008,5,2
+1500000,3,2,3,1,17024632,Upper East Side,White,2008,4,2
+3998500,3,2,3,1,34049264,Upper East Side,White,2008,5,1
+700000,1,2,3,1,19488771,Upper East Side,White,2008,2,0
+700000,3,2,3,1,38681509,Upper East Side,White,2008,3,0
+1000000,3,2,3,1,41263212,Upper East Side,White,2008,3,0
+1000000,2,2,3,1,59518627,Upper East Side,White,2008,5,1
+3998500,3,8,3,1,40179539,Upper East Side,White,2008,5,4
+3998500,4,2,3,1,17242562,Upper East Side,White,2008,2,2
+3998500,4,2,3,1,39176667,Upper East Side,White,2008,5,3
+3998500,2,2,2,1,19417821,Upper East Side,White,2008,4,1
+850000,2,2,2,1,38681509,Upper East Side,White,2008,5,2
+900000,2,2,2,1,39344230,Upper East Side,White,2008,5,1
+900000,4,2,3,1,43263917,Upper East Side,White,2008,5,0
+900000,4,2,3,1,35774351,Upper East Side,White,2008,5,0
+3998500,4,2,3,1,60674818,Upper East Side,White,2008,5,3
+3998500,4,2,3,1,19588333,Upper East Side,White,2008,4,3
+28000,1,2,3,1,17024632,Upper East Side,White,2008,5,0
+70000,2,2,3,1,20092580,Upper East Side,White,2008,5,1
+875000,2,2,2,1,34632622,Upper East Side,Others,2008,2,0
+1000000,3,2,2,1,35768256,Upper East Side,White,2008,2,0
+3998500,5,2,3,1,17887175,Upper East Side,White,2008,4,3
+3998500,5,2,3,1,38194304,Upper East Side,White,2008,5,3
+1400000,5,2,3,1,35774351,Upper East Side,White,2008,4,3
+1400000,2,2,3,1,35200533,Upper East Side,White,2008,5,1
+100000,1,2,3,1,36481354,Upper East Side,White,2008,1,0
+200000,1,2,3,1,19417821,Upper East Side,White,2008,4,0
+200000,4,2,3,1,35703371,Upper East Side,White,2008,4,0
+2000000,3,2,3,1,34049264,Upper East Side,White,2008,5,2
+2000000,4,2,3,1,20716881,Upper East Side,White,2008,5,3
+2000000,2,2,3,1,34049264,Upper East Side,White,2008,2,2
+2000000,2,2,3,1,37218279,Upper East Side,White,2008,5,2
+725000,2,2,3,1,20611582,Upper East Side,White,2008,4,1
+725000,2,2,3,1,38977541,Upper East Side,White,2008,5,3
+725000,2,2,3,1,19340755,Upper East Side,White,2008,2,0
+1500000,3,2,3,1,39319107,Upper East Side,White,2008,1,1
+1500000,2,2,3,1,19340755,Upper East Side,White,2008,4,2
+3998500,3,2,3,1,37077314,Upper East Side,White,2008,2,2
+3998500,4,2,2,1,73065450,Upper East Side,White,2008,2,2
+3998500,2,2,2,1,17024632,Upper East Side,White,2008,2,0
+1200000,2,2,3,1,19340755,Upper East Side,White,2008,2,1
+900000,3,2,3,1,108562442,Upper East Side,White,2008,5,1
+900000,3,2,3,1,19488771,Upper East Side,White,2008,5,1
+3998500,5,2,3,1,34309845,Upper East Side,White,2008,5,0
+1000000,3,2,3,1,61909043,Upper East Side,White,2008,5,2
+1100000,3,2,3,1,60674818,Upper East Side,White,2008,4,3
+1200000,3,2,3,1,57908676,Upper East Side,White,2008,4,2
+1500000,4,2,3,1,99976806,Upper East Side,White,2008,5,2
+2000000,5,2,3,1,41433761,Upper East Side,White,2008,5,2
+1800000,3,2,3,1,34049264,Upper East Side,White,2008,5,2
+1800000,1,2,3,1,20123176,Upper East Side,White,2008,5,0
+1800000,1,2,3,1,20818067,Upper East Side,White,2008,3,0
+1800000,3,2,3,1,78125854,Upper East Side,Hispanic,2008,3,1
+1800000,3,2,3,1,40910076,Upper East Side,White,2008,1,1
+1100000,3,2,2,1,19340755,Upper East Side,White,2008,2,1
+160300,4,2,3,1,41177673,Upper East Side,White,2008,5,1
+1300000,3,2,3,1,60842587,Upper East Side,White,2008,5,5
+1200000,3,2,3,1,34049264,Upper East Side,White,2008,4,2
+850000,2,2,3,1,19703212,Upper East Side,White,2008,4,1
+700000,2,2,3,1,19340755,Upper East Side,White,2008,3,1
+350000,2,2,3,1,19340755,Upper East Side,White,2008,4,1
+3998500,4,2,3,1,84015060,Upper East Side,White,2008,5,3
+450000,2,2,3,1,18995384,Upper East Side,White,2008,5,1
+500000,1,2,3,1,35200533,Upper East Side,White,2008,5,0
+750000,3,2,3,1,41177673,Upper East Side,White,2008,5,1
+750000,2,2,3,1,37329758,Upper East Side,White,2008,5,2
+750000,5,2,3,1,84658070,Upper East Side,White,2008,5,0
+600000,2,2,2,1,21406985,Upper East Side,White,2008,5,1
+600000,3,2,2,1,41177673,Upper East Side,Others,2008,2,1
+900000,3,2,2,1,19340755,Upper East Side,White,2008,1,1
+900000,3,2,2,1,105083269,Upper East Side,White,2008,3,1
+900000,2,2,3,1,63069256,Upper East Side,White,2008,5,1
+900000,2,2,3,1,19340755,Upper East Side,White,2008,5,1
+600000,2,2,3,1,17343684,Upper East Side,White,2008,4,1
+625000,2,2,3,1,20670876,Upper East Side,White,2008,3,1
+625000,3,2,3,1,34049264,Upper East Side,White,2008,4,1
+350000,1,2,3,1,17024632,Upper East Side,White,2008,4,1
+350000,3,2,3,1,39383996,Upper East Side,White,2008,3,2
+420000,2,2,3,1,17024632,Upper East Side,White,2008,3,1
+550000,2,2,3,2,38681509,Upper East Side,White,2008,5,1
+550000,3,2,3,1,20185968,Upper East Side,White,2008,5,2
+795000,2,2,3,1,19340755,Upper East Side,White,2008,2,1
+600000,2,2,3,1,19340755,Upper East Side,White,2008,4,1
+600000,2,2,3,1,19340755,Upper East Side,White,2008,4,1
+1000000,3,2,3,1,58649958,Upper East Side,White,2008,5,3
+1000000,3,2,3,1,17242562,Upper East Side,White,2008,4,4
+1000000,3,2,3,1,45144957,Upper East Side,White,2008,5,2
+1250000,2,2,2,1,19340755,Upper East Side,White,2008,5,1
+1250000,3,2,2,1,115207570,Upper East Side,White,2008,5,1
+1000000,5,2,1,2,69585949,Upper East Side,White,2008,5,3
+1250000,3,2,3,1,20593114,Upper East Side,White,2008,4,1
+1250000,4,2,3,1,65679805,Upper East Side,White,2008,5,1
+1250000,2,2,3,1,17024632,Upper East Side,White,2008,4,1
+3998500,4,2,3,1,20852392,Upper East Side,White,2008,4,3
+3998500,4,2,3,1,138775653,Upper East Side,White,2008,5,3
+3998500,3,2,3,1,34049264,Upper East Side,White,2008,2,2
+3998500,4,2,2,1,93957274,Upper East Side,White,2008,5,3
+1750000,3,2,2,1,40310734,Upper East Side,White,2008,5,3
+1750000,3,2,2,1,34049264,Upper East Side,White,2008,5,3
+1750000,1,2,3,1,19340755,Upper East Side,White,2008,5,0
+1750000,2,2,3,1,19340755,Upper East Side,White,2008,4,1
+1750000,3,2,3,1,19340755,Upper East Side,White,2008,4,0
+2000000,4,2,2,1,71231788,Upper East Side,White,2008,5,2
+950000,2,2,2,1,19340755,Upper East Side,White,2008,2,2
+950000,3,2,3,1,71390884,Upper East Side,White,2008,4,0
+600000,2,2,3,1,19340755,Upper East Side,White,2008,5,1
+600000,3,2,3,1,78638214,Upper East Side,White,2008,5,0
+500000,2,2,3,1,19340755,Upper East Side,White,2008,5,1
+600000,1,2,3,1,20588836,Upper East Side,White,2008,5,0
+2000000,3,2,3,1,17024632,Upper East Side,White,2008,4,0
+700000,2,2,3,1,19488771,Upper East Side,White,2008,5,1
+400000,1,2,3,1,19488771,Upper East Side,White,2008,4,0
+2000000,3,2,3,1,174146505,Upper East Side,White,2008,5,1
+440000,1,2,3,1,38681509,Upper East Side,Hispanic,2008,4,1
+440000,2,2,3,1,34049264,Upper East Side,White,2008,5,1
+200000,2,2,3,1,40913135,Upper East Side,White,2008,2,1
+900000,2,2,2,1,19340755,Upper East Side,White,2008,4,2
+1500000,3,2,3,1,17887175,Upper East Side,White,2008,5,5
+1200000,3,2,3,1,20722237,Upper East Side,White,2008,3,2
+630000,2,2,3,1,20089770,Upper East Side,Others,2008,3,2
+630000,4,2,3,1,79801060,Upper East Side,White,2008,2,1
+3998500,5,2,3,1,120921026,Upper East Side,Hispanic,2008,5,3
+3998500,2,2,3,1,20092580,Upper East Side,White,2008,1,0
+3998500,3,2,3,1,43943043,Upper East Side,White,2008,5,5
+1700000,3,2,3,1,21628273,Upper East Side,White,2008,2,1
+390000,2,2,3,2,19603569,Upper East Side,Others,2008,4,0
+390000,2,2,3,1,22028410,Upper East Side,White,2008,2,1
+15000,3,2,3,1,20810892,Upper East Side,Black,2008,2,0
+15000,1,2,3,1,20810892,Upper East Side,Black,2008,1,0
+15000,3,2,3,1,19891690,Upper East Side,Others,2008,3,1
+15000,2,2,3,1,40371935,Upper East Side,White,2008,5,1
+830000,2,2,3,1,40873643,Upper East Side,Hispanic,2008,4,1
+830000,2,2,2,1,19177091,Upper East Side,White,2008,5,1
+830000,2,2,2,1,19488771,Upper East Side,White,2008,5,1
+830000,2,2,2,1,20089770,Upper East Side,White,2008,5,1
+830000,3,2,2,1,32761260,Upper East Side,White,2008,3,2
+2000000,5,2,2,1,64492966,Upper East Side,White,2008,3,3
+700000,2,2,2,1,19340755,Upper East Side,White,2008,3,1
+700000,2,2,2,1,19340755,Upper East Side,White,2008,3,2
+700000,2,2,2,1,41636133,Upper East Side,White,2008,5,1
+700000,3,2,2,1,34049264,Upper East Side,White,2008,5,2
+700000,2,2,2,1,17092469,Upper East Side,White,2008,5,1
+750000,2,2,3,1,20455038,Upper East Side,White,2008,4,1
+750000,1,2,3,1,19340755,Upper East Side,White,2008,4,0
+1200000,3,2,3,1,41177673,Upper East Side,White,2008,5,2
+1200000,2,2,2,1,38681509,Upper East Side,White,2008,5,0
+650000,3,2,3,1,20588836,Upper East Side,White,2008,5,1
+650000,3,2,3,1,19340755,Upper East Side,White,2008,4,1
+650000,2,2,2,1,34049264,Upper East Side,White,2008,5,1
+650000,2,2,2,1,128775638,Upper East Side,White,2008,5,1
+650000,2,2,2,1,61909043,Upper East Side,White,2008,5,1
+650000,3,2,2,1,41177673,Upper East Side,White,2008,5,1
+100000,3,2,3,1,19994702,Upper East Side,White,2008,4,1
+30000,2,2,3,1,37990768,Upper East Side,White,2008,4,1
+28000,3,2,3,1,16720621,Upper East Side,White,2008,4,1
+25000,3,2,3,1,40442357,Upper East Side,White,2008,5,1
+650000,2,2,3,1,74870057,Upper East Side,White,2008,5,1
+650000,2,2,3,1,73065450,Upper East Side,White,2008,5,1
+700000,2,2,3,1,20771948,Upper East Side,White,2008,2,2
+700000,2,2,3,1,17024632,Upper East Side,White,2008,5,1
+1200000,3,2,2,1,20339332,Upper East Side,White,2008,4,2
+1200000,2,2,3,1,42075004,Upper East Side,White,2008,5,0
+1200000,2,2,3,1,19672115,Upper East Side,White,2008,1,0
+1200000,3,2,3,1,34049264,Upper East Side,White,2008,4,0
+3998500,5,2,3,2,120565554,Upper East Side,White,2008,5,3
+750000,2,2,3,2,34049264,Upper East Side,White,2008,4,1
+480000,2,2,3,1,19994702,Upper East Side,White,2008,1,1
+480000,2,2,3,1,20771948,Upper East Side,White,2008,1,1
+1300000,3,2,3,1,39989403,Upper East Side,White,2008,5,1
+1300000,2,2,3,1,19994702,Upper East Side,White,2008,3,1
+284000,2,2,3,1,38681509,Upper East Side,White,2008,4,0
+284000,1,2,3,1,19733784,Upper East Side,Hispanic,2008,5,1
+275000,2,2,3,1,19408327,Upper East Side,Others,2008,4,0
+450000,2,2,3,1,20185968,Upper East Side,White,2008,5,1
+450000,2,2,3,1,19238568,Upper East Side,White,2008,2,1
+250000,1,2,3,1,20722237,Upper East Side,White,2008,4,0
+250000,2,2,2,1,20246350,Upper East Side,White,2008,2,1
+250000,2,2,3,2,39207137,Upper East Side,White,2008,5,1
+250000,3,2,3,1,38449785,Morningside Heights/Hamilton Heights,White,2008,4,2
+250000,3,2,3,1,42536758,Morningside Heights/Hamilton Heights,White,2008,4,2
+250000,4,2,3,1,50724551,Morningside Heights/Hamilton Heights,Others,2008,5,2
+500000,3,2,3,1,20785007,Morningside Heights/Hamilton Heights,White,2008,1,1
+500000,3,2,3,1,20055267,Morningside Heights/Hamilton Heights,White,2008,4,1
+25000,3,2,3,1,71663893,Morningside Heights/Hamilton Heights,Black,2008,4,0
+25000,2,2,3,1,16139352,Morningside Heights/Hamilton Heights,Black,2008,2,2
+500000,3,2,3,1,20255284,Morningside Heights/Hamilton Heights,Black,2008,3,1
+700000,3,2,2,1,20659106,Morningside Heights/Hamilton Heights,Black,2008,3,3
+500000,4,2,3,1,19052923,Morningside Heights/Hamilton Heights,White,2008,2,2
+500000,4,2,3,2,49243226,Morningside Heights/Hamilton Heights,Black,2008,4,2
+750000,2,2,2,1,17606566,Morningside Heights/Hamilton Heights,White,2008,2,2
+750000,3,2,3,1,51078184,Morningside Heights/Hamilton Heights,Black,2008,5,2
+750000,4,2,3,2,70308991,Morningside Heights/Hamilton Heights,Black,2008,1,1
+1000000,5,2,1,2,77952453,Morningside Heights/Hamilton Heights,Hispanic,2008,2,1
+450,2,2,3,1,39463408,Morningside Heights/Hamilton Heights,White,2008,3,1
+450,3,2,3,1,45079830,Morningside Heights/Hamilton Heights,Black,2008,4,1
+450000,3,2,3,1,76578492,Morningside Heights/Hamilton Heights,Others,2008,5,1
+800000,3,2,3,1,23133470,Morningside Heights/Hamilton Heights,White,2008,2,1
+800000,3,2,3,1,95154145,Morningside Heights/Hamilton Heights,White,2008,4,2
+800000,3,2,3,1,16574717,Morningside Heights/Hamilton Heights,White,2008,5,1
+530000,2,2,2,1,38365771,Morningside Heights/Hamilton Heights,Others,2008,5,0
+2000000,3,2,2,1,19460088,Morningside Heights/Hamilton Heights,White,2008,2,1
+350000,2,2,2,1,20695400,Morningside Heights/Hamilton Heights,Black,2008,4,1
+400000,3,2,3,1,38563664,Morningside Heights/Hamilton Heights,Black,2008,4,2
+400000,2,2,2,1,24936826,Morningside Heights/Hamilton Heights,Black,2008,4,1
+250000,5,2,3,2,107136778,Morningside Heights/Hamilton Heights,Hispanic,2008,4,1
+800000,5,8,3,2,209904135,Morningside Heights/Hamilton Heights,Hispanic,2008,3,1
+185000,4,2,3,1,50738521,Morningside Heights/Hamilton Heights,White,2008,3,2
+300000,4,2,3,1,84478767,Morningside Heights/Hamilton Heights,Others,2008,3,2
+300000,4,2,3,1,19662284,Morningside Heights/Hamilton Heights,Black,2008,4,1
+400000,2,2,2,1,20055267,Central Harlem,Black,2008,2,1
+450000,2,2,2,1,70653827,Central Harlem,White,2008,3,2
+40000,3,2,3,2,87809658,Central Harlem,Black,2008,3,1
+1000000,3,2,1,2,146849697,Central Harlem,White,2008,3,1
+40000,3,2,2,2,19467117,Central Harlem,Black,2008,1,1
+40000,3,2,2,2,41043215,Central Harlem,Black,2008,2,1
+40000,3,2,2,2,61656238,Central Harlem,Black,2008,4,1
+40000,3,2,2,2,20065759,Central Harlem,Black,2008,3,1
+1000000,5,2,1,2,131676875,Central Harlem,Others,2008,3,1
+200000,2,2,3,2,26096912,Central Harlem,Black,2008,5,0
+200000,3,2,2,1,17324478,Central Harlem,Black,2008,2,1
+250000,3,2,2,1,53626119,Central Harlem,Hispanic,2008,5,1
+250000,3,2,2,1,19227682,Central Harlem,Black,2008,4,1
+250000,3,2,3,1,49119772,Central Harlem,Black,2008,4,0
+20000,2,2,3,1,42430231,Central Harlem,Black,2008,3,0
+20000,3,2,3,1,57031129,Central Harlem,Black,2008,5,2
+250000,3,2,3,1,74283757,Central Harlem,Black,2008,5,2
+50000,3,2,3,1,37430305,Central Harlem,Black,2008,3,2
+100000,3,2,3,1,57657824,Central Harlem,Black,2008,4,2
+200000,3,2,3,1,19558030,Central Harlem,Black,2008,2,1
+1000000,6,2,1,2,87237259,Central Harlem,Black,2008,3,2
+1000000,4,3,1,2,40241124,Central Harlem,White,2008,5,2
+200000,4,3,3,1,18935306,Central Harlem,Black,2008,1,1
+150000,4,3,3,1,19062890,Central Harlem,Black,2008,1,1
+150000,4,2,3,1,21645742,Central Harlem,Black,2008,3,1
+1000000,1,2,1,2,20791290,Central Harlem,Black,2008,2,0
+3998500,2,2,2,1,21666868,Central Harlem,White,2008,3,0
+20000,3,1,3,2,50084511,Central Harlem,Black,2008,1,1
+800000,3,2,3,1,19399339,East Harlem,Others,2008,4,1
+800000,3,2,3,1,19281832,East Harlem,Black,2008,4,1
+800000,2,2,3,1,47012248,East Harlem,White,2008,2,1
+3998500,3,2,3,1,20055267,East Harlem,White,2008,1,1
+25000,2,2,3,1,18937514,East Harlem,Black,2008,2,1
+14000,3,2,3,1,38085726,East Harlem,Black,2008,2,1
+14000,3,2,3,1,19268443,East Harlem,Black,2008,1,1
+1000000,3,2,1,2,71645067,East Harlem,Hispanic,2008,3,1
+3998500,2,2,3,1,38749233,Washington Heights/Inwood,White,2008,4,1
+3998500,3,2,2,2,62977504,Washington Heights/Inwood,White,2008,4,0
+330000,2,2,3,1,72488010,Washington Heights/Inwood,White,2008,4,1
+350000,3,2,3,1,41053008,Washington Heights/Inwood,White,2008,2,1
+350000,2,2,3,1,36090399,Washington Heights/Inwood,White,2008,5,1
+350000,2,2,3,1,44850592,Washington Heights/Inwood,Hispanic,2008,3,1
+350000,3,2,3,1,46621023,Washington Heights/Inwood,White,2008,4,0
+250000,2,2,3,1,38039635,Washington Heights/Inwood,White,2008,4,1
+400000,3,2,3,1,57765849,Washington Heights/Inwood,White,2008,5,2
+300000,2,2,3,1,38698398,Washington Heights/Inwood,White,2008,5,2
+375000,3,2,3,1,19922551,Washington Heights/Inwood,White,2008,2,1
+200000,4,2,3,1,17661259,Washington Heights/Inwood,Others,2008,2,1
+200000,3,2,3,1,63389725,Washington Heights/Inwood,Black,2008,3,1
+375000,2,2,3,1,21310236,Washington Heights/Inwood,White,2008,3,2
+360000,2,2,3,1,40381718,Washington Heights/Inwood,White,2008,4,2
+360000,2,2,3,1,39264226,Washington Heights/Inwood,White,2008,4,1
+250000,1,2,3,1,17281365,Washington Heights/Inwood,Hispanic,2008,3,0
+275000,3,2,2,1,36249658,Washington Heights/Inwood,White,2008,5,1
+300000,2,2,3,1,18590391,Washington Heights/Inwood,White,2008,4,2
+300000,4,2,3,2,47700145,Washington Heights/Inwood,Hispanic,2008,3,1
+300000,3,2,3,2,95276909,Washington Heights/Inwood,Hispanic,2008,2,1
+300000,3,3,3,2,63026493,Washington Heights/Inwood,Hispanic,2008,2,1
+284000,2,2,3,1,19019818,Washington Heights/Inwood,White,2008,4,0
+450000,3,2,3,1,80220131,Washington Heights/Inwood,Hispanic,2008,3,2
+320000,3,2,3,1,23277086,Washington Heights/Inwood,White,2008,4,1
+320000,3,2,3,1,20190859,Washington Heights/Inwood,White,2008,2,1
+245000,2,2,3,1,45496122,Washington Heights/Inwood,White,2008,3,1
+245000,2,2,3,1,17900515,Washington Heights/Inwood,Black,2008,3,1
+400000,2,2,3,2,46902087,Washington Heights/Inwood,White,2008,4,3
+350000,2,2,3,2,21139550,Washington Heights/Inwood,Hispanic,2008,1,0
+300000,2,2,3,1,21154140,Washington Heights/Inwood,White,2008,3,1
+425000,3,2,3,1,62612351,Washington Heights/Inwood,Hispanic,2008,4,1
+425000,3,2,3,2,35322519,Washington Heights/Inwood,Black,2008,4,1
+425000,4,2,3,2,49243226,Washington Heights/Inwood,Black,2008,5,1
+425000,4,2,3,1,24621613,Washington Heights/Inwood,Black,2008,4,1
+425000,5,2,2,1,19946794,Greenwich Village/Financial District,White,2008,5,1
+425000,3,2,2,1,72535310,Greenwich Village/Financial District,White,2008,5,0
+425000,4,2,2,1,131077396,Greenwich Village/Financial District,White,2008,5,1
+425000,3,2,2,1,19946794,Greenwich Village/Financial District,White,2008,5,1
+425000,2,2,3,1,67871541,Chelsea/Clinton/Midtown,Hispanic,2008,5,1
+425000,3,2,2,1,19946794,Upper East Side,White,2008,5,1
+3998500,7,2,1,2,39893588,Upper East Side,White,2008,1,1
+1600000,3,2,2,1,6388036,Stuyvesant Town/Turtle Bay,Others,2008,3,1
+815000,1,2,3,1,6388036,Stuyvesant Town/Turtle Bay,Others,2008,4,0
+550000,1,2,2,1,6388036,Upper East Side,White,2008,5,0
+3998500,3,2,2,1,6388036,Greenwich Village/Financial District,White,2008,5,2
+3998500,2,3,3,1,6388036,Greenwich Village/Financial District,White,2008,5,0
+3998500,2,3,3,1,6388036,Greenwich Village/Financial District,White,2008,5,0
+3998500,2,2,3,1,6388036,Greenwich Village/Financial District,White,2008,4,1
+3998500,2,2,2,1,12776071,Greenwich Village/Financial District,White,2008,5,1
+3998500,2,2,3,1,18587455,Chelsea/Clinton/Midtown,White,2008,5,1
+3998500,2,2,3,1,12776071,Chelsea/Clinton/Midtown,White,2008,5,1
+700000,2,2,2,1,6388036,Morningside Heights/Hamilton Heights,White,2008,1,2
+610000,3,2,3,1,6388036,Chelsea/Clinton/Midtown,White,2008,5,1
+830000,3,2,3,1,22150232,Chelsea/Clinton/Midtown,White,2008,5,1
+432000,2,2,3,1,6388036,Chelsea/Clinton/Midtown,White,2008,5,1
+405600,1,2,2,1,6388036,Stuyvesant Town/Turtle Bay,Others,2008,4,1
+875000,2,2,2,1,6388036,Stuyvesant Town/Turtle Bay,Others,2008,2,1
+850000,2,2,2,1,12776071,Stuyvesant Town/Turtle Bay,Others,2008,5,1
+600000,4,2,2,1,4889625,Central Harlem,Black,2008,3,0
+600000,4,2,2,1,4889625,Central Harlem,Black,2008,4,0
+850000,4,2,2,1,24956135,Central Harlem,Hispanic,2008,4,1
+850000,3,2,2,1,4889625,Central Harlem,Hispanic,2008,4,1
+660000,4,2,2,1,24956135,Central Harlem,White,2008,5,1
+660000,3,2,2,1,4889625,Central Harlem,White,2008,4,1
+660000,3,2,2,1,4889625,Central Harlem,Black,2008,3,1
+660000,3,2,2,1,4889625,Central Harlem,Others,2008,4,1
+660000,3,2,2,1,4889625,Central Harlem,White,2008,5,1
+660000,3,2,2,1,4889625,Central Harlem,Hispanic,2008,4,1
+660000,3,2,2,1,12644263,Central Harlem,Black,2008,4,1
+660000,4,2,2,1,17780825,Upper East Side,White,2008,4,1
+660000,4,2,2,1,17780825,Upper East Side,White,2008,5,0
+3998500,4,2,2,1,9779250,Upper East Side,White,2008,5,0
+3998500,3,2,2,1,9779250,Upper East Side,White,2008,3,0
+2000000,3,2,2,1,8863057,Upper East Side,White,2008,5,0
+500000,5,2,2,1,24129869,East Harlem,White,2008,5,0
+155000,3,2,2,1,24129869,East Harlem,White,2008,5,1
+155000,1,2,2,1,4889625,Greenwich Village/Financial District,White,2008,3,0
+155000,1,2,2,1,4889625,Greenwich Village/Financial District,White,2008,4,0
+155000,3,2,3,1,9779250,Central Harlem,White,2008,5,2
+2000000,3,2,2,1,9779250,Central Harlem,White,2008,5,0
+3998500,3,2,2,1,9779250,Stuyvesant Town/Turtle Bay,White,2008,4,1
+3998500,4,2,2,1,9779250,Stuyvesant Town/Turtle Bay,White,2008,4,1
+3998500,4,2,2,1,9779250,Stuyvesant Town/Turtle Bay,White,2008,4,1
+3998500,4,2,2,1,29177127,Stuyvesant Town/Turtle Bay,Others,2008,5,1
+3998500,3,2,3,1,4889625,Central Harlem,White,2008,4,1
+3998500,2,2,2,1,4889625,Upper West Side,White,2008,4,1
+3998500,3,2,2,1,19478189,Greenwich Village/Financial District,Others,2008,4,1
+3998500,4,2,2,1,17780825,Greenwich Village/Financial District,White,2008,3,1
+3998500,3,2,2,1,4889625,Greenwich Village/Financial District,White,2008,4,1
+1400000,3,2,2,1,19478189,Morningside Heights/Hamilton Heights,Others,2008,4,1
+1400000,1,2,2,1,9779250,Morningside Heights/Hamilton Heights,White,2008,4,1
+2000000,4,2,2,1,9779250,Morningside Heights/Hamilton Heights,White,2008,5,1
+2000000,4,2,2,1,24956135,Morningside Heights/Hamilton Heights,White,2008,4,1
+600000,4,2,3,1,24129869,Central Harlem,White,2008,4,1
+600000,4,2,3,1,4889625,Central Harlem,Black,2008,2,1
+600000,3,2,2,1,16264428,Morningside Heights/Hamilton Heights,Hispanic,2008,4,2
+700000,3,2,2,1,13100576,Central Harlem,Hispanic,2008,4,1
+500000,3,2,2,1,12644263,Central Harlem,White,2008,4,1
+500000,3,2,3,1,4889625,Central Harlem,White,2008,3,2
+700000,3,2,2,1,12644263,Central Harlem,Black,2008,4,0
+250000,2,2,2,1,4889625,Chelsea/Clinton/Midtown,White,2008,5,1
+1300000,2,2,2,1,4889625,Chelsea/Clinton/Midtown,White,2008,3,0
+1000000,2,2,2,1,4889625,Chelsea/Clinton/Midtown,White,2008,5,0
+1500000,3,2,2,1,14588564,Chelsea/Clinton/Midtown,Others,2008,1,0
+550000,1,2,2,1,4889625,Chelsea/Clinton/Midtown,White,2008,3,0
+550000,1,2,2,1,4889625,Chelsea/Clinton/Midtown,White,2008,5,0
+550000,2,2,2,1,4889625,Chelsea/Clinton/Midtown,Others,2008,5,0
+550000,3,2,2,1,9779250,Chelsea/Clinton/Midtown,White,2008,4,1
+800000,3,2,2,1,6388036,Central Harlem,White,2008,5,1
+550000,3,2,2,1,12776071,Central Harlem,White,2008,5,1
+620000,3,2,2,1,6388036,Central Harlem,White,2008,3,1
+700000,3,2,2,1,6388036,Central Harlem,Others,2008,4,1
+700000,1,2,2,1,12776071,Upper East Side,White,2008,5,0
+700000,1,2,2,1,6388036,Upper East Side,White,2008,3,0
+700000,1,2,2,1,6388036,Upper East Side,White,2008,3,0
+700000,2,2,2,1,25447220,Upper East Side,Others,2008,4,1
+700000,2,2,2,1,6388036,Upper East Side,Others,2008,4,1
+700000,2,2,2,1,6388036,Upper East Side,Others,2008,4,1
+1300000,1,2,2,1,6388036,Greenwich Village/Financial District,White,2008,3,1
+1350000,1,2,2,1,12776071,Greenwich Village/Financial District,White,2008,5,1
+1350000,1,2,2,1,12776071,Greenwich Village/Financial District,White,2008,5,1
+3998500,3,2,2,1,12776071,Greenwich Village/Financial District,White,2008,5,0
+980000,2,2,2,1,6388036,Upper West Side,White,2008,5,1
+735000,2,2,2,1,6388036,Upper West Side,White,2008,5,1
+850000,5,2,2,1,32603866,Upper West Side,White,2008,2,3
+850000,3,2,2,1,12776071,Upper West Side,Others,2008,2,2
+850000,4,8,2,1,29657918,Upper West Side,Black,2008,4,3
+3998500,4,2,2,1,23229705,Upper East Side,White,2008,5,2
+3998500,4,2,2,1,41978027,Upper East Side,White,2008,5,2
+3998500,3,2,2,1,6388036,Upper East Side,White,2008,3,2
+3998500,4,2,2,1,22150232,Upper East Side,White,2008,5,2
+3998500,4,2,2,1,12776071,Stuyvesant Town/Turtle Bay,White,2008,5,2
+3998500,3,2,2,1,12776071,Stuyvesant Town/Turtle Bay,White,2008,5,2
+3998500,3,2,2,1,12776071,Stuyvesant Town/Turtle Bay,White,2008,5,2
+3998500,4,2,2,1,6388036,Stuyvesant Town/Turtle Bay,White,2008,5,2
+3998500,3,2,2,1,12776071,Stuyvesant Town/Turtle Bay,Hispanic,2008,2,1
+700000,2,2,2,1,12776071,Chelsea/Clinton/Midtown,White,2008,5,1
+700000,3,2,2,1,23229705,Chelsea/Clinton/Midtown,White,2008,5,1
+700000,3,2,2,1,6388036,Chelsea/Clinton/Midtown,Hispanic,2008,3,1
+700000,3,2,2,1,6388036,Chelsea/Clinton/Midtown,White,2008,5,1
+700000,4,2,2,1,31524394,Chelsea/Clinton/Midtown,White,2008,5,1
+760000,1,2,2,1,37993894,Greenwich Village/Financial District,White,2008,4,0
+760000,2,2,2,1,37993894,Greenwich Village/Financial District,White,2008,5,0
+760000,2,2,2,1,37993894,Greenwich Village/Financial District,White,2008,4,1
+760000,1,2,2,1,18996947,Greenwich Village/Financial District,Hispanic,2008,1,0
+1200000,2,2,2,1,18996947,Upper West Side,Others,2008,2,0
+3998500,4,2,2,1,69081247,Upper West Side,White,2008,5,1
+1500000,3,2,2,1,37993894,Upper West Side,Others,2008,5,0
+1500000,4,2,3,1,18996947,Upper West Side,White,2008,3,2
+1500000,3,2,3,1,65871078,Upper East Side,White,2008,5,0
+1500000,3,2,3,1,3657496,Washington Heights/Inwood,Hispanic,2008,4,0
+1500000,4,2,3,2,5803233,Washington Heights/Inwood,Hispanic,2008,4,1
+1500000,4,2,2,2,707489,Central Harlem,Black,2008,3,2
+1500000,4,2,2,2,1894786,Central Harlem,Black,2008,3,2
